@@ -1,0 +1,46 @@
+4.1 Nuclear expansion
+  Nuclear primary energy, main: 2030 12.8, 2050 38.8, peak 82.4 EJ/yr in 2080, 2100 62.5
+  Capacity relative to 2020, main: 2050 2.98, peak 6.56 in 2084
+  Capacity relative to 2020, counterfactual: 2050 1.35
+  Capacity relative to 2020, baseline: 2050 1.18
+  Nuclear 2080: counterfactual 32.6, subsidy adds 27.7, breakthrough adds 22.2 EJ/yr
+  Capacity first reaches 3 times its 2020 value in 2051
+  pr_0.90: nuclear 2080 changes by +12 %
+  pr_1.00: nuclear 2080 changes by -3 %
+4.2 Energy mix
+  Share of primary energy 2050: nuclear 6.4 %, renewables 31.0 %
+  Share of primary energy 2080: nuclear 13.4 %, renewables 49.8 %
+  Coal: 2020 170.6 -> 2080 15.8 EJ/yr; oil 2080 78.5; gas 2080 78.7
+  New zero-carbon: first year above 1 EJ/yr 2080; 2100 40.3 EJ/yr (6.2 % of primary energy)
+  Main minus counterfactual, 2080 (EJ/yr): Coal -1.3, Oil -1.0, Natural gas -16.6, Nuclear +49.9, New zero-carbon -0.0, Bioenergy -5.8, Renewables -33.1
+  Share of added nuclear that replaced renewables: 0.66
+  Nuclear policy on baseline, 2080: nuclear +41.8, renewables -23.2 EJ/yr; share replacing renewables 0.55
+4.3 Emissions and temperature
+  Net GHG, main: peak 61.4 in 2027, 2100 31.0 (-55 % vs baseline)
+  Cumulative GHG 2020-2100 vs baseline: -33 %
+  Temperature 2100: main 2.532, baseline 3.295 degC; mean 2081-2100: main 2.450, baseline 3.074
+  Warming rate 2090-2100: main 0.085, baseline 0.230 degC per decade
+4.4 Economy
+  Electricity price 2020 0.1324; main max after 2027 0.1304 in 2034; 2080 0.1115 US$/kWh
+  Largest year-to-year change after 2027: 1.4 %
+  Main vs baseline 2040-2100: 0.5 to 6.9 %; main vs counterfactual 2080: -12 %
+  Average energy price: 2020 29.9 -> 2100 41.7 US$/GJ, 17 % vs baseline, -8 % vs counterfactual
+  Average energy price vs baseline: max 21.6 % in 2062
+  Net revenue positive from 2028; peak 1.64 x10^12 US$/yr in 2048
+  Cost of nuclear policy (counterfactual minus main revenue), 2028-2100: 29.5 x10^12 US$ (mean 0.40 per year)
+  GDP per capita growth 2020-2100: compound 1.57 vs 1.51 % per year; mean of annual rates 1.49 vs 1.43; minimum after 2025 1.26
+  GDP per capita 2100: 5.1 % vs baseline; nuclear policy adds 0.2 %
+  Reduction in GDP from climate impacts, 2100: main 21.2 %, baseline 25.6 %, counterfactual 21.5 %
+4.5 Air pollution
+  PM2.5 main: peak 23.7 Mt/yr in 2024, 2100 3.7 (-88 % vs baseline, -7 % vs counterfactual)
+  Baseline minimum in 2046
+4.6 Contribution of nuclear power
+  Avoided warming main vs baseline: 0.763 degC
+  Nuclear contribution T_cf - T_main: 0.031 degC; f_nuc = 4.0 %
+  Subsidy: 0.018 degC; breakthrough: 0.013 degC
+  Cumulative GHG main vs counterfactual: -2.0 %
+  Nuclear policy on baseline: lowers 2100 warming by 0.062 degC
+  ECS 2.5 / 4.0: 2.16 / 3.22 degC; 2020 warming 1.17 / 1.63
+  ECS 2.5: nuclear contribution T_cf - T_main 0.027 degC
+  ECS 4.0: nuclear contribution T_cf - T_main 0.038 degC
+  PR 0.90 / 1.00 change 2100 warming by -0.004 / +0.001 degC

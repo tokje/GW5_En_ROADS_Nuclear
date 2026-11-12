@@ -1,0 +1,12 @@
+Simulation,T2100 (degC),T mean 2081-2100 (degC),Nuclear 2080 (EJ/yr),Net GHG 2100 (Gt CO2-eq/yr)
+Baseline,3.295,3.074,21.168,69.421
+Main scenario,2.532,2.450,82.448,30.962
+Counterfactual (nuclear at status quo),2.563,2.475,32.580,32.244
+Nuclear subsidy without R&D breakthrough,2.545,2.460,60.273,31.612
+"Nuclear policy only, applied to baseline",3.233,3.022,62.969,66.813
+"Main scenario, ECS = 2.5 °C",2.165,2.099,82.507,30.815
+"Main scenario, ECS = 4.0 °C",3.221,3.107,82.625,31.300
+"Counterfactual, ECS = 2.5 °C",2.192,2.120,32.600,32.093
+"Counterfactual, ECS = 4.0 °C",3.258,3.136,32.663,32.594
+"Main scenario, nuclear PR = 0.90",2.528,2.447,92.315,30.661
+"Main scenario, nuclear PR = 1.00",2.533,2.451,80.038,31.040
