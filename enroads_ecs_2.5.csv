@@ -1,0 +1,3221 @@
+# url=https://en-roads.climateinteractive.org/scenario.html?v=26.11.0&p516=30&p211=54&p196=21&p202=2040&p517=56&p518=-13&p520=-60&p18=2065&p519=13&p472=1&p474=60&p32=2080&p33=30&p34=2038&p210=1&p36=2070&p39=40&p41=15&p42=150&p43=2040&p44=20&p265=1&p47=1.9&p50=1.2&p373=25&p375=25&p61=28&p78=2.5
+graph,series,year,value
+Temperature Change,baseline,1990,0.638566212
+Temperature Change,baseline,1991,0.6385435867938613
+Temperature Change,baseline,1992,0.5368157426698393
+Temperature Change,baseline,1993,0.46865594013486805
+Temperature Change,baseline,1994,0.521402503430294
+Temperature Change,baseline,1995,0.5884118616496476
+Temperature Change,baseline,1996,0.6436489026559766
+Temperature Change,baseline,1997,0.6851591549752443
+Temperature Change,baseline,1998,0.7163569655474717
+Temperature Change,baseline,1999,0.7619571622326566
+Temperature Change,baseline,2000,0.8165714199592969
+Temperature Change,baseline,2001,0.8632275084258487
+Temperature Change,baseline,2002,0.8953553084447222
+Temperature Change,baseline,2003,0.9107382201200257
+Temperature Change,baseline,2004,0.9187406050359938
+Temperature Change,baseline,2005,0.9246319135906544
+Temperature Change,baseline,2006,0.9254101632662932
+Temperature Change,baseline,2007,0.9303457603073089
+Temperature Change,baseline,2008,0.9469767421236399
+Temperature Change,baseline,2009,0.973375158109103
+Temperature Change,baseline,2010,1.0061188750358963
+Temperature Change,baseline,2011,1.041474752978121
+Temperature Change,baseline,2012,1.076080588522587
+Temperature Change,baseline,2013,1.1173385569960181
+Temperature Change,baseline,2014,1.1616045057263917
+Temperature Change,baseline,2015,1.2004869694386564
+Temperature Change,baseline,2016,1.2332260771659247
+Temperature Change,baseline,2017,1.258936231282505
+Temperature Change,baseline,2018,1.2822698947685587
+Temperature Change,baseline,2019,1.305442407261527
+Temperature Change,baseline,2020,1.333598325279293
+Temperature Change,baseline,2021,1.365120209394622
+Temperature Change,baseline,2022,1.3943740148112156
+Temperature Change,baseline,2023,1.4219284493610085
+Temperature Change,baseline,2024,1.4481681124494712
+Temperature Change,baseline,2025,1.4741661616748998
+Temperature Change,baseline,2026,1.5005388923970686
+Temperature Change,baseline,2027,1.5264856932578663
+Temperature Change,baseline,2028,1.5517690662274783
+Temperature Change,baseline,2029,1.5766903980230145
+Temperature Change,baseline,2030,1.6016429811910802
+Temperature Change,baseline,2031,1.6270311520810787
+Temperature Change,baseline,2032,1.6530351242808428
+Temperature Change,baseline,2033,1.6794739514175987
+Temperature Change,baseline,2034,1.7061266771518142
+Temperature Change,baseline,2035,1.732691619220477
+Temperature Change,baseline,2036,1.7589427864298108
+Temperature Change,baseline,2037,1.7847995227319908
+Temperature Change,baseline,2038,1.8101613481740102
+Temperature Change,baseline,2039,1.8348257610278085
+Temperature Change,baseline,2040,1.8589832338132057
+Temperature Change,baseline,2041,1.8830667829064789
+Temperature Change,baseline,2042,1.9074257593031978
+Temperature Change,baseline,2043,1.932257070326397
+Temperature Change,baseline,2044,1.9573988068253552
+Temperature Change,baseline,2045,1.982634849954407
+Temperature Change,baseline,2046,2.0078169035757223
+Temperature Change,baseline,2047,2.032840569764004
+Temperature Change,baseline,2048,2.0575404152671077
+Temperature Change,baseline,2049,2.081856580493552
+Temperature Change,baseline,2050,2.1057473717274258
+Temperature Change,baseline,2051,2.129348615736194
+Temperature Change,baseline,2052,2.1526937762992264
+Temperature Change,baseline,2053,2.1756435645308425
+Temperature Change,baseline,2054,2.1984734917687794
+Temperature Change,baseline,2055,2.2214788512279258
+Temperature Change,baseline,2056,2.2446497131294043
+Temperature Change,baseline,2057,2.267884440892428
+Temperature Change,baseline,2058,2.291190836815681
+Temperature Change,baseline,2059,2.314534491956751
+Temperature Change,baseline,2060,2.3377564318574704
+Temperature Change,baseline,2061,2.3608929339955917
+Temperature Change,baseline,2062,2.3842165162827915
+Temperature Change,baseline,2063,2.4079058517919405
+Temperature Change,baseline,2064,2.4318576754588666
+Temperature Change,baseline,2065,2.4559362834022664
+Temperature Change,baseline,2066,2.480091228019388
+Temperature Change,baseline,2067,2.504286461483514
+Temperature Change,baseline,2068,2.5285245321550756
+Temperature Change,baseline,2069,2.552709149289976
+Temperature Change,baseline,2070,2.576720981766079
+Temperature Change,baseline,2071,2.600508499066223
+Temperature Change,baseline,2072,2.623989898869617
+Temperature Change,baseline,2073,2.647161966645342
+Temperature Change,baseline,2074,2.6703207422360427
+Temperature Change,baseline,2075,2.6938344142208015
+Temperature Change,baseline,2076,2.717940410154972
+Temperature Change,baseline,2077,2.742673713232464
+Temperature Change,baseline,2078,2.7678541391189944
+Temperature Change,baseline,2079,2.79331130409623
+Temperature Change,baseline,2080,2.8188741251884086
+Temperature Change,baseline,2081,2.844204538415669
+Temperature Change,baseline,2082,2.869140832744259
+Temperature Change,baseline,2083,2.8936684920890965
+Temperature Change,baseline,2084,2.9178130123366217
+Temperature Change,baseline,2085,2.941764992408797
+Temperature Change,baseline,2086,2.965797981785265
+Temperature Change,baseline,2087,2.9901899950100006
+Temperature Change,baseline,2088,3.0150253425155267
+Temperature Change,baseline,2089,3.0400694381969497
+Temperature Change,baseline,2090,3.0651559615389083
+Temperature Change,baseline,2091,3.0899810771916973
+Temperature Change,baseline,2092,3.1142348861379183
+Temperature Change,baseline,2093,3.137997075453569
+Temperature Change,baseline,2094,3.1613277097798154
+Temperature Change,baseline,2095,3.184277154667968
+Temperature Change,baseline,2096,3.206964552275468
+Temperature Change,baseline,2097,3.2293272951395195
+Temperature Change,baseline,2098,3.251313408217923
+Temperature Change,baseline,2099,3.2731685964810575
+Temperature Change,baseline,2100,3.2949766039282125
+Temperature Change,scenario,1990,0.638566212
+Temperature Change,scenario,1991,0.6075023534501479
+Temperature Change,scenario,1992,0.4901595619789912
+Temperature Change,scenario,1993,0.4184722870887925
+Temperature Change,scenario,1994,0.46847550735741234
+Temperature Change,scenario,1995,0.5299411575408691
+Temperature Change,scenario,1996,0.5784855345456137
+Temperature Change,scenario,1997,0.61319203601401
+Temperature Change,scenario,1998,0.6385060672128837
+Temperature Change,scenario,1999,0.6785494105687158
+Temperature Change,scenario,2000,0.7270149155232142
+Temperature Change,scenario,2001,0.7672351660189405
+Temperature Change,scenario,2002,0.7934036588024631
+Temperature Change,scenario,2003,0.8039471409379868
+Temperature Change,scenario,2004,0.8084884083575216
+Temperature Change,scenario,2005,0.8117909496278283
+Temperature Change,scenario,2006,0.8107467518064655
+Temperature Change,scenario,2007,0.8143402644737165
+Temperature Change,scenario,2008,0.8294374508046114
+Temperature Change,scenario,2009,0.8535740935533722
+Temperature Change,scenario,2010,0.883260242685491
+Temperature Change,scenario,2011,0.9148317497010178
+Temperature Change,scenario,2012,0.9452564371271395
+Temperature Change,scenario,2013,0.9820061032715564
+Temperature Change,scenario,2014,1.0211631991788168
+Temperature Change,scenario,2015,1.0547924772259252
+Temperature Change,scenario,2016,1.0824366027829992
+Temperature Change,scenario,2017,1.1035684821377114
+Temperature Change,scenario,2018,1.1228312762340986
+Temperature Change,scenario,2019,1.1422925741439065
+Temperature Change,scenario,2020,1.166823162012567
+Temperature Change,scenario,2021,1.1944551000467294
+Temperature Change,scenario,2022,1.2196919071160537
+Temperature Change,scenario,2023,1.2432644430253257
+Temperature Change,scenario,2024,1.2656194633066888
+Temperature Change,scenario,2025,1.2878357049800513
+Temperature Change,scenario,2026,1.3104640033447603
+Temperature Change,scenario,2027,1.3326878655570884
+Temperature Change,scenario,2028,1.3542842545959815
+Temperature Change,scenario,2029,1.375518986947054
+Temperature Change,scenario,2030,1.396712025520174
+Temperature Change,scenario,2031,1.4181946087565642
+Temperature Change,scenario,2032,1.4400732198866064
+Temperature Change,scenario,2033,1.4621158058607162
+Temperature Change,scenario,2034,1.4840697125734978
+Temperature Change,scenario,2035,1.5056178488746168
+Temperature Change,scenario,2036,1.5265293888458211
+Temperature Change,scenario,2037,1.546719017868523
+Temperature Change,scenario,2038,1.5660785305492313
+Temperature Change,scenario,2039,1.584409222959896
+Temperature Change,scenario,2040,1.6019099649916446
+Temperature Change,scenario,2041,1.6189910128609737
+Temperature Change,scenario,2042,1.635963313685527
+Temperature Change,scenario,2043,1.6529823218705773
+Temperature Change,scenario,2044,1.6698619229915075
+Temperature Change,scenario,2045,1.6863798949951847
+Temperature Change,scenario,2046,1.7024001610496602
+Temperature Change,scenario,2047,1.7178316036499857
+Temperature Change,scenario,2048,1.7325231220241706
+Temperature Change,scenario,2049,1.7464315661013947
+Temperature Change,scenario,2050,1.7595302465385931
+Temperature Change,scenario,2051,1.7719676101484294
+Temperature Change,scenario,2052,1.7837772801360454
+Temperature Change,scenario,2053,1.794832759778719
+Temperature Change,scenario,2054,1.805417298874717
+Temperature Change,scenario,2055,1.8158165142310387
+Temperature Change,scenario,2056,1.8260123721903176
+Temperature Change,scenario,2057,1.8359080524574014
+Temperature Change,scenario,2058,1.8455226564146983
+Temperature Change,scenario,2059,1.8548391669784656
+Temperature Change,scenario,2060,1.8637228929091332
+Temperature Change,scenario,2061,1.8722351757234563
+Temperature Change,scenario,2062,1.8806595797809125
+Temperature Change,scenario,2063,1.8891752637792814
+Temperature Change,scenario,2064,1.8976875370829651
+Temperature Change,scenario,2065,1.9060860492175415
+Temperature Change,scenario,2066,1.9143443328730625
+Temperature Change,scenario,2067,1.9224536464127253
+Temperature Change,scenario,2068,1.9304369170746094
+Temperature Change,scenario,2069,1.938219938492164
+Temperature Change,scenario,2070,1.9457092832732765
+Temperature Change,scenario,2071,1.9528794079456955
+Temperature Change,scenario,2072,1.959670758513427
+Temperature Change,scenario,2073,1.9661033293039434
+Temperature Change,scenario,2074,1.9724832250033015
+Temperature Change,scenario,2075,1.979171365309914
+Temperature Change,scenario,2076,1.9863896249901505
+Temperature Change,scenario,2077,1.9941618981769749
+Temperature Change,scenario,2078,2.0023091821235166
+Temperature Change,scenario,2079,2.010677878436713
+Temperature Change,scenario,2080,2.019117382452075
+Temperature Change,scenario,2081,2.0273127743873385
+Temperature Change,scenario,2082,2.0351477682295744
+Temperature Change,scenario,2083,2.042632623143456
+Temperature Change,scenario,2084,2.049809317939803
+Temperature Change,scenario,2085,2.05687360418104
+Temperature Change,scenario,2086,2.0640906045779226
+Temperature Change,scenario,2087,2.0717212479827105
+Temperature Change,scenario,2088,2.0798300893028823
+Temperature Change,scenario,2089,2.08817709565116
+Temperature Change,scenario,2090,2.096605899077936
+Temperature Change,scenario,2091,2.104826359811396
+Temperature Change,scenario,2092,2.112557541045302
+Temperature Change,scenario,2093,2.1198953251194057
+Temperature Change,scenario,2094,2.1269030228542816
+Temperature Change,scenario,2095,2.1336291030847248
+Temperature Change,scenario,2096,2.140187582796552
+Temperature Change,scenario,2097,2.146508098226691
+Temperature Change,scenario,2098,2.152541092602007
+Temperature Change,scenario,2099,2.1585232477279006
+Temperature Change,scenario,2100,2.1645220362152826
+Greenhouse Gas Net Emissions,baseline,1990,37.681539533424306
+Greenhouse Gas Net Emissions,baseline,1991,37.52341788101296
+Greenhouse Gas Net Emissions,baseline,1992,37.416761153804856
+Greenhouse Gas Net Emissions,baseline,1993,37.32855935880005
+Greenhouse Gas Net Emissions,baseline,1994,37.31561070881607
+Greenhouse Gas Net Emissions,baseline,1995,37.42631979588247
+Greenhouse Gas Net Emissions,baseline,1996,37.6434599254712
+Greenhouse Gas Net Emissions,baseline,1997,38.00200496711914
+Greenhouse Gas Net Emissions,baseline,1998,38.43134067090688
+Greenhouse Gas Net Emissions,baseline,1999,38.878944317549035
+Greenhouse Gas Net Emissions,baseline,2000,39.45963716700571
+Greenhouse Gas Net Emissions,baseline,2001,40.10432896336139
+Greenhouse Gas Net Emissions,baseline,2002,40.73737808607975
+Greenhouse Gas Net Emissions,baseline,2003,41.414787771515876
+Greenhouse Gas Net Emissions,baseline,2004,42.24097147456823
+Greenhouse Gas Net Emissions,baseline,2005,43.243584861664985
+Greenhouse Gas Net Emissions,baseline,2006,44.299095951076964
+Greenhouse Gas Net Emissions,baseline,2007,45.48210769484029
+Greenhouse Gas Net Emissions,baseline,2008,46.68238696770866
+Greenhouse Gas Net Emissions,baseline,2009,47.741956711779764
+Greenhouse Gas Net Emissions,baseline,2010,48.67157993475216
+Greenhouse Gas Net Emissions,baseline,2011,49.8283947749054
+Greenhouse Gas Net Emissions,baseline,2012,51.02920817410719
+Greenhouse Gas Net Emissions,baseline,2013,52.18437163491836
+Greenhouse Gas Net Emissions,baseline,2014,53.317440496329716
+Greenhouse Gas Net Emissions,baseline,2015,54.325092156178485
+Greenhouse Gas Net Emissions,baseline,2016,55.364127828908735
+Greenhouse Gas Net Emissions,baseline,2017,56.35186252456117
+Greenhouse Gas Net Emissions,baseline,2018,57.36185820314055
+Greenhouse Gas Net Emissions,baseline,2019,58.24458700776515
+Greenhouse Gas Net Emissions,baseline,2020,58.82983549992397
+Greenhouse Gas Net Emissions,baseline,2021,59.02224977531241
+Greenhouse Gas Net Emissions,baseline,2022,59.52235348050746
+Greenhouse Gas Net Emissions,baseline,2023,60.02007519817405
+Greenhouse Gas Net Emissions,baseline,2024,60.50470678975408
+Greenhouse Gas Net Emissions,baseline,2025,60.922625814059735
+Greenhouse Gas Net Emissions,baseline,2026,61.21538261348234
+Greenhouse Gas Net Emissions,baseline,2027,61.4369135966739
+Greenhouse Gas Net Emissions,baseline,2028,61.610746220608256
+Greenhouse Gas Net Emissions,baseline,2029,61.7489442921771
+Greenhouse Gas Net Emissions,baseline,2030,61.8571966916135
+Greenhouse Gas Net Emissions,baseline,2031,61.9395609717736
+Greenhouse Gas Net Emissions,baseline,2032,61.99786084894103
+Greenhouse Gas Net Emissions,baseline,2033,62.03805391696053
+Greenhouse Gas Net Emissions,baseline,2034,62.06036989623297
+Greenhouse Gas Net Emissions,baseline,2035,62.07160514464233
+Greenhouse Gas Net Emissions,baseline,2036,62.077838656857026
+Greenhouse Gas Net Emissions,baseline,2037,62.08439828846224
+Greenhouse Gas Net Emissions,baseline,2038,62.09670168169973
+Greenhouse Gas Net Emissions,baseline,2039,62.11522838282999
+Greenhouse Gas Net Emissions,baseline,2040,62.1427483425008
+Greenhouse Gas Net Emissions,baseline,2041,62.18020041451932
+Greenhouse Gas Net Emissions,baseline,2042,62.22525418256526
+Greenhouse Gas Net Emissions,baseline,2043,62.27517139790918
+Greenhouse Gas Net Emissions,baseline,2044,62.32874918216651
+Greenhouse Gas Net Emissions,baseline,2045,62.386038513111664
+Greenhouse Gas Net Emissions,baseline,2046,62.44956405162286
+Greenhouse Gas Net Emissions,baseline,2047,62.520774176413916
+Greenhouse Gas Net Emissions,baseline,2048,62.60016732521221
+Greenhouse Gas Net Emissions,baseline,2049,62.68773422267744
+Greenhouse Gas Net Emissions,baseline,2050,62.78487849876905
+Greenhouse Gas Net Emissions,baseline,2051,62.89227415861944
+Greenhouse Gas Net Emissions,baseline,2052,63.01135091686635
+Greenhouse Gas Net Emissions,baseline,2053,63.14173302745972
+Greenhouse Gas Net Emissions,baseline,2054,63.282801660120214
+Greenhouse Gas Net Emissions,baseline,2055,63.4335711663361
+Greenhouse Gas Net Emissions,baseline,2056,63.592859780381765
+Greenhouse Gas Net Emissions,baseline,2057,63.75986875131076
+Greenhouse Gas Net Emissions,baseline,2058,63.93422948125522
+Greenhouse Gas Net Emissions,baseline,2059,64.11522822661479
+Greenhouse Gas Net Emissions,baseline,2060,64.30162374971258
+Greenhouse Gas Net Emissions,baseline,2061,64.49260716582535
+Greenhouse Gas Net Emissions,baseline,2062,64.68757506578875
+Greenhouse Gas Net Emissions,baseline,2063,64.88586464338668
+Greenhouse Gas Net Emissions,baseline,2064,65.08680749514495
+Greenhouse Gas Net Emissions,baseline,2065,65.2894998846317
+Greenhouse Gas Net Emissions,baseline,2066,65.49319996152465
+Greenhouse Gas Net Emissions,baseline,2067,65.69682227431755
+Greenhouse Gas Net Emissions,baseline,2068,65.89850563378673
+Greenhouse Gas Net Emissions,baseline,2069,66.09563804937605
+Greenhouse Gas Net Emissions,baseline,2070,66.28774424802359
+Greenhouse Gas Net Emissions,baseline,2071,66.47469679837714
+Greenhouse Gas Net Emissions,baseline,2072,66.65573163996997
+Greenhouse Gas Net Emissions,baseline,2073,66.83007970663172
+Greenhouse Gas Net Emissions,baseline,2074,66.99814233295817
+Greenhouse Gas Net Emissions,baseline,2075,67.15970099273711
+Greenhouse Gas Net Emissions,baseline,2076,67.31427210022753
+Greenhouse Gas Net Emissions,baseline,2077,67.46115540692898
+Greenhouse Gas Net Emissions,baseline,2078,67.59965775924067
+Greenhouse Gas Net Emissions,baseline,2079,67.7295975195876
+Greenhouse Gas Net Emissions,baseline,2080,67.85112834211657
+Greenhouse Gas Net Emissions,baseline,2081,67.96467572154444
+Greenhouse Gas Net Emissions,baseline,2082,68.07112627316728
+Greenhouse Gas Net Emissions,baseline,2083,68.17108810020142
+Greenhouse Gas Net Emissions,baseline,2084,68.26524290091885
+Greenhouse Gas Net Emissions,baseline,2085,68.35434677488087
+Greenhouse Gas Net Emissions,baseline,2086,68.4389694378084
+Greenhouse Gas Net Emissions,baseline,2087,68.51953439769812
+Greenhouse Gas Net Emissions,baseline,2088,68.59647951653344
+Greenhouse Gas Net Emissions,baseline,2089,68.67016098812735
+Greenhouse Gas Net Emissions,baseline,2090,68.74099966732237
+Greenhouse Gas Net Emissions,baseline,2091,68.80933311221102
+Greenhouse Gas Net Emissions,baseline,2092,68.8759467797399
+Greenhouse Gas Net Emissions,baseline,2093,68.9413076315676
+Greenhouse Gas Net Emissions,baseline,2094,69.00588245660798
+Greenhouse Gas Net Emissions,baseline,2095,69.06983684613358
+Greenhouse Gas Net Emissions,baseline,2096,69.13330340076135
+Greenhouse Gas Net Emissions,baseline,2097,69.19640875400896
+Greenhouse Gas Net Emissions,baseline,2098,69.27388357306297
+Greenhouse Gas Net Emissions,baseline,2099,69.3479227650022
+Greenhouse Gas Net Emissions,baseline,2100,69.42142241361331
+Greenhouse Gas Net Emissions,scenario,1990,37.681539533424306
+Greenhouse Gas Net Emissions,scenario,1991,37.5201009383306
+Greenhouse Gas Net Emissions,scenario,1992,37.41322765088062
+Greenhouse Gas Net Emissions,scenario,1993,37.325325830231435
+Greenhouse Gas Net Emissions,scenario,1994,37.311677373483526
+Greenhouse Gas Net Emissions,scenario,1995,37.421160595092154
+Greenhouse Gas Net Emissions,scenario,1996,37.63682873378145
+Greenhouse Gas Net Emissions,scenario,1997,37.9938180747318
+Greenhouse Gas Net Emissions,scenario,1998,38.42162821335429
+Greenhouse Gas Net Emissions,scenario,1999,38.867139142721115
+Greenhouse Gas Net Emissions,scenario,2000,39.445044345504805
+Greenhouse Gas Net Emissions,scenario,2001,40.08671083902085
+Greenhouse Gas Net Emissions,scenario,2002,40.71698634284169
+Greenhouse Gas Net Emissions,scenario,2003,41.39225902352816
+Greenhouse Gas Net Emissions,scenario,2004,42.216710970497395
+Greenhouse Gas Net Emissions,scenario,2005,43.217754993364316
+Greenhouse Gas Net Emissions,scenario,2006,44.272006244664844
+Greenhouse Gas Net Emissions,scenario,2007,45.4536160919514
+Greenhouse Gas Net Emissions,scenario,2008,46.65184157193877
+Greenhouse Gas Net Emissions,scenario,2009,47.70868272181499
+Greenhouse Gas Net Emissions,scenario,2010,48.63503331317689
+Greenhouse Gas Net Emissions,scenario,2011,49.788137874060254
+Greenhouse Gas Net Emissions,scenario,2012,50.985011088268585
+Greenhouse Gas Net Emissions,scenario,2013,52.135587741143965
+Greenhouse Gas Net Emissions,scenario,2014,53.26360750913569
+Greenhouse Gas Net Emissions,scenario,2015,54.266369206755826
+Greenhouse Gas Net Emissions,scenario,2016,55.300840366809744
+Greenhouse Gas Net Emissions,scenario,2017,56.28446465238273
+Greenhouse Gas Net Emissions,scenario,2018,57.29059526767895
+Greenhouse Gas Net Emissions,scenario,2019,58.169528792766876
+Greenhouse Gas Net Emissions,scenario,2020,58.75080473198365
+Greenhouse Gas Net Emissions,scenario,2021,58.93846345317246
+Greenhouse Gas Net Emissions,scenario,2022,59.43419457016703
+Greenhouse Gas Net Emissions,scenario,2023,59.927754009479735
+Greenhouse Gas Net Emissions,scenario,2024,60.4084535317198
+Greenhouse Gas Net Emissions,scenario,2025,60.822855691766186
+Greenhouse Gas Net Emissions,scenario,2026,61.11279551335351
+Greenhouse Gas Net Emissions,scenario,2027,61.331880284836174
+Greenhouse Gas Net Emissions,scenario,2028,61.29491844255526
+Greenhouse Gas Net Emissions,scenario,2029,61.09902159958528
+Greenhouse Gas Net Emissions,scenario,2030,60.82819831588985
+Greenhouse Gas Net Emissions,scenario,2031,60.475526180352745
+Greenhouse Gas Net Emissions,scenario,2032,60.03728501693133
+Greenhouse Gas Net Emissions,scenario,2033,59.51969115857734
+Greenhouse Gas Net Emissions,scenario,2034,58.92595532117422
+Greenhouse Gas Net Emissions,scenario,2035,58.26650049078151
+Greenhouse Gas Net Emissions,scenario,2036,57.550447847656656
+Greenhouse Gas Net Emissions,scenario,2037,56.784735218056156
+Greenhouse Gas Net Emissions,scenario,2038,56.02729550546666
+Greenhouse Gas Net Emissions,scenario,2039,55.27840142600483
+Greenhouse Gas Net Emissions,scenario,2040,54.51041182703038
+Greenhouse Gas Net Emissions,scenario,2041,53.68824136512032
+Greenhouse Gas Net Emissions,scenario,2042,52.87449326636638
+Greenhouse Gas Net Emissions,scenario,2043,52.02163854615916
+Greenhouse Gas Net Emissions,scenario,2044,51.14691931216251
+Greenhouse Gas Net Emissions,scenario,2045,50.28574159299049
+Greenhouse Gas Net Emissions,scenario,2046,49.43875324482504
+Greenhouse Gas Net Emissions,scenario,2047,48.605016823502396
+Greenhouse Gas Net Emissions,scenario,2048,47.7751841625707
+Greenhouse Gas Net Emissions,scenario,2049,46.95648040974937
+Greenhouse Gas Net Emissions,scenario,2050,46.147470325063935
+Greenhouse Gas Net Emissions,scenario,2051,45.34738299241578
+Greenhouse Gas Net Emissions,scenario,2052,44.56414877545601
+Greenhouse Gas Net Emissions,scenario,2053,43.798248793795594
+Greenhouse Gas Net Emissions,scenario,2054,43.049217624880214
+Greenhouse Gas Net Emissions,scenario,2055,42.316706967556684
+Greenhouse Gas Net Emissions,scenario,2056,41.60066025597336
+Greenhouse Gas Net Emissions,scenario,2057,40.90179531697668
+Greenhouse Gas Net Emissions,scenario,2058,40.24007143359896
+Greenhouse Gas Net Emissions,scenario,2059,39.600657173923224
+Greenhouse Gas Net Emissions,scenario,2060,38.98616814545585
+Greenhouse Gas Net Emissions,scenario,2061,38.39914788291719
+Greenhouse Gas Net Emissions,scenario,2062,37.83968005678844
+Greenhouse Gas Net Emissions,scenario,2063,37.33217292782842
+Greenhouse Gas Net Emissions,scenario,2064,36.87565192386558
+Greenhouse Gas Net Emissions,scenario,2065,36.449852071156535
+Greenhouse Gas Net Emissions,scenario,2066,36.05173549328643
+Greenhouse Gas Net Emissions,scenario,2067,35.68240534994691
+Greenhouse Gas Net Emissions,scenario,2068,35.34455501595484
+Greenhouse Gas Net Emissions,scenario,2069,35.03299839671288
+Greenhouse Gas Net Emissions,scenario,2070,34.74264092521987
+Greenhouse Gas Net Emissions,scenario,2071,34.471340705732075
+Greenhouse Gas Net Emissions,scenario,2072,34.218077470970634
+Greenhouse Gas Net Emissions,scenario,2073,33.98200625779124
+Greenhouse Gas Net Emissions,scenario,2074,33.7625857783309
+Greenhouse Gas Net Emissions,scenario,2075,33.55800867508522
+Greenhouse Gas Net Emissions,scenario,2076,33.366004631143824
+Greenhouse Gas Net Emissions,scenario,2077,33.18460951306109
+Greenhouse Gas Net Emissions,scenario,2078,33.0124484918843
+Greenhouse Gas Net Emissions,scenario,2079,32.8486223182931
+Greenhouse Gas Net Emissions,scenario,2080,32.69252805485762
+Greenhouse Gas Net Emissions,scenario,2081,32.56025974265138
+Greenhouse Gas Net Emissions,scenario,2082,32.443367412057526
+Greenhouse Gas Net Emissions,scenario,2083,32.331242805391796
+Greenhouse Gas Net Emissions,scenario,2084,32.22443344054483
+Greenhouse Gas Net Emissions,scenario,2085,32.12325683823939
+Greenhouse Gas Net Emissions,scenario,2086,32.02828072814226
+Greenhouse Gas Net Emissions,scenario,2087,31.93670458526131
+Greenhouse Gas Net Emissions,scenario,2088,31.847809301553625
+Greenhouse Gas Net Emissions,scenario,2089,31.761022290786087
+Greenhouse Gas Net Emissions,scenario,2090,31.68436989203464
+Greenhouse Gas Net Emissions,scenario,2091,31.607658717254726
+Greenhouse Gas Net Emissions,scenario,2092,31.52301639503181
+Greenhouse Gas Net Emissions,scenario,2093,31.432047413952336
+Greenhouse Gas Net Emissions,scenario,2094,31.342680763073396
+Greenhouse Gas Net Emissions,scenario,2095,31.257405440160838
+Greenhouse Gas Net Emissions,scenario,2096,31.174852463199127
+Greenhouse Gas Net Emissions,scenario,2097,31.0926460147287
+Greenhouse Gas Net Emissions,scenario,2098,31.007636808729913
+Greenhouse Gas Net Emissions,scenario,2099,30.916249621376224
+Greenhouse Gas Net Emissions,scenario,2100,30.815335820721856
+Nuclear Primary Energy Demand,baseline,1990,7.256454875739646
+Nuclear Primary Energy Demand,baseline,1991,7.083815400731233
+Nuclear Primary Energy Demand,baseline,1992,6.911370842554659
+Nuclear Primary Energy Demand,baseline,1993,6.757547484340077
+Nuclear Primary Energy Demand,baseline,1994,6.636817663933831
+Nuclear Primary Energy Demand,baseline,1995,6.560246912227777
+Nuclear Primary Energy Demand,baseline,1996,6.527761129489641
+Nuclear Primary Energy Demand,baseline,1997,6.530545202580165
+Nuclear Primary Energy Demand,baseline,1998,6.557055347033958
+Nuclear Primary Energy Demand,baseline,1999,6.62950346301169
+Nuclear Primary Energy Demand,baseline,2000,6.744388553876078
+Nuclear Primary Energy Demand,baseline,2001,6.898890227575825
+Nuclear Primary Energy Demand,baseline,2002,7.08697498239144
+Nuclear Primary Energy Demand,baseline,2003,7.300578139794182
+Nuclear Primary Energy Demand,baseline,2004,7.534392918322273
+Nuclear Primary Energy Demand,baseline,2005,7.788083347375236
+Nuclear Primary Energy Demand,baseline,2006,8.063108554373782
+Nuclear Primary Energy Demand,baseline,2007,8.36088025953606
+Nuclear Primary Energy Demand,baseline,2008,8.680450204672958
+Nuclear Primary Energy Demand,baseline,2009,9.011675580674483
+Nuclear Primary Energy Demand,baseline,2010,9.301494181936937
+Nuclear Primary Energy Demand,baseline,2011,9.59155200058458
+Nuclear Primary Energy Demand,baseline,2012,9.870708179564314
+Nuclear Primary Energy Demand,baseline,2013,10.136383160729459
+Nuclear Primary Energy Demand,baseline,2014,10.390231189641879
+Nuclear Primary Energy Demand,baseline,2015,10.630739650865996
+Nuclear Primary Energy Demand,baseline,2016,10.85877119568895
+Nuclear Primary Energy Demand,baseline,2017,11.077831180174963
+Nuclear Primary Energy Demand,baseline,2018,11.28854874107367
+Nuclear Primary Energy Demand,baseline,2019,11.484102890301182
+Nuclear Primary Energy Demand,baseline,2020,11.619152810836056
+Nuclear Primary Energy Demand,baseline,2021,11.733614965715338
+Nuclear Primary Energy Demand,baseline,2022,11.867113908916808
+Nuclear Primary Energy Demand,baseline,2023,11.9871532045062
+Nuclear Primary Energy Demand,baseline,2024,12.105849869639066
+Nuclear Primary Energy Demand,baseline,2025,12.2144621284389
+Nuclear Primary Energy Demand,baseline,2026,12.31038827956597
+Nuclear Primary Energy Demand,baseline,2027,12.389614080261925
+Nuclear Primary Energy Demand,baseline,2028,12.449229436400076
+Nuclear Primary Energy Demand,baseline,2029,12.490461260858337
+Nuclear Primary Energy Demand,baseline,2030,12.515448793885932
+Nuclear Primary Energy Demand,baseline,2031,12.528080043974288
+Nuclear Primary Energy Demand,baseline,2032,12.531955665321771
+Nuclear Primary Energy Demand,baseline,2033,12.529739534582855
+Nuclear Primary Energy Demand,baseline,2034,12.523310309620289
+Nuclear Primary Energy Demand,baseline,2035,12.514390721405718
+Nuclear Primary Energy Demand,baseline,2036,12.505124097353075
+Nuclear Primary Energy Demand,baseline,2037,12.498248812992871
+Nuclear Primary Energy Demand,baseline,2038,12.496973294080258
+Nuclear Primary Energy Demand,baseline,2039,12.504714691196929
+Nuclear Primary Energy Demand,baseline,2040,12.525008746590052
+Nuclear Primary Energy Demand,baseline,2041,12.561144298157059
+Nuclear Primary Energy Demand,baseline,2042,12.615103312801208
+Nuclear Primary Energy Demand,baseline,2043,12.688507933878746
+Nuclear Primary Energy Demand,baseline,2044,12.782531394088666
+Nuclear Primary Energy Demand,baseline,2045,12.897934310835232
+Nuclear Primary Energy Demand,baseline,2046,13.03491805387554
+Nuclear Primary Energy Demand,baseline,2047,13.193310250925515
+Nuclear Primary Energy Demand,baseline,2048,13.372468458075408
+Nuclear Primary Energy Demand,baseline,2049,13.57115312284275
+Nuclear Primary Energy Demand,baseline,2050,13.787996809363008
+Nuclear Primary Energy Demand,baseline,2051,14.021503095198437
+Nuclear Primary Energy Demand,baseline,2052,14.26986469816897
+Nuclear Primary Energy Demand,baseline,2053,14.531122516057216
+Nuclear Primary Energy Demand,baseline,2054,14.803220786814105
+Nuclear Primary Energy Demand,baseline,2055,15.083964167477578
+Nuclear Primary Energy Demand,baseline,2056,15.371131283339892
+Nuclear Primary Energy Demand,baseline,2057,15.662598535186055
+Nuclear Primary Energy Demand,baseline,2058,15.956340706626351
+Nuclear Primary Energy Demand,baseline,2059,16.25042634665269
+Nuclear Primary Energy Demand,baseline,2060,16.543169747919407
+Nuclear Primary Energy Demand,baseline,2061,16.83319982539137
+Nuclear Primary Energy Demand,baseline,2062,17.119120937809814
+Nuclear Primary Energy Demand,baseline,2063,17.398853279101132
+Nuclear Primary Energy Demand,baseline,2064,17.669967392233684
+Nuclear Primary Energy Demand,baseline,2065,17.931165155058654
+Nuclear Primary Energy Demand,baseline,2066,18.182648933510084
+Nuclear Primary Energy Demand,baseline,2067,18.425656586753405
+Nuclear Primary Energy Demand,baseline,2068,18.661758223375948
+Nuclear Primary Energy Demand,baseline,2069,18.891804127456655
+Nuclear Primary Energy Demand,baseline,2070,19.11678231344392
+Nuclear Primary Energy Demand,baseline,2071,19.33739497787143
+Nuclear Primary Energy Demand,baseline,2072,19.554027838008288
+Nuclear Primary Energy Demand,baseline,2073,19.766972385278724
+Nuclear Primary Energy Demand,baseline,2074,19.97647721417763
+Nuclear Primary Energy Demand,baseline,2075,20.182733191413796
+Nuclear Primary Energy Demand,baseline,2076,20.38586544812619
+Nuclear Primary Energy Demand,baseline,2077,20.58587986104723
+Nuclear Primary Energy Demand,baseline,2078,20.782814245644154
+Nuclear Primary Energy Demand,baseline,2079,20.976801693976498
+Nuclear Primary Energy Demand,baseline,2080,21.167951738870343
+Nuclear Primary Energy Demand,baseline,2081,21.356277013052278
+Nuclear Primary Energy Demand,baseline,2082,21.541828517269007
+Nuclear Primary Energy Demand,baseline,2083,21.724722070539606
+Nuclear Primary Energy Demand,baseline,2084,21.905160695750634
+Nuclear Primary Energy Demand,baseline,2085,22.083409381197324
+Nuclear Primary Energy Demand,baseline,2086,22.259763981752478
+Nuclear Primary Energy Demand,baseline,2087,22.43456982245505
+Nuclear Primary Energy Demand,baseline,2088,22.608188801415388
+Nuclear Primary Energy Demand,baseline,2089,22.780996072439923
+Nuclear Primary Energy Demand,baseline,2090,22.95336169301431
+Nuclear Primary Energy Demand,baseline,2091,23.125622326250177
+Nuclear Primary Energy Demand,baseline,2092,23.298125673310103
+Nuclear Primary Energy Demand,baseline,2093,23.47110561244344
+Nuclear Primary Energy Demand,baseline,2094,23.644664837613362
+Nuclear Primary Energy Demand,baseline,2095,23.818800243730536
+Nuclear Primary Energy Demand,baseline,2096,23.993383610219535
+Nuclear Primary Energy Demand,baseline,2097,24.168206335221075
+Nuclear Primary Energy Demand,baseline,2098,24.343064088784786
+Nuclear Primary Energy Demand,baseline,2099,24.517699731852534
+Nuclear Primary Energy Demand,baseline,2100,24.69180207022023
+Nuclear Primary Energy Demand,scenario,1990,7.256454875739646
+Nuclear Primary Energy Demand,scenario,1991,7.083815400731233
+Nuclear Primary Energy Demand,scenario,1992,6.911370842555441
+Nuclear Primary Energy Demand,scenario,1993,6.757547484370816
+Nuclear Primary Energy Demand,scenario,1994,6.636817664209998
+Nuclear Primary Energy Demand,scenario,1995,6.560246913497179
+Nuclear Primary Energy Demand,scenario,1996,6.527761133838348
+Nuclear Primary Energy Demand,scenario,1997,6.530545207142934
+Nuclear Primary Energy Demand,scenario,1998,6.557055359746172
+Nuclear Primary Energy Demand,scenario,1999,6.62950349338573
+Nuclear Primary Energy Demand,scenario,2000,6.7443886186269495
+Nuclear Primary Energy Demand,scenario,2001,6.898890354197042
+Nuclear Primary Energy Demand,scenario,2002,7.086975212913817
+Nuclear Primary Energy Demand,scenario,2003,7.3005785342919065
+Nuclear Primary Energy Demand,scenario,2004,7.53439355962216
+Nuclear Primary Energy Demand,scenario,2005,7.788084346007101
+Nuclear Primary Energy Demand,scenario,2006,8.063110052083411
+Nuclear Primary Energy Demand,scenario,2007,8.360882429807903
+Nuclear Primary Energy Demand,scenario,2008,8.680453249894152
+Nuclear Primary Energy Demand,scenario,2009,9.011679720068694
+Nuclear Primary Energy Demand,scenario,2010,9.30150017040304
+Nuclear Primary Energy Demand,scenario,2011,9.591559544347101
+Nuclear Primary Energy Demand,scenario,2012,9.870717618066992
+Nuclear Primary Energy Demand,scenario,2013,10.136394870978947
+Nuclear Primary Energy Demand,scenario,2014,10.390245568013505
+Nuclear Primary Energy Demand,scenario,2015,10.630757085117793
+Nuclear Primary Energy Demand,scenario,2016,10.858792043316527
+Nuclear Primary Energy Demand,scenario,2017,11.077855745667987
+Nuclear Primary Energy Demand,scenario,2018,11.28857724061624
+Nuclear Primary Energy Demand,scenario,2019,11.484135397766588
+Nuclear Primary Energy Demand,scenario,2020,11.61918915109772
+Nuclear Primary Energy Demand,scenario,2021,11.733655062895957
+Nuclear Primary Energy Demand,scenario,2022,11.867157902969275
+Nuclear Primary Energy Demand,scenario,2023,11.987201184632807
+Nuclear Primary Energy Demand,scenario,2024,12.105902037883927
+Nuclear Primary Energy Demand,scenario,2025,12.214570732684889
+Nuclear Primary Energy Demand,scenario,2026,12.310616807426642
+Nuclear Primary Energy Demand,scenario,2027,12.39001312179954
+Nuclear Primary Energy Demand,scenario,2028,12.509702082306603
+Nuclear Primary Energy Demand,scenario,2029,12.639606637135486
+Nuclear Primary Energy Demand,scenario,2030,12.796290508947429
+Nuclear Primary Energy Demand,scenario,2031,13.015338849493457
+Nuclear Primary Energy Demand,scenario,2032,13.334339330329216
+Nuclear Primary Energy Demand,scenario,2033,13.78459592971739
+Nuclear Primary Energy Demand,scenario,2034,14.387019530640481
+Nuclear Primary Energy Demand,scenario,2035,15.081881971257909
+Nuclear Primary Energy Demand,scenario,2036,15.865741352474569
+Nuclear Primary Energy Demand,scenario,2037,16.76018459998172
+Nuclear Primary Energy Demand,scenario,2038,17.747222831284947
+Nuclear Primary Energy Demand,scenario,2039,18.808436458570018
+Nuclear Primary Energy Demand,scenario,2040,19.93371568796602
+Nuclear Primary Energy Demand,scenario,2041,21.11855814669242
+Nuclear Primary Energy Demand,scenario,2042,22.36743303087613
+Nuclear Primary Energy Demand,scenario,2043,23.802865720109462
+Nuclear Primary Energy Demand,scenario,2044,25.484186179272648
+Nuclear Primary Energy Demand,scenario,2045,27.410193323471333
+Nuclear Primary Energy Demand,scenario,2046,29.53783283805602
+Nuclear Primary Energy Demand,scenario,2047,31.801601833492597
+Nuclear Primary Energy Demand,scenario,2048,34.131750355503755
+Nuclear Primary Energy Demand,scenario,2049,36.480506409861675
+Nuclear Primary Energy Demand,scenario,2050,38.82133691689177
+Nuclear Primary Energy Demand,scenario,2051,41.13920807727476
+Nuclear Primary Energy Demand,scenario,2052,43.426562244144904
+Nuclear Primary Energy Demand,scenario,2053,45.681147074777165
+Nuclear Primary Energy Demand,scenario,2054,47.89019926292963
+Nuclear Primary Energy Demand,scenario,2055,50.03509764318501
+Nuclear Primary Energy Demand,scenario,2056,52.13777386784915
+Nuclear Primary Energy Demand,scenario,2057,54.189925485386006
+Nuclear Primary Energy Demand,scenario,2058,56.179988916844785
+Nuclear Primary Energy Demand,scenario,2059,58.09356274457236
+Nuclear Primary Energy Demand,scenario,2060,59.914907540963455
+Nuclear Primary Energy Demand,scenario,2061,61.632611705096615
+Nuclear Primary Energy Demand,scenario,2062,63.243699300182215
+Nuclear Primary Energy Demand,scenario,2063,64.74590058240958
+Nuclear Primary Energy Demand,scenario,2064,66.13912499136667
+Nuclear Primary Energy Demand,scenario,2065,67.4266112047517
+Nuclear Primary Energy Demand,scenario,2066,68.63844834993233
+Nuclear Primary Energy Demand,scenario,2067,69.88064428088803
+Nuclear Primary Energy Demand,scenario,2068,71.2090739464916
+Nuclear Primary Energy Demand,scenario,2069,72.5800397516566
+Nuclear Primary Energy Demand,scenario,2070,73.92469070015035
+Nuclear Primary Energy Demand,scenario,2071,75.18891165488593
+Nuclear Primary Energy Demand,scenario,2072,76.34761386531738
+Nuclear Primary Energy Demand,scenario,2073,77.39848309939886
+Nuclear Primary Energy Demand,scenario,2074,78.3504220999433
+Nuclear Primary Energy Demand,scenario,2075,79.21553422968243
+Nuclear Primary Energy Demand,scenario,2076,80.00449225050392
+Nuclear Primary Energy Demand,scenario,2077,80.72465690954066
+Nuclear Primary Energy Demand,scenario,2078,81.38032259116068
+Nuclear Primary Energy Demand,scenario,2079,81.97384067656274
+Nuclear Primary Energy Demand,scenario,2080,82.50672699076533
+Nuclear Primary Energy Demand,scenario,2081,79.7756008924443
+Nuclear Primary Energy Demand,scenario,2082,80.0997847988219
+Nuclear Primary Energy Demand,scenario,2083,80.18776171502988
+Nuclear Primary Energy Demand,scenario,2084,80.04875026104587
+Nuclear Primary Energy Demand,scenario,2085,79.70411234493723
+Nuclear Primary Energy Demand,scenario,2086,79.17840428328296
+Nuclear Primary Energy Demand,scenario,2087,78.49340842147524
+Nuclear Primary Energy Demand,scenario,2088,77.66846888020929
+Nuclear Primary Energy Demand,scenario,2089,76.72147798316999
+Nuclear Primary Energy Demand,scenario,2090,75.6692157771397
+Nuclear Primary Energy Demand,scenario,2091,74.52813754207118
+Nuclear Primary Energy Demand,scenario,2092,73.32702799698949
+Nuclear Primary Energy Demand,scenario,2093,72.09587755134336
+Nuclear Primary Energy Demand,scenario,2094,70.85216897800551
+Nuclear Primary Energy Demand,scenario,2095,69.59137983290921
+Nuclear Primary Energy Demand,scenario,2096,68.29808193260533
+Nuclear Primary Energy Demand,scenario,2097,66.95489734494681
+Nuclear Primary Energy Demand,scenario,2098,65.55034169779415
+Nuclear Primary Energy Demand,scenario,2099,64.08138728675618
+Nuclear Primary Energy Demand,scenario,2100,62.55275364869773
+Nuclear Capacity,baseline,1990,7.7912580645161285
+Nuclear Capacity,baseline,1991,7.602965586266216
+Nuclear Capacity,baseline,1992,7.421662835457554
+Nuclear Capacity,baseline,1993,7.252210458612418
+Nuclear Capacity,baseline,1994,7.102773972608682
+Nuclear Capacity,baseline,1995,6.983402414666809
+Nuclear Capacity,baseline,1996,6.903877302190445
+Nuclear Capacity,baseline,1997,6.872022460380643
+Nuclear Capacity,baseline,1998,6.892191408747591
+Nuclear Capacity,baseline,1999,6.962256489793826
+Nuclear Capacity,baseline,2000,7.077744630402112
+Nuclear Capacity,baseline,2001,7.236291029865327
+Nuclear Capacity,baseline,2002,7.431621289829497
+Nuclear Capacity,baseline,2003,7.654131867810901
+Nuclear Capacity,baseline,2004,7.897264654685604
+Nuclear Capacity,baseline,2005,8.160688456019987
+Nuclear Capacity,baseline,2006,8.446044025905127
+Nuclear Capacity,baseline,2007,8.75484271323864
+Nuclear Capacity,baseline,2008,9.08762952894341
+Nuclear Capacity,baseline,2009,9.435956151654102
+Nuclear Capacity,baseline,2010,9.778468312154317
+Nuclear Capacity,baseline,2011,10.105084439829971
+Nuclear Capacity,baseline,2012,10.418206879943375
+Nuclear Capacity,baseline,2013,10.719734809641947
+Nuclear Capacity,baseline,2014,11.008559070096213
+Nuclear Capacity,baseline,2015,11.28303468221734
+Nuclear Capacity,baseline,2016,11.54195058383573
+Nuclear Capacity,baseline,2017,11.785178364677476
+Nuclear Capacity,baseline,2018,12.014117658981437
+Nuclear Capacity,baseline,2019,12.22951705670936
+Nuclear Capacity,baseline,2020,12.425571630930305
+Nuclear Capacity,baseline,2021,12.585951841097815
+Nuclear Capacity,baseline,2022,12.71397779241352
+Nuclear Capacity,baseline,2023,12.821969282251002
+Nuclear Capacity,baseline,2024,12.92070538314756
+Nuclear Capacity,baseline,2025,13.016804206818984
+Nuclear Capacity,baseline,2026,13.108209754064072
+Nuclear Capacity,baseline,2027,13.187707916499264
+Nuclear Capacity,baseline,2028,13.248369795206154
+Nuclear Capacity,baseline,2029,13.287879672147545
+Nuclear Capacity,baseline,2030,13.308509465557908
+Nuclear Capacity,baseline,2031,13.314663611889717
+Nuclear Capacity,baseline,2032,13.310712783912216
+Nuclear Capacity,baseline,2033,13.300050901802242
+Nuclear Capacity,baseline,2034,13.285170100907848
+Nuclear Capacity,baseline,2035,13.268240777574748
+Nuclear Capacity,baseline,2036,13.251711273347372
+Nuclear Capacity,baseline,2037,13.238558234123587
+Nuclear Capacity,baseline,2038,13.232216220939787
+Nuclear Capacity,baseline,2039,13.236335885277562
+Nuclear Capacity,baseline,2040,13.254502418256248
+Nuclear Capacity,baseline,2041,13.290033030252308
+Nuclear Capacity,baseline,2042,13.345647557217225
+Nuclear Capacity,baseline,2043,13.42331385948322
+Nuclear Capacity,baseline,2044,13.524305870259404
+Nuclear Capacity,baseline,2045,13.649371230988896
+Nuclear Capacity,baseline,2046,13.798777053089312
+Nuclear Capacity,baseline,2047,13.972239170482545
+Nuclear Capacity,baseline,2048,14.168969217887696
+Nuclear Capacity,baseline,2049,14.387755895943586
+Nuclear Capacity,baseline,2050,14.627099267950335
+Nuclear Capacity,baseline,2051,14.885318902589624
+Nuclear Capacity,baseline,2052,15.160580539025558
+Nuclear Capacity,baseline,2053,15.45082711667675
+Nuclear Capacity,baseline,2054,15.753772097059947
+Nuclear Capacity,baseline,2055,16.066976149275064
+Nuclear Capacity,baseline,2056,16.38792675567416
+Nuclear Capacity,baseline,2057,16.714118211289115
+Nuclear Capacity,baseline,2058,17.043149169356113
+Nuclear Capacity,baseline,2059,17.372790039442883
+Nuclear Capacity,baseline,2060,17.701057032314804
+Nuclear Capacity,baseline,2061,18.026282715523045
+Nuclear Capacity,baseline,2062,18.346841151700286
+Nuclear Capacity,baseline,2063,18.660199077809278
+Nuclear Capacity,baseline,2064,18.963818690018858
+Nuclear Capacity,baseline,2065,19.256338615055583
+Nuclear Capacity,baseline,2066,19.53786030608852
+Nuclear Capacity,baseline,2067,19.80957329721507
+Nuclear Capacity,baseline,2068,20.073146040145314
+Nuclear Capacity,baseline,2069,20.330103711990663
+Nuclear Capacity,baseline,2070,20.581347186785486
+Nuclear Capacity,baseline,2071,20.8273321560747
+Nuclear Capacity,baseline,2072,21.068358765098356
+Nuclear Capacity,baseline,2073,21.304733921468312
+Nuclear Capacity,baseline,2074,21.536804291860967
+Nuclear Capacity,baseline,2075,21.764911424324097
+Nuclear Capacity,baseline,2076,21.98933326918553
+Nuclear Capacity,baseline,2077,22.210243691328046
+Nuclear Capacity,baseline,2078,22.42773017351706
+Nuclear Capacity,baseline,2079,22.641863122240345
+Nuclear Capacity,baseline,2080,22.852757885924817
+Nuclear Capacity,baseline,2081,23.06059714724035
+Nuclear Capacity,baseline,2082,23.265643838679228
+Nuclear Capacity,baseline,2083,23.468231216116155
+Nuclear Capacity,baseline,2084,23.66871893297406
+Nuclear Capacity,baseline,2085,23.867454745792646
+Nuclear Capacity,baseline,2086,24.0647559725339
+Nuclear Capacity,baseline,2087,24.260915090946494
+Nuclear Capacity,baseline,2088,24.456219120436387
+Nuclear Capacity,baseline,2089,24.650954189709108
+Nuclear Capacity,baseline,2090,24.84539372407803
+Nuclear Capacity,baseline,2091,25.039776538658945
+Nuclear Capacity,baseline,2092,25.2343000093637
+Nuclear Capacity,baseline,2093,25.429134208375398
+Nuclear Capacity,baseline,2094,25.624404888853302
+Nuclear Capacity,baseline,2095,25.82016443831263
+Nuclear Capacity,baseline,2096,26.01637141634263
+Nuclear Capacity,baseline,2097,26.212880812712463
+Nuclear Capacity,baseline,2098,26.409463104531337
+Nuclear Capacity,baseline,2099,26.60583876952316
+Nuclear Capacity,baseline,2100,26.80167702507448
+Nuclear Capacity,scenario,1990,7.7912580645161285
+Nuclear Capacity,scenario,1991,7.602965586266216
+Nuclear Capacity,scenario,1992,7.421662835457571
+Nuclear Capacity,scenario,1993,7.252210458614161
+Nuclear Capacity,scenario,1994,7.102773972639208
+Nuclear Capacity,scenario,1995,6.983402414901806
+Nuclear Capacity,scenario,1996,6.903877303326477
+Nuclear Capacity,scenario,1997,6.872022464446158
+Nuclear Capacity,scenario,1998,6.892191420481359
+Nuclear Capacity,scenario,1999,6.962256518543344
+Nuclear Capacity,scenario,2000,7.077744692758901
+Nuclear Capacity,scenario,2001,7.236291153447045
+Nuclear Capacity,scenario,2002,7.431621517130051
+Nuclear Capacity,scenario,2003,7.654132259789829
+Nuclear Capacity,scenario,2004,7.897265295441472
+Nuclear Capacity,scenario,2005,8.16068945848317
+Nuclear Capacity,scenario,2006,8.446045535009851
+Nuclear Capacity,scenario,2007,8.754844906316029
+Nuclear Capacity,scenario,2008,9.087632614923184
+Nuclear Capacity,scenario,2009,9.435960363458664
+Nuclear Capacity,scenario,2010,9.778473854254461
+Nuclear Capacity,scenario,2011,10.105091532774727
+Nuclear Capacity,scenario,2012,10.418215849883895
+Nuclear Capacity,scenario,2013,10.719746057244333
+Nuclear Capacity,scenario,2014,11.008573030123332
+Nuclear Capacity,scenario,2015,11.283051790603317
+Nuclear Capacity,scenario,2016,11.54197124545637
+Nuclear Capacity,scenario,2017,11.785202919134717
+Nuclear Capacity,scenario,2018,12.014146348681988
+Nuclear Capacity,scenario,2019,12.229549993789377
+Nuclear Capacity,scenario,2020,12.42560880943566
+Nuclear Capacity,scenario,2021,12.585993145231688
+Nuclear Capacity,scenario,2022,12.714023080959121
+Nuclear Capacity,scenario,2023,12.822018582975652
+Nuclear Capacity,scenario,2024,12.920758860881872
+Nuclear Capacity,scenario,2025,13.016865493742248
+Nuclear Capacity,scenario,2026,13.108307976173478
+Nuclear Capacity,scenario,2027,13.18790161334074
+Nuclear Capacity,scenario,2028,13.250422894438568
+Nuclear Capacity,scenario,2029,13.306398186609643
+Nuclear Capacity,scenario,2030,13.382644240555347
+Nuclear Capacity,scenario,2031,13.514669271778372
+Nuclear Capacity,scenario,2032,13.737796615802173
+Nuclear Capacity,scenario,2033,14.080252631070486
+Nuclear Capacity,scenario,2034,14.559658025403902
+Nuclear Capacity,scenario,2035,15.179680914868184
+Nuclear Capacity,scenario,2036,15.920194997833075
+Nuclear Capacity,scenario,2037,16.749488360437365
+Nuclear Capacity,scenario,2038,17.641576289690725
+Nuclear Capacity,scenario,2039,18.574018146854442
+Nuclear Capacity,scenario,2040,19.53826748135909
+Nuclear Capacity,scenario,2041,20.560288094528122
+Nuclear Capacity,scenario,2042,21.688647159929687
+Nuclear Capacity,scenario,2043,22.98083540184241
+Nuclear Capacity,scenario,2044,24.49499443478115
+Nuclear Capacity,scenario,2045,26.25651833768593
+Nuclear Capacity,scenario,2046,28.232024408820536
+Nuclear Capacity,scenario,2047,30.358470601725813
+Nuclear Capacity,scenario,2048,32.57042084905363
+Nuclear Capacity,scenario,2049,34.81713958534761
+Nuclear Capacity,scenario,2050,37.066948103409295
+Nuclear Capacity,scenario,2051,39.301178335267274
+Nuclear Capacity,scenario,2052,41.51045646643925
+Nuclear Capacity,scenario,2053,43.69203855036023
+Nuclear Capacity,scenario,2054,45.84553470847668
+Nuclear Capacity,scenario,2055,47.96934374056682
+Nuclear Capacity,scenario,2056,50.05872539116105
+Nuclear Capacity,scenario,2057,52.10503420701614
+Nuclear Capacity,scenario,2058,54.09551039307389
+Nuclear Capacity,scenario,2059,56.01384324577474
+Nuclear Capacity,scenario,2060,57.84200182591134
+Nuclear Capacity,scenario,2061,59.56614088105389
+Nuclear Capacity,scenario,2062,61.1806413770361
+Nuclear Capacity,scenario,2063,62.68496113447394
+Nuclear Capacity,scenario,2064,64.07966903018317
+Nuclear Capacity,scenario,2065,65.36540680662354
+Nuclear Capacity,scenario,2066,66.55957331263063
+Nuclear Capacity,scenario,2067,67.77933970643095
+Nuclear Capacity,scenario,2068,69.08425304316698
+Nuclear Capacity,scenario,2069,70.44388204166742
+Nuclear Capacity,scenario,2070,71.79638138352598
+Nuclear Capacity,scenario,2071,73.08393403230599
+Nuclear Capacity,scenario,2072,74.27201510654622
+Nuclear Capacity,scenario,2073,75.34939498295601
+Nuclear Capacity,scenario,2074,76.32020622544387
+Nuclear Capacity,scenario,2075,77.19615867322032
+Nuclear Capacity,scenario,2076,77.99046945496839
+Nuclear Capacity,scenario,2077,78.71417936458688
+Nuclear Capacity,scenario,2078,79.3748472597889
+Nuclear Capacity,scenario,2079,79.9770147058177
+Nuclear Capacity,scenario,2080,80.52352769291362
+Nuclear Capacity,scenario,2081,80.95568145594534
+Nuclear Capacity,scenario,2082,81.29732800024617
+Nuclear Capacity,scenario,2083,81.50520296605293
+Nuclear Capacity,scenario,2084,81.54688330763595
+Nuclear Capacity,scenario,2085,81.40679379948475
+Nuclear Capacity,scenario,2086,81.08208636865183
+Nuclear Capacity,scenario,2087,80.5785986503575
+Nuclear Capacity,scenario,2088,79.9076277906321
+Nuclear Capacity,scenario,2089,79.08365310436179
+Nuclear Capacity,scenario,2090,78.12281391220829
+Nuclear Capacity,scenario,2091,77.04187332263737
+Nuclear Capacity,scenario,2092,75.85850175026646
+Nuclear Capacity,scenario,2093,74.5924849012684
+Nuclear Capacity,scenario,2094,73.26398621350756
+Nuclear Capacity,scenario,2095,71.89022402938758
+Nuclear Capacity,scenario,2096,70.48315915792148
+Nuclear Capacity,scenario,2097,69.04963232656164
+Nuclear Capacity,scenario,2098,67.59267299349494
+Nuclear Capacity,scenario,2099,66.11304618744376
+Nuclear Capacity,scenario,2100,64.6106184989347
+Global Sources of Primary Energy,Coal,1990,92.9027
+Global Sources of Primary Energy,Coal,1991,93.3548555492618
+Global Sources of Primary Energy,Coal,1992,93.44511014234989
+Global Sources of Primary Energy,Coal,1993,93.6066292279258
+Global Sources of Primary Energy,Coal,1994,93.95698370716055
+Global Sources of Primary Energy,Coal,1995,94.63158339756795
+Global Sources of Primary Energy,Coal,1996,95.63437357269368
+Global Sources of Primary Energy,Coal,1997,96.98461393277555
+Global Sources of Primary Energy,Coal,1998,98.57667308089924
+Global Sources of Primary Energy,Coal,1999,100.24177208245283
+Global Sources of Primary Energy,Coal,2000,102.27758663495085
+Global Sources of Primary Energy,Coal,2001,104.69644704605501
+Global Sources of Primary Energy,Coal,2002,107.05475610070903
+Global Sources of Primary Energy,Coal,2003,109.53246373790863
+Global Sources of Primary Energy,Coal,2004,112.4097364379346
+Global Sources of Primary Energy,Coal,2005,115.8165254363135
+Global Sources of Primary Energy,Coal,2006,119.56602167585201
+Global Sources of Primary Energy,Coal,2007,123.73163443780908
+Global Sources of Primary Energy,Coal,2008,128.13100114251037
+Global Sources of Primary Energy,Coal,2009,132.05019023782052
+Global Sources of Primary Energy,Coal,2010,135.44891344719147
+Global Sources of Primary Energy,Coal,2011,139.60783785353118
+Global Sources of Primary Energy,Coal,2012,143.97500452254894
+Global Sources of Primary Energy,Coal,2013,148.1822262255463
+Global Sources of Primary Energy,Coal,2014,152.2507054561585
+Global Sources of Primary Energy,Coal,2015,156.20873959747635
+Global Sources of Primary Energy,Coal,2016,159.78567501604024
+Global Sources of Primary Energy,Coal,2017,163.073415083849
+Global Sources of Primary Energy,Coal,2018,166.21461496047013
+Global Sources of Primary Energy,Coal,2019,168.99102289944946
+Global Sources of Primary Energy,Coal,2020,170.63890051389023
+Global Sources of Primary Energy,Coal,2021,170.74905362620538
+Global Sources of Primary Energy,Coal,2022,171.57876804451828
+Global Sources of Primary Energy,Coal,2023,172.36028579617823
+Global Sources of Primary Energy,Coal,2024,172.78861124708166
+Global Sources of Primary Energy,Coal,2025,172.6572402490169
+Global Sources of Primary Energy,Coal,2026,171.91491659552875
+Global Sources of Primary Energy,Coal,2027,170.75230604010437
+Global Sources of Primary Energy,Coal,2028,167.8886211893889
+Global Sources of Primary Energy,Coal,2029,164.08081912849661
+Global Sources of Primary Energy,Coal,2030,159.99191219537124
+Global Sources of Primary Energy,Coal,2031,155.59846796087703
+Global Sources of Primary Energy,Coal,2032,150.91868701876237
+Global Sources of Primary Energy,Coal,2033,146.008432374755
+Global Sources of Primary Energy,Coal,2034,140.9353810397901
+Global Sources of Primary Energy,Coal,2035,135.76463777825137
+Global Sources of Primary Energy,Coal,2036,130.55610654805824
+Global Sources of Primary Energy,Coal,2037,125.35558571210372
+Global Sources of Primary Energy,Coal,2038,120.51249288102314
+Global Sources of Primary Energy,Coal,2039,115.93168668814548
+Global Sources of Primary Energy,Coal,2040,111.44398804153803
+Global Sources of Primary Energy,Coal,2041,106.57181411264081
+Global Sources of Primary Energy,Coal,2042,101.93209169967012
+Global Sources of Primary Energy,Coal,2043,97.12085684433265
+Global Sources of Primary Energy,Coal,2044,92.26140461280536
+Global Sources of Primary Energy,Coal,2045,87.58143683400726
+Global Sources of Primary Energy,Coal,2046,83.07908246572778
+Global Sources of Primary Energy,Coal,2047,78.7390918650137
+Global Sources of Primary Energy,Coal,2048,74.55382627297254
+Global Sources of Primary Energy,Coal,2049,70.52705309402747
+Global Sources of Primary Energy,Coal,2050,66.66231214608321
+Global Sources of Primary Energy,Coal,2051,62.96091966469918
+Global Sources of Primary Energy,Coal,2052,59.424631960483815
+Global Sources of Primary Energy,Coal,2053,56.05340064882114
+Global Sources of Primary Energy,Coal,2054,52.84625918846447
+Global Sources of Primary Energy,Coal,2055,49.80171537614694
+Global Sources of Primary Energy,Coal,2056,46.91734307517931
+Global Sources of Primary Energy,Coal,2057,44.18954425734024
+Global Sources of Primary Energy,Coal,2058,41.614537747807255
+Global Sources of Primary Energy,Coal,2059,39.18812764300317
+Global Sources of Primary Energy,Coal,2060,36.90454190332438
+Global Sources of Primary Energy,Coal,2061,34.756259476249326
+Global Sources of Primary Energy,Coal,2062,32.73705901768493
+Global Sources of Primary Energy,Coal,2063,30.98608550170866
+Global Sources of Primary Energy,Coal,2064,29.454189430030127
+Global Sources of Primary Energy,Coal,2065,28.031877563111742
+Global Sources of Primary Energy,Coal,2066,26.70537443804263
+Global Sources of Primary Energy,Coal,2067,25.47057842622454
+Global Sources of Primary Energy,Coal,2068,24.32913710129173
+Global Sources of Primary Energy,Coal,2069,23.28163356224529
+Global Sources of Primary Energy,Coal,2070,22.323221330116546
+Global Sources of Primary Energy,Coal,2071,21.44632198383392
+Global Sources of Primary Energy,Coal,2072,20.64222587594205
+Global Sources of Primary Energy,Coal,2073,19.9016728745031
+Global Sources of Primary Energy,Coal,2074,19.215069337446973
+Global Sources of Primary Energy,Coal,2075,18.573049142825653
+Global Sources of Primary Energy,Coal,2076,17.967162859887306
+Global Sources of Primary Energy,Coal,2077,17.390359612395763
+Global Sources of Primary Energy,Coal,2078,16.837207010920125
+Global Sources of Primary Energy,Coal,2079,16.303909817319223
+Global Sources of Primary Energy,Coal,2080,15.788000084147566
+Global Sources of Primary Energy,Coal,2081,15.381694303423192
+Global Sources of Primary Energy,Coal,2082,14.978266131647025
+Global Sources of Primary Energy,Coal,2083,14.58641428719073
+Global Sources of Primary Energy,Coal,2084,14.210843499147204
+Global Sources of Primary Energy,Coal,2085,13.852392854254857
+Global Sources of Primary Energy,Coal,2086,13.509699305091642
+Global Sources of Primary Energy,Coal,2087,13.180507648377654
+Global Sources of Primary Energy,Coal,2088,12.862796844007757
+Global Sources of Primary Energy,Coal,2089,12.554968913046675
+Global Sources of Primary Energy,Coal,2090,12.255835127578454
+Global Sources of Primary Energy,Coal,2091,11.964900504578907
+Global Sources of Primary Energy,Coal,2092,11.6837636807802
+Global Sources of Primary Energy,Coal,2093,11.415749901127475
+Global Sources of Primary Energy,Coal,2094,11.164165608837704
+Global Sources of Primary Energy,Coal,2095,10.930443499078278
+Global Sources of Primary Energy,Coal,2096,10.714089121437285
+Global Sources of Primary Energy,Coal,2097,10.513514019151772
+Global Sources of Primary Energy,Coal,2098,10.326912400876257
+Global Sources of Primary Energy,Coal,2099,10.152544771468756
+Global Sources of Primary Energy,Coal,2100,9.988844919595412
+Global Sources of Primary Energy,Oil,1990,135.409
+Global Sources of Primary Energy,Oil,1991,135.66346330290827
+Global Sources of Primary Energy,Oil,1992,135.24499941051582
+Global Sources of Primary Energy,Oil,1993,134.9885315048129
+Global Sources of Primary Energy,Oil,1994,135.02250530208642
+Global Sources of Primary Energy,Oil,1995,135.49272293739443
+Global Sources of Primary Energy,Oil,1996,136.3651654006683
+Global Sources of Primary Energy,Oil,1997,137.6363149007322
+Global Sources of Primary Energy,Oil,1998,139.05861185741372
+Global Sources of Primary Energy,Oil,1999,140.45224114256217
+Global Sources of Primary Energy,Oil,2000,142.3104619383208
+Global Sources of Primary Energy,Oil,2001,144.4891837807348
+Global Sources of Primary Energy,Oil,2002,146.39873318202234
+Global Sources of Primary Energy,Oil,2003,148.39185068417606
+Global Sources of Primary Energy,Oil,2004,150.89561022511512
+Global Sources of Primary Energy,Oil,2005,153.9838061778885
+Global Sources of Primary Energy,Oil,2006,157.38716009429618
+Global Sources of Primary Energy,Oil,2007,161.18137306661782
+Global Sources of Primary Energy,Oil,2008,164.97286144059282
+Global Sources of Primary Energy,Oil,2009,167.74081877344238
+Global Sources of Primary Energy,Oil,2010,169.886469957978
+Global Sources of Primary Energy,Oil,2011,172.99235737805267
+Global Sources of Primary Energy,Oil,2012,176.19579072189114
+Global Sources of Primary Energy,Oil,2013,179.10504255149712
+Global Sources of Primary Energy,Oil,2014,181.85736666806943
+Global Sources of Primary Energy,Oil,2015,184.5270079610908
+Global Sources of Primary Energy,Oil,2016,187.0360466406504
+Global Sources of Primary Energy,Oil,2017,189.4783037419268
+Global Sources of Primary Energy,Oil,2018,191.99135013977326
+Global Sources of Primary Energy,Oil,2019,194.34742542582617
+Global Sources of Primary Energy,Oil,2020,195.37634633524712
+Global Sources of Primary Energy,Oil,2021,195.44630698643957
+Global Sources of Primary Energy,Oil,2022,197.11486715032555
+Global Sources of Primary Energy,Oil,2023,198.8087990634574
+Global Sources of Primary Energy,Oil,2024,200.45042508245925
+Global Sources of Primary Energy,Oil,2025,201.77926347359153
+Global Sources of Primary Energy,Oil,2026,202.7522037492513
+Global Sources of Primary Energy,Oil,2027,203.58361202083728
+Global Sources of Primary Energy,Oil,2028,203.86413687332524
+Global Sources of Primary Energy,Oil,2029,203.6162775832247
+Global Sources of Primary Energy,Oil,2030,203.08662937691741
+Global Sources of Primary Energy,Oil,2031,202.24376372930118
+Global Sources of Primary Energy,Oil,2032,201.04303191014245
+Global Sources of Primary Energy,Oil,2033,199.46281866991106
+Global Sources of Primary Energy,Oil,2034,197.50418020025413
+Global Sources of Primary Energy,Oil,2035,195.17959007471504
+Global Sources of Primary Energy,Oil,2036,192.4973075880484
+Global Sources of Primary Energy,Oil,2037,189.45872085683408
+Global Sources of Primary Energy,Oil,2038,186.41940398463734
+Global Sources of Primary Energy,Oil,2039,183.34260298536165
+Global Sources of Primary Energy,Oil,2040,180.0400871642617
+Global Sources of Primary Energy,Oil,2041,176.53796842698935
+Global Sources of Primary Energy,Oil,2042,172.88134338046214
+Global Sources of Primary Energy,Oil,2043,168.96419165856102
+Global Sources of Primary Energy,Oil,2044,164.86033169476028
+Global Sources of Primary Energy,Oil,2045,160.71087521229455
+Global Sources of Primary Energy,Oil,2046,156.55374160933397
+Global Sources of Primary Energy,Oil,2047,152.41011230113943
+Global Sources of Primary Energy,Oil,2048,148.29812593465394
+Global Sources of Primary Energy,Oil,2049,144.23458943446516
+Global Sources of Primary Energy,Oil,2050,140.24216271955402
+Global Sources of Primary Energy,Oil,2051,136.34227719768293
+Global Sources of Primary Energy,Oil,2052,132.54275472208678
+Global Sources of Primary Energy,Oil,2053,128.8486020159672
+Global Sources of Primary Energy,Oil,2054,125.26296974123372
+Global Sources of Primary Energy,Oil,2055,121.78663905857354
+Global Sources of Primary Energy,Oil,2056,118.41971009945163
+Global Sources of Primary Energy,Oil,2057,115.16728437155321
+Global Sources of Primary Energy,Oil,2058,112.03658560666246
+Global Sources of Primary Energy,Oil,2059,109.03360720260501
+Global Sources of Primary Energy,Oil,2060,106.1641560806706
+Global Sources of Primary Energy,Oil,2061,103.43264197650623
+Global Sources of Primary Energy,Oil,2062,100.83821667619205
+Global Sources of Primary Energy,Oil,2063,98.56532697334367
+Global Sources of Primary Energy,Oil,2064,96.55761331305602
+Global Sources of Primary Energy,Oil,2065,94.70676290726514
+Global Sources of Primary Energy,Oil,2066,93.00659836525843
+Global Sources of Primary Energy,Oil,2067,91.43731304477042
+Global Sources of Primary Energy,Oil,2068,89.96263652259849
+Global Sources of Primary Energy,Oil,2069,88.55440518986302
+Global Sources of Primary Energy,Oil,2070,87.2047990188399
+Global Sources of Primary Energy,Oil,2071,85.92566926789557
+Global Sources of Primary Energy,Oil,2072,84.73655546527569
+Global Sources of Primary Energy,Oil,2073,83.65092849993748
+Global Sources of Primary Energy,Oil,2074,82.67018893600846
+Global Sources of Primary Energy,Oil,2075,81.78635502120954
+Global Sources of Primary Energy,Oil,2076,80.98758555167076
+Global Sources of Primary Energy,Oil,2077,80.2653177661339
+Global Sources of Primary Energy,Oil,2078,79.61642317197636
+Global Sources of Primary Energy,Oil,2079,79.04126927867382
+Global Sources of Primary Energy,Oil,2080,78.54082306179488
+Global Sources of Primary Energy,Oil,2081,78.11657066315402
+Global Sources of Primary Energy,Oil,2082,77.76871306711006
+Global Sources of Primary Energy,Oil,2083,77.49179008340562
+Global Sources of Primary Energy,Oil,2084,77.2795048397049
+Global Sources of Primary Energy,Oil,2085,77.1258068414283
+Global Sources of Primary Energy,Oil,2086,77.02495898938108
+Global Sources of Primary Energy,Oil,2087,76.97161221849323
+Global Sources of Primary Energy,Oil,2088,76.96045859692876
+Global Sources of Primary Energy,Oil,2089,76.98651582910229
+Global Sources of Primary Energy,Oil,2090,77.0451330497267
+Global Sources of Primary Energy,Oil,2091,77.13173122354577
+Global Sources of Primary Energy,Oil,2092,77.2426760062147
+Global Sources of Primary Energy,Oil,2093,77.37439681229847
+Global Sources of Primary Energy,Oil,2094,77.52351681875143
+Global Sources of Primary Energy,Oil,2095,77.68701580016419
+Global Sources of Primary Energy,Oil,2096,77.86161345832434
+Global Sources of Primary Energy,Oil,2097,78.04376451598218
+Global Sources of Primary Energy,Oil,2098,78.23017580165786
+Global Sources of Primary Energy,Oil,2099,78.41691579385108
+Global Sources of Primary Energy,Oil,2100,78.59945461785445
+Global Sources of Primary Energy,Natural gas,1990,69.6065
+Global Sources of Primary Energy,Natural gas,1991,68.92346680098201
+Global Sources of Primary Energy,Natural gas,1992,68.90953655877945
+Global Sources of Primary Energy,Natural gas,1993,69.04580157193388
+Global Sources of Primary Energy,Natural gas,1994,69.34816873798394
+Global Sources of Primary Energy,Natural gas,1995,69.94493465157414
+Global Sources of Primary Energy,Natural gas,1996,70.85619588072616
+Global Sources of Primary Energy,Natural gas,1997,72.09639053621683
+Global Sources of Primary Energy,Natural gas,1998,73.57564173694334
+Global Sources of Primary Energy,Natural gas,1999,75.14290295839106
+Global Sources of Primary Energy,Natural gas,2000,77.02112952917066
+Global Sources of Primary Energy,Natural gas,2001,79.22461109109767
+Global Sources of Primary Energy,Natural gas,2002,81.37049247148417
+Global Sources of Primary Energy,Natural gas,2003,83.63969657060086
+Global Sources of Primary Energy,Natural gas,2004,86.31978112038661
+Global Sources of Primary Energy,Natural gas,2005,89.52177711042042
+Global Sources of Primary Energy,Natural gas,2006,93.08588179506278
+Global Sources of Primary Energy,Natural gas,2007,97.10238879921891
+Global Sources of Primary Energy,Natural gas,2008,101.4178272118028
+Global Sources of Primary Energy,Natural gas,2009,105.40736848529008
+Global Sources of Primary Energy,Natural gas,2010,108.95754223656705
+Global Sources of Primary Energy,Natural gas,2011,113.11436950202415
+Global Sources of Primary Energy,Natural gas,2012,117.45869290172575
+Global Sources of Primary Energy,Natural gas,2013,121.71508063496512
+Global Sources of Primary Energy,Natural gas,2014,125.91477851806084
+Global Sources of Primary Energy,Natural gas,2015,130.07093698247957
+Global Sources of Primary Energy,Natural gas,2016,134.07473224027302
+Global Sources of Primary Energy,Natural gas,2017,137.9607409415231
+Global Sources of Primary Energy,Natural gas,2018,141.80795320695512
+Global Sources of Primary Energy,Natural gas,2019,145.46202874738714
+Global Sources of Primary Energy,Natural gas,2020,148.27008706362068
+Global Sources of Primary Energy,Natural gas,2021,149.83155333584835
+Global Sources of Primary Energy,Natural gas,2022,152.16542705226783
+Global Sources of Primary Energy,Natural gas,2023,154.4768821184259
+Global Sources of Primary Energy,Natural gas,2024,156.6466891389536
+Global Sources of Primary Energy,Natural gas,2025,158.5769425151125
+Global Sources of Primary Energy,Natural gas,2026,160.15478937458542
+Global Sources of Primary Energy,Natural gas,2027,161.46850911134163
+Global Sources of Primary Energy,Natural gas,2028,162.22803891083538
+Global Sources of Primary Energy,Natural gas,2029,162.7233660558792
+Global Sources of Primary Energy,Natural gas,2030,162.99711910908152
+Global Sources of Primary Energy,Natural gas,2031,162.9555068465611
+Global Sources of Primary Energy,Natural gas,2032,162.56227662129953
+Global Sources of Primary Energy,Natural gas,2033,161.822519146712
+Global Sources of Primary Energy,Natural gas,2034,160.76419679485048
+Global Sources of Primary Energy,Natural gas,2035,159.4227334625692
+Global Sources of Primary Energy,Natural gas,2036,157.83713890478404
+Global Sources of Primary Energy,Natural gas,2037,156.04051078856062
+Global Sources of Primary Energy,Natural gas,2038,154.15402124958027
+Global Sources of Primary Energy,Natural gas,2039,152.15479661834098
+Global Sources of Primary Energy,Natural gas,2040,150.0630798100703
+Global Sources of Primary Energy,Natural gas,2041,147.94348678054266
+Global Sources of Primary Energy,Natural gas,2042,145.8417039622994
+Global Sources of Primary Energy,Natural gas,2043,143.5683713121524
+Global Sources of Primary Energy,Natural gas,2044,141.1978286539362
+Global Sources of Primary Energy,Natural gas,2045,138.82391226189813
+Global Sources of Primary Energy,Natural gas,2046,136.43025859800497
+Global Sources of Primary Energy,Natural gas,2047,134.00643797817088
+Global Sources of Primary Energy,Natural gas,2048,131.54934866995433
+Global Sources of Primary Energy,Natural gas,2049,129.05337628364228
+Global Sources of Primary Energy,Natural gas,2050,126.52647347530747
+Global Sources of Primary Energy,Natural gas,2051,123.98578767469142
+Global Sources of Primary Energy,Natural gas,2052,121.44894361707676
+Global Sources of Primary Energy,Natural gas,2053,118.93065846493265
+Global Sources of Primary Energy,Natural gas,2054,116.44204844261853
+Global Sources of Primary Energy,Natural gas,2055,113.98940204135616
+Global Sources of Primary Energy,Natural gas,2056,111.57550646430008
+Global Sources of Primary Energy,Natural gas,2057,109.2002009580328
+Global Sources of Primary Energy,Natural gas,2058,106.86206926685385
+Global Sources of Primary Energy,Natural gas,2059,104.56111697801094
+Global Sources of Primary Energy,Natural gas,2060,102.29800828640435
+Global Sources of Primary Energy,Natural gas,2061,100.07313151484146
+Global Sources of Primary Energy,Natural gas,2062,97.88923512214933
+Global Sources of Primary Energy,Natural gas,2063,95.89649615647058
+Global Sources of Primary Energy,Natural gas,2064,94.06738303212522
+Global Sources of Primary Energy,Natural gas,2065,92.32509040529054
+Global Sources of Primary Energy,Natural gas,2066,90.69395136699247
+Global Sources of Primary Energy,Natural gas,2067,89.21256631608458
+Global Sources of Primary Energy,Natural gas,2068,87.90336715795095
+Global Sources of Primary Energy,Natural gas,2069,86.7360323249084
+Global Sources of Primary Energy,Natural gas,2070,85.66745021173922
+Global Sources of Primary Energy,Natural gas,2071,84.67356357119364
+Global Sources of Primary Energy,Natural gas,2072,83.74853934896416
+Global Sources of Primary Energy,Natural gas,2073,82.8929288754187
+Global Sources of Primary Energy,Natural gas,2074,82.10682173081959
+Global Sources of Primary Energy,Natural gas,2075,81.38878050331766
+Global Sources of Primary Energy,Natural gas,2076,80.7365288345219
+Global Sources of Primary Energy,Natural gas,2077,80.14779152620096
+Global Sources of Primary Energy,Natural gas,2078,79.62009802911764
+Global Sources of Primary Energy,Natural gas,2079,79.15095710865427
+Global Sources of Primary Energy,Natural gas,2080,78.73761786163625
+Global Sources of Primary Energy,Natural gas,2081,78.44595658905683
+Global Sources of Primary Energy,Natural gas,2082,78.25165970335375
+Global Sources of Primary Energy,Natural gas,2083,78.11759080071842
+Global Sources of Primary Energy,Natural gas,2084,78.05185609193848
+Global Sources of Primary Energy,Natural gas,2085,78.04616276604233
+Global Sources of Primary Energy,Natural gas,2086,78.08872874727474
+Global Sources of Primary Energy,Natural gas,2087,78.17187171984664
+Global Sources of Primary Energy,Natural gas,2088,78.29186215733444
+Global Sources of Primary Energy,Natural gas,2089,78.44680642569423
+Global Sources of Primary Energy,Natural gas,2090,78.63501145706374
+Global Sources of Primary Energy,Natural gas,2091,78.84981455026274
+Global Sources of Primary Energy,Natural gas,2092,79.03376523849803
+Global Sources of Primary Energy,Natural gas,2093,79.13184825422648
+Global Sources of Primary Energy,Natural gas,2094,79.14671883033043
+Global Sources of Primary Energy,Natural gas,2095,79.1108591804373
+Global Sources of Primary Energy,Natural gas,2096,79.0416995111907
+Global Sources of Primary Energy,Natural gas,2097,78.92956299705276
+Global Sources of Primary Energy,Natural gas,2098,78.75021592955038
+Global Sources of Primary Energy,Natural gas,2099,78.47730066238962
+Global Sources of Primary Energy,Natural gas,2100,78.09099789577168
+Global Sources of Primary Energy,Renewables,1990,9.42486400461466
+Global Sources of Primary Energy,Renewables,1991,9.555945484477858
+Global Sources of Primary Energy,Renewables,1992,9.67349291811612
+Global Sources of Primary Energy,Renewables,1993,9.792151372248593
+Global Sources of Primary Energy,Renewables,1994,9.927724199298071
+Global Sources of Primary Energy,Renewables,1995,10.09560567371102
+Global Sources of Primary Energy,Renewables,1996,10.305307532018265
+Global Sources of Primary Energy,Renewables,1997,10.562590133413345
+Global Sources of Primary Energy,Renewables,1998,10.852803088952333
+Global Sources of Primary Energy,Renewables,1999,11.164837899282375
+Global Sources of Primary Energy,Renewables,2000,11.509203817501945
+Global Sources of Primary Energy,Renewables,2001,11.869745458070087
+Global Sources of Primary Energy,Renewables,2002,12.22504059237615
+Global Sources of Primary Energy,Renewables,2003,12.580609864633207
+Global Sources of Primary Energy,Renewables,2004,12.955203113967524
+Global Sources of Primary Energy,Renewables,2005,13.361633117090172
+Global Sources of Primary Energy,Renewables,2006,13.807733048695885
+Global Sources of Primary Energy,Renewables,2007,14.303678190689675
+Global Sources of Primary Energy,Renewables,2008,14.822582202182744
+Global Sources of Primary Energy,Renewables,2009,15.290939524279274
+Global Sources of Primary Energy,Renewables,2010,15.729649826703179
+Global Sources of Primary Energy,Renewables,2011,16.184653339541992
+Global Sources of Primary Energy,Renewables,2012,16.670422383315607
+Global Sources of Primary Energy,Renewables,2013,17.21405859464158
+Global Sources of Primary Energy,Renewables,2014,17.837941364560123
+Global Sources of Primary Energy,Renewables,2015,18.56677013567128
+Global Sources of Primary Energy,Renewables,2016,19.44326939653486
+Global Sources of Primary Energy,Renewables,2017,20.53480420390835
+Global Sources of Primary Energy,Renewables,2018,21.932274213343838
+Global Sources of Primary Energy,Renewables,2019,23.73027289202505
+Global Sources of Primary Energy,Renewables,2020,25.886350585296263
+Global Sources of Primary Energy,Renewables,2021,28.282948781035188
+Global Sources of Primary Energy,Renewables,2022,30.86998099533694
+Global Sources of Primary Energy,Renewables,2023,33.698114429032586
+Global Sources of Primary Energy,Renewables,2024,36.87162304331241
+Global Sources of Primary Energy,Renewables,2025,40.39361677382607
+Global Sources of Primary Energy,Renewables,2026,44.248224834729
+Global Sources of Primary Energy,Renewables,2027,48.39584901325773
+Global Sources of Primary Energy,Renewables,2028,52.8779918457267
+Global Sources of Primary Energy,Renewables,2029,57.68048925858254
+Global Sources of Primary Energy,Renewables,2030,62.833838262305065
+Global Sources of Primary Energy,Renewables,2031,68.35361407998109
+Global Sources of Primary Energy,Renewables,2032,74.19817352316079
+Global Sources of Primary Energy,Renewables,2033,80.3088696092562
+Global Sources of Primary Energy,Renewables,2034,86.63175730355584
+Global Sources of Primary Energy,Renewables,2035,93.12955285620886
+Global Sources of Primary Energy,Renewables,2036,99.80043860337146
+Global Sources of Primary Energy,Renewables,2037,106.63179015153436
+Global Sources of Primary Energy,Renewables,2038,113.55744943213307
+Global Sources of Primary Energy,Renewables,2039,120.49206358641406
+Global Sources of Primary Energy,Renewables,2040,127.32195598254945
+Global Sources of Primary Energy,Renewables,2041,133.93733049857025
+Global Sources of Primary Energy,Renewables,2042,140.3008711557557
+Global Sources of Primary Energy,Renewables,2043,146.4577324142466
+Global Sources of Primary Energy,Renewables,2044,152.43516529975125
+Global Sources of Primary Energy,Renewables,2045,158.29098759236916
+Global Sources of Primary Energy,Renewables,2046,164.13596198849737
+Global Sources of Primary Energy,Renewables,2047,170.025657064134
+Global Sources of Primary Energy,Renewables,2048,175.9764095068508
+Global Sources of Primary Energy,Renewables,2049,182.01460100732433
+Global Sources of Primary Energy,Renewables,2050,188.13708151395235
+Global Sources of Primary Energy,Renewables,2051,194.28583197700766
+Global Sources of Primary Energy,Renewables,2052,200.40971553559748
+Global Sources of Primary Energy,Renewables,2053,206.47632049004685
+Global Sources of Primary Energy,Renewables,2054,212.46413129016122
+Global Sources of Primary Energy,Renewables,2055,218.36598560467763
+Global Sources of Primary Energy,Renewables,2056,224.18391326874536
+Global Sources of Primary Energy,Renewables,2057,229.92618440740674
+Global Sources of Primary Energy,Renewables,2058,235.5986790526464
+Global Sources of Primary Energy,Renewables,2059,241.20298948992462
+Global Sources of Primary Energy,Renewables,2060,246.7363665099188
+Global Sources of Primary Energy,Renewables,2061,252.18219965382573
+Global Sources of Primary Energy,Renewables,2062,257.51832256408386
+Global Sources of Primary Energy,Renewables,2063,262.70037186626826
+Global Sources of Primary Energy,Renewables,2064,267.69859286233253
+Global Sources of Primary Energy,Renewables,2065,272.50319776493393
+Global Sources of Primary Energy,Renewables,2066,276.2162201333396
+Global Sources of Primary Energy,Renewables,2067,279.40341713268776
+Global Sources of Primary Energy,Renewables,2068,281.4698655168993
+Global Sources of Primary Energy,Renewables,2069,283.0523889141209
+Global Sources of Primary Energy,Renewables,2070,284.6224756554179
+Global Sources of Primary Energy,Renewables,2071,286.4009764795522
+Global Sources of Primary Energy,Renewables,2072,288.4357273836106
+Global Sources of Primary Energy,Renewables,2073,290.6916815775635
+Global Sources of Primary Energy,Renewables,2074,293.0969532416402
+Global Sources of Primary Energy,Renewables,2075,295.56809842603366
+Global Sources of Primary Energy,Renewables,2076,298.0303635923987
+Global Sources of Primary Energy,Renewables,2077,300.42955376371134
+Global Sources of Primary Energy,Renewables,2078,302.735430378734
+Global Sources of Primary Energy,Renewables,2079,304.93940389408476
+Global Sources of Primary Energy,Renewables,2080,307.04846152075777
+Global Sources of Primary Energy,Renewables,2081,309.811467969312
+Global Sources of Primary Energy,Renewables,2082,313.4280391268548
+Global Sources of Primary Energy,Renewables,2083,317.8439539643711
+Global Sources of Primary Energy,Renewables,2084,322.50478153011824
+Global Sources of Primary Energy,Renewables,2085,327.02559881166286
+Global Sources of Primary Energy,Renewables,2086,331.22502464003105
+Global Sources of Primary Energy,Renewables,2087,335.05098274640386
+Global Sources of Primary Energy,Renewables,2088,338.52307071336236
+Global Sources of Primary Energy,Renewables,2089,341.69425600230306
+Global Sources of Primary Energy,Renewables,2090,344.6330739885065
+Global Sources of Primary Energy,Renewables,2091,347.0546320787088
+Global Sources of Primary Energy,Renewables,2092,347.57387673560567
+Global Sources of Primary Energy,Renewables,2093,346.21745853703084
+Global Sources of Primary Energy,Renewables,2094,343.8575552920154
+Global Sources of Primary Energy,Renewables,2095,341.24532299672285
+Global Sources of Primary Energy,Renewables,2096,338.6799280892121
+Global Sources of Primary Energy,Renewables,2097,336.12624616823757
+Global Sources of Primary Energy,Renewables,2098,333.4139400968375
+Global Sources of Primary Energy,Renewables,2099,330.3651711694206
+Global Sources of Primary Energy,Renewables,2100,326.8802647559554
+Global Sources of Primary Energy,Bioenergy,1990,34.995
+Global Sources of Primary Energy,Bioenergy,1991,35.27213384898273
+Global Sources of Primary Energy,Bioenergy,1992,35.81767702029408
+Global Sources of Primary Energy,Bioenergy,1993,36.36257964952288
+Global Sources of Primary Energy,Bioenergy,1994,36.88162688619116
+Global Sources of Primary Energy,Bioenergy,1995,37.422040442945985
+Global Sources of Primary Energy,Bioenergy,1996,37.96955986597563
+Global Sources of Primary Energy,Bioenergy,1997,38.568331286889816
+Global Sources of Primary Energy,Bioenergy,1998,39.17348758465706
+Global Sources of Primary Energy,Bioenergy,1999,39.70213163237182
+Global Sources of Primary Energy,Bioenergy,2000,40.24932595403398
+Global Sources of Primary Energy,Bioenergy,2001,40.82826143464624
+Global Sources of Primary Energy,Bioenergy,2002,41.340409217619886
+Global Sources of Primary Energy,Bioenergy,2003,41.85042928144225
+Global Sources of Primary Energy,Bioenergy,2004,42.45269221105093
+Global Sources of Primary Energy,Bioenergy,2005,43.192761829780935
+Global Sources of Primary Energy,Bioenergy,2006,44.001593814759396
+Global Sources of Primary Energy,Bioenergy,2007,44.89338652831828
+Global Sources of Primary Energy,Bioenergy,2008,45.79753657078069
+Global Sources of Primary Energy,Bioenergy,2009,46.47539096159621
+Global Sources of Primary Energy,Bioenergy,2010,46.89922810610672
+Global Sources of Primary Energy,Bioenergy,2011,47.493758273729846
+Global Sources of Primary Energy,Bioenergy,2012,48.115850396650494
+Global Sources of Primary Energy,Bioenergy,2013,48.666158670986185
+Global Sources of Primary Energy,Bioenergy,2014,49.17325389344948
+Global Sources of Primary Energy,Bioenergy,2015,49.661855512495066
+Global Sources of Primary Energy,Bioenergy,2016,50.126447271051624
+Global Sources of Primary Energy,Bioenergy,2017,50.57824183072028
+Global Sources of Primary Energy,Bioenergy,2018,51.048221277326085
+Global Sources of Primary Energy,Bioenergy,2019,51.494645917950876
+Global Sources of Primary Energy,Bioenergy,2020,51.71578001833834
+Global Sources of Primary Energy,Bioenergy,2021,51.592592169387494
+Global Sources of Primary Energy,Bioenergy,2022,51.804135538133814
+Global Sources of Primary Energy,Bioenergy,2023,52.05677342062426
+Global Sources of Primary Energy,Bioenergy,2024,52.30120406647469
+Global Sources of Primary Energy,Bioenergy,2025,52.511199957849676
+Global Sources of Primary Energy,Bioenergy,2026,52.64852918924781
+Global Sources of Primary Energy,Bioenergy,2027,52.75177242938526
+Global Sources of Primary Energy,Bioenergy,2028,52.7488119518773
+Global Sources of Primary Energy,Bioenergy,2029,52.67275744241862
+Global Sources of Primary Energy,Bioenergy,2030,52.55300384743918
+Global Sources of Primary Energy,Bioenergy,2031,52.37870701026551
+Global Sources of Primary Energy,Bioenergy,2032,52.146024139480204
+Global Sources of Primary Energy,Bioenergy,2033,51.857154657666634
+Global Sources of Primary Energy,Bioenergy,2034,51.517187163772554
+Global Sources of Primary Energy,Bioenergy,2035,51.13177055903047
+Global Sources of Primary Energy,Bioenergy,2036,50.70580468643237
+Global Sources of Primary Energy,Bioenergy,2037,50.241353776126985
+Global Sources of Primary Energy,Bioenergy,2038,49.83308007023741
+Global Sources of Primary Energy,Bioenergy,2039,49.467027390386264
+Global Sources of Primary Energy,Bioenergy,2040,49.09739475749293
+Global Sources of Primary Energy,Bioenergy,2041,48.73325746140077
+Global Sources of Primary Energy,Bioenergy,2042,48.3861826552566
+Global Sources of Primary Energy,Bioenergy,2043,48.06652247242097
+Global Sources of Primary Energy,Bioenergy,2044,47.78552639276395
+Global Sources of Primary Energy,Bioenergy,2045,47.5396364954035
+Global Sources of Primary Energy,Bioenergy,2046,47.32512466588501
+Global Sources of Primary Energy,Bioenergy,2047,47.14021795881146
+Global Sources of Primary Energy,Bioenergy,2048,46.98438618494064
+Global Sources of Primary Energy,Bioenergy,2049,46.85599014112122
+Global Sources of Primary Energy,Bioenergy,2050,46.74891209987969
+Global Sources of Primary Energy,Bioenergy,2051,46.66221047715806
+Global Sources of Primary Energy,Bioenergy,2052,46.59915566010925
+Global Sources of Primary Energy,Bioenergy,2053,46.56247368182146
+Global Sources of Primary Energy,Bioenergy,2054,46.5538797758725
+Global Sources of Primary Energy,Bioenergy,2055,46.57402628524622
+Global Sources of Primary Energy,Bioenergy,2056,46.62325874260069
+Global Sources of Primary Energy,Bioenergy,2057,46.702096865030526
+Global Sources of Primary Energy,Bioenergy,2058,46.81026980742918
+Global Sources of Primary Energy,Bioenergy,2059,46.94697319814128
+Global Sources of Primary Energy,Bioenergy,2060,47.11151344731623
+Global Sources of Primary Energy,Bioenergy,2061,47.30351203653357
+Global Sources of Primary Energy,Bioenergy,2062,47.52235719215049
+Global Sources of Primary Energy,Bioenergy,2063,47.76082787526095
+Global Sources of Primary Energy,Bioenergy,2064,48.010827147877514
+Global Sources of Primary Energy,Bioenergy,2065,48.27183988118514
+Global Sources of Primary Energy,Bioenergy,2066,48.54376840603517
+Global Sources of Primary Energy,Bioenergy,2067,48.83193130688962
+Global Sources of Primary Energy,Bioenergy,2068,49.14000783654056
+Global Sources of Primary Energy,Bioenergy,2069,49.46311795047141
+Global Sources of Primary Energy,Bioenergy,2070,49.79369324347633
+Global Sources of Primary Energy,Bioenergy,2071,50.126160802202534
+Global Sources of Primary Energy,Bioenergy,2072,50.45757802931777
+Global Sources of Primary Energy,Bioenergy,2073,50.7864208821776
+Global Sources of Primary Energy,Bioenergy,2074,51.11101028204882
+Global Sources of Primary Energy,Bioenergy,2075,51.42908666457129
+Global Sources of Primary Energy,Bioenergy,2076,51.738026631811
+Global Sources of Primary Energy,Bioenergy,2077,52.03539982802731
+Global Sources of Primary Energy,Bioenergy,2078,52.31925737230158
+Global Sources of Primary Energy,Bioenergy,2079,52.588359510484636
+Global Sources of Primary Energy,Bioenergy,2080,52.84186998378963
+Global Sources of Primary Energy,Bioenergy,2081,53.09727533922037
+Global Sources of Primary Energy,Bioenergy,2082,53.35332147382609
+Global Sources of Primary Energy,Bioenergy,2083,53.600857585193936
+Global Sources of Primary Energy,Bioenergy,2084,53.840088755790745
+Global Sources of Primary Energy,Bioenergy,2085,54.069153569092556
+Global Sources of Primary Energy,Bioenergy,2086,54.28658359379106
+Global Sources of Primary Energy,Bioenergy,2087,54.49098332568154
+Global Sources of Primary Energy,Bioenergy,2088,54.68187162763462
+Global Sources of Primary Energy,Bioenergy,2089,54.85972384672573
+Global Sources of Primary Energy,Bioenergy,2090,55.02587446041134
+Global Sources of Primary Energy,Bioenergy,2091,55.18108778816792
+Global Sources of Primary Energy,Bioenergy,2092,55.31695475682749
+Global Sources of Primary Energy,Bioenergy,2093,55.42923929658114
+Global Sources of Primary Energy,Bioenergy,2094,55.522848210285126
+Global Sources of Primary Energy,Bioenergy,2095,55.600062220869724
+Global Sources of Primary Energy,Bioenergy,2096,55.65758752431389
+Global Sources of Primary Energy,Bioenergy,2097,55.689153972759875
+Global Sources of Primary Energy,Bioenergy,2098,55.68845136459158
+Global Sources of Primary Energy,Bioenergy,2099,55.65005351903401
+Global Sources of Primary Energy,Bioenergy,2100,55.56994434886322
+Global Sources of Primary Energy,Nuclear,1990,7.256454875739646
+Global Sources of Primary Energy,Nuclear,1991,7.083815400731233
+Global Sources of Primary Energy,Nuclear,1992,6.911370842555441
+Global Sources of Primary Energy,Nuclear,1993,6.757547484370816
+Global Sources of Primary Energy,Nuclear,1994,6.636817664209998
+Global Sources of Primary Energy,Nuclear,1995,6.560246913497179
+Global Sources of Primary Energy,Nuclear,1996,6.527761133838348
+Global Sources of Primary Energy,Nuclear,1997,6.530545207142934
+Global Sources of Primary Energy,Nuclear,1998,6.557055359746172
+Global Sources of Primary Energy,Nuclear,1999,6.62950349338573
+Global Sources of Primary Energy,Nuclear,2000,6.7443886186269495
+Global Sources of Primary Energy,Nuclear,2001,6.898890354197042
+Global Sources of Primary Energy,Nuclear,2002,7.086975212913817
+Global Sources of Primary Energy,Nuclear,2003,7.3005785342919065
+Global Sources of Primary Energy,Nuclear,2004,7.53439355962216
+Global Sources of Primary Energy,Nuclear,2005,7.788084346007101
+Global Sources of Primary Energy,Nuclear,2006,8.063110052083411
+Global Sources of Primary Energy,Nuclear,2007,8.360882429807903
+Global Sources of Primary Energy,Nuclear,2008,8.680453249894152
+Global Sources of Primary Energy,Nuclear,2009,9.011679720068694
+Global Sources of Primary Energy,Nuclear,2010,9.30150017040304
+Global Sources of Primary Energy,Nuclear,2011,9.591559544347101
+Global Sources of Primary Energy,Nuclear,2012,9.870717618066992
+Global Sources of Primary Energy,Nuclear,2013,10.136394870978947
+Global Sources of Primary Energy,Nuclear,2014,10.390245568013505
+Global Sources of Primary Energy,Nuclear,2015,10.630757085117793
+Global Sources of Primary Energy,Nuclear,2016,10.858792043316527
+Global Sources of Primary Energy,Nuclear,2017,11.077855745667987
+Global Sources of Primary Energy,Nuclear,2018,11.28857724061624
+Global Sources of Primary Energy,Nuclear,2019,11.484135397766588
+Global Sources of Primary Energy,Nuclear,2020,11.61918915109772
+Global Sources of Primary Energy,Nuclear,2021,11.733655062895957
+Global Sources of Primary Energy,Nuclear,2022,11.867157902969275
+Global Sources of Primary Energy,Nuclear,2023,11.987201184632807
+Global Sources of Primary Energy,Nuclear,2024,12.105902037883927
+Global Sources of Primary Energy,Nuclear,2025,12.214570732684889
+Global Sources of Primary Energy,Nuclear,2026,12.310616807426642
+Global Sources of Primary Energy,Nuclear,2027,12.39001312179954
+Global Sources of Primary Energy,Nuclear,2028,12.509702082306603
+Global Sources of Primary Energy,Nuclear,2029,12.639606637135486
+Global Sources of Primary Energy,Nuclear,2030,12.796290508947429
+Global Sources of Primary Energy,Nuclear,2031,13.015338849493457
+Global Sources of Primary Energy,Nuclear,2032,13.334339330329216
+Global Sources of Primary Energy,Nuclear,2033,13.78459592971739
+Global Sources of Primary Energy,Nuclear,2034,14.387019530640481
+Global Sources of Primary Energy,Nuclear,2035,15.081881971257909
+Global Sources of Primary Energy,Nuclear,2036,15.865741352474569
+Global Sources of Primary Energy,Nuclear,2037,16.76018459998172
+Global Sources of Primary Energy,Nuclear,2038,17.747222831284947
+Global Sources of Primary Energy,Nuclear,2039,18.808436458570018
+Global Sources of Primary Energy,Nuclear,2040,19.93371568796602
+Global Sources of Primary Energy,Nuclear,2041,21.11855814669242
+Global Sources of Primary Energy,Nuclear,2042,22.36743303087613
+Global Sources of Primary Energy,Nuclear,2043,23.802865720109462
+Global Sources of Primary Energy,Nuclear,2044,25.484186179272648
+Global Sources of Primary Energy,Nuclear,2045,27.410193323471333
+Global Sources of Primary Energy,Nuclear,2046,29.53783283805602
+Global Sources of Primary Energy,Nuclear,2047,31.801601833492597
+Global Sources of Primary Energy,Nuclear,2048,34.131750355503755
+Global Sources of Primary Energy,Nuclear,2049,36.480506409861675
+Global Sources of Primary Energy,Nuclear,2050,38.82133691689177
+Global Sources of Primary Energy,Nuclear,2051,41.13920807727476
+Global Sources of Primary Energy,Nuclear,2052,43.426562244144904
+Global Sources of Primary Energy,Nuclear,2053,45.681147074777165
+Global Sources of Primary Energy,Nuclear,2054,47.89019926292963
+Global Sources of Primary Energy,Nuclear,2055,50.03509764318501
+Global Sources of Primary Energy,Nuclear,2056,52.13777386784915
+Global Sources of Primary Energy,Nuclear,2057,54.189925485386006
+Global Sources of Primary Energy,Nuclear,2058,56.179988916844785
+Global Sources of Primary Energy,Nuclear,2059,58.09356274457236
+Global Sources of Primary Energy,Nuclear,2060,59.914907540963455
+Global Sources of Primary Energy,Nuclear,2061,61.632611705096615
+Global Sources of Primary Energy,Nuclear,2062,63.243699300182215
+Global Sources of Primary Energy,Nuclear,2063,64.74590058240958
+Global Sources of Primary Energy,Nuclear,2064,66.13912499136667
+Global Sources of Primary Energy,Nuclear,2065,67.4266112047517
+Global Sources of Primary Energy,Nuclear,2066,68.63844834993233
+Global Sources of Primary Energy,Nuclear,2067,69.88064428088803
+Global Sources of Primary Energy,Nuclear,2068,71.2090739464916
+Global Sources of Primary Energy,Nuclear,2069,72.5800397516566
+Global Sources of Primary Energy,Nuclear,2070,73.92469070015035
+Global Sources of Primary Energy,Nuclear,2071,75.18891165488593
+Global Sources of Primary Energy,Nuclear,2072,76.34761386531738
+Global Sources of Primary Energy,Nuclear,2073,77.39848309939886
+Global Sources of Primary Energy,Nuclear,2074,78.3504220999433
+Global Sources of Primary Energy,Nuclear,2075,79.21553422968243
+Global Sources of Primary Energy,Nuclear,2076,80.00449225050392
+Global Sources of Primary Energy,Nuclear,2077,80.72465690954066
+Global Sources of Primary Energy,Nuclear,2078,81.38032259116068
+Global Sources of Primary Energy,Nuclear,2079,81.97384067656274
+Global Sources of Primary Energy,Nuclear,2080,82.50672699076533
+Global Sources of Primary Energy,Nuclear,2081,79.7756008924443
+Global Sources of Primary Energy,Nuclear,2082,80.0997847988219
+Global Sources of Primary Energy,Nuclear,2083,80.18776171502988
+Global Sources of Primary Energy,Nuclear,2084,80.04875026104587
+Global Sources of Primary Energy,Nuclear,2085,79.70411234493723
+Global Sources of Primary Energy,Nuclear,2086,79.17840428328296
+Global Sources of Primary Energy,Nuclear,2087,78.49340842147524
+Global Sources of Primary Energy,Nuclear,2088,77.66846888020929
+Global Sources of Primary Energy,Nuclear,2089,76.72147798316999
+Global Sources of Primary Energy,Nuclear,2090,75.6692157771397
+Global Sources of Primary Energy,Nuclear,2091,74.52813754207118
+Global Sources of Primary Energy,Nuclear,2092,73.32702799698949
+Global Sources of Primary Energy,Nuclear,2093,72.09587755134336
+Global Sources of Primary Energy,Nuclear,2094,70.85216897800551
+Global Sources of Primary Energy,Nuclear,2095,69.59137983290921
+Global Sources of Primary Energy,Nuclear,2096,68.29808193260533
+Global Sources of Primary Energy,Nuclear,2097,66.95489734494681
+Global Sources of Primary Energy,Nuclear,2098,65.55034169779415
+Global Sources of Primary Energy,Nuclear,2099,64.08138728675618
+Global Sources of Primary Energy,Nuclear,2100,62.55275364869773
+Global Sources of Primary Energy,New zero-carbon,1990,0
+Global Sources of Primary Energy,New zero-carbon,1991,0
+Global Sources of Primary Energy,New zero-carbon,1992,0
+Global Sources of Primary Energy,New zero-carbon,1993,0
+Global Sources of Primary Energy,New zero-carbon,1994,0
+Global Sources of Primary Energy,New zero-carbon,1995,0
+Global Sources of Primary Energy,New zero-carbon,1996,0
+Global Sources of Primary Energy,New zero-carbon,1997,0
+Global Sources of Primary Energy,New zero-carbon,1998,0
+Global Sources of Primary Energy,New zero-carbon,1999,0
+Global Sources of Primary Energy,New zero-carbon,2000,0
+Global Sources of Primary Energy,New zero-carbon,2001,0
+Global Sources of Primary Energy,New zero-carbon,2002,0
+Global Sources of Primary Energy,New zero-carbon,2003,0
+Global Sources of Primary Energy,New zero-carbon,2004,0
+Global Sources of Primary Energy,New zero-carbon,2005,0
+Global Sources of Primary Energy,New zero-carbon,2006,0
+Global Sources of Primary Energy,New zero-carbon,2007,0
+Global Sources of Primary Energy,New zero-carbon,2008,0
+Global Sources of Primary Energy,New zero-carbon,2009,0
+Global Sources of Primary Energy,New zero-carbon,2010,0
+Global Sources of Primary Energy,New zero-carbon,2011,0
+Global Sources of Primary Energy,New zero-carbon,2012,0
+Global Sources of Primary Energy,New zero-carbon,2013,0
+Global Sources of Primary Energy,New zero-carbon,2014,0
+Global Sources of Primary Energy,New zero-carbon,2015,0
+Global Sources of Primary Energy,New zero-carbon,2016,0
+Global Sources of Primary Energy,New zero-carbon,2017,0
+Global Sources of Primary Energy,New zero-carbon,2018,0
+Global Sources of Primary Energy,New zero-carbon,2019,0
+Global Sources of Primary Energy,New zero-carbon,2020,0
+Global Sources of Primary Energy,New zero-carbon,2021,0
+Global Sources of Primary Energy,New zero-carbon,2022,0
+Global Sources of Primary Energy,New zero-carbon,2023,0
+Global Sources of Primary Energy,New zero-carbon,2024,0
+Global Sources of Primary Energy,New zero-carbon,2025,0
+Global Sources of Primary Energy,New zero-carbon,2026,0
+Global Sources of Primary Energy,New zero-carbon,2027,0
+Global Sources of Primary Energy,New zero-carbon,2028,0
+Global Sources of Primary Energy,New zero-carbon,2029,0
+Global Sources of Primary Energy,New zero-carbon,2030,0
+Global Sources of Primary Energy,New zero-carbon,2031,0
+Global Sources of Primary Energy,New zero-carbon,2032,0
+Global Sources of Primary Energy,New zero-carbon,2033,0
+Global Sources of Primary Energy,New zero-carbon,2034,0
+Global Sources of Primary Energy,New zero-carbon,2035,0
+Global Sources of Primary Energy,New zero-carbon,2036,0
+Global Sources of Primary Energy,New zero-carbon,2037,0
+Global Sources of Primary Energy,New zero-carbon,2038,0
+Global Sources of Primary Energy,New zero-carbon,2039,0
+Global Sources of Primary Energy,New zero-carbon,2040,0
+Global Sources of Primary Energy,New zero-carbon,2041,0
+Global Sources of Primary Energy,New zero-carbon,2042,0
+Global Sources of Primary Energy,New zero-carbon,2043,0
+Global Sources of Primary Energy,New zero-carbon,2044,0
+Global Sources of Primary Energy,New zero-carbon,2045,0
+Global Sources of Primary Energy,New zero-carbon,2046,0
+Global Sources of Primary Energy,New zero-carbon,2047,0
+Global Sources of Primary Energy,New zero-carbon,2048,0
+Global Sources of Primary Energy,New zero-carbon,2049,0
+Global Sources of Primary Energy,New zero-carbon,2050,0
+Global Sources of Primary Energy,New zero-carbon,2051,0
+Global Sources of Primary Energy,New zero-carbon,2052,0
+Global Sources of Primary Energy,New zero-carbon,2053,0
+Global Sources of Primary Energy,New zero-carbon,2054,0
+Global Sources of Primary Energy,New zero-carbon,2055,0
+Global Sources of Primary Energy,New zero-carbon,2056,0
+Global Sources of Primary Energy,New zero-carbon,2057,0
+Global Sources of Primary Energy,New zero-carbon,2058,0
+Global Sources of Primary Energy,New zero-carbon,2059,0
+Global Sources of Primary Energy,New zero-carbon,2060,0
+Global Sources of Primary Energy,New zero-carbon,2061,0
+Global Sources of Primary Energy,New zero-carbon,2062,0
+Global Sources of Primary Energy,New zero-carbon,2063,0
+Global Sources of Primary Energy,New zero-carbon,2064,0
+Global Sources of Primary Energy,New zero-carbon,2065,0
+Global Sources of Primary Energy,New zero-carbon,2066,0
+Global Sources of Primary Energy,New zero-carbon,2067,0
+Global Sources of Primary Energy,New zero-carbon,2068,0
+Global Sources of Primary Energy,New zero-carbon,2069,0
+Global Sources of Primary Energy,New zero-carbon,2070,0
+Global Sources of Primary Energy,New zero-carbon,2071,0.0001036453429328788
+Global Sources of Primary Energy,New zero-carbon,2072,0.003503986177364311
+Global Sources of Primary Energy,New zero-carbon,2073,0.019656838557663144
+Global Sources of Primary Energy,New zero-carbon,2074,0.060273432726693554
+Global Sources of Primary Energy,New zero-carbon,2075,0.13571332489314689
+Global Sources of Primary Energy,New zero-carbon,2076,0.2531187854470283
+Global Sources of Primary Energy,New zero-carbon,2077,0.41579104435597786
+Global Sources of Primary Energy,New zero-carbon,2078,0.6233864141283626
+Global Sources of Primary Energy,New zero-carbon,2079,0.872593849060922
+Global Sources of Primary Energy,New zero-carbon,2080,1.158027503135034
+Global Sources of Primary Energy,New zero-carbon,2081,1.4750085594801132
+Global Sources of Primary Energy,New zero-carbon,2082,1.8138646366855045
+Global Sources of Primary Energy,New zero-carbon,2083,2.1669248597837703
+Global Sources of Primary Energy,New zero-carbon,2084,2.528324398672877
+Global Sources of Primary Energy,New zero-carbon,2085,2.894056453283575
+Global Sources of Primary Energy,New zero-carbon,2086,3.2616167511225207
+Global Sources of Primary Energy,New zero-carbon,2087,3.629540089499203
+Global Sources of Primary Energy,New zero-carbon,2088,3.997020499031635
+Global Sources of Primary Energy,New zero-carbon,2089,4.363644874826865
+Global Sources of Primary Energy,New zero-carbon,2090,4.7292029483898546
+Global Sources of Primary Energy,New zero-carbon,2091,5.143109417217301
+Global Sources of Primary Energy,New zero-carbon,2092,5.9648758614125
+Global Sources of Primary Energy,New zero-carbon,2093,7.148210077979111
+Global Sources of Primary Energy,New zero-carbon,2094,8.717497284989577
+Global Sources of Primary Energy,New zero-carbon,2095,10.978352427309945
+Global Sources of Primary Energy,New zero-carbon,2096,14.224114729437401
+Global Sources of Primary Energy,New zero-carbon,2097,18.70384930402567
+Global Sources of Primary Energy,New zero-carbon,2098,24.56785792496002
+Global Sources of Primary Energy,New zero-carbon,2099,31.824762480321827
+Global Sources of Primary Energy,New zero-carbon,2100,40.336475835321345
+Price of Electricity,baseline,1990,0.15441232331041174
+Price of Electricity,baseline,1991,0.15417643406834544
+Price of Electricity,baseline,1992,0.1531436594584234
+Price of Electricity,baseline,1993,0.15288156509506806
+Price of Electricity,baseline,1994,0.15418989268452063
+Price of Electricity,baseline,1995,0.15731123562765528
+Price of Electricity,baseline,1996,0.16169722116746452
+Price of Electricity,baseline,1997,0.1667468125391491
+Price of Electricity,baseline,1998,0.1702036737643761
+Price of Electricity,baseline,1999,0.17207854698822397
+Price of Electricity,baseline,2000,0.17485321235437654
+Price of Electricity,baseline,2001,0.17610335675996966
+Price of Electricity,baseline,2002,0.17441196646180002
+Price of Electricity,baseline,2003,0.17257740875097655
+Price of Electricity,baseline,2004,0.17264958598901603
+Price of Electricity,baseline,2005,0.17382827010738483
+Price of Electricity,baseline,2006,0.17495850177431227
+Price of Electricity,baseline,2007,0.17602641996342538
+Price of Electricity,baseline,2008,0.17423990986174753
+Price of Electricity,baseline,2009,0.16602946971479934
+Price of Electricity,baseline,2010,0.15871723132818966
+Price of Electricity,baseline,2011,0.1555319270651614
+Price of Electricity,baseline,2012,0.15277493733348518
+Price of Electricity,baseline,2013,0.1498130052674767
+Price of Electricity,baseline,2014,0.14699276393510477
+Price of Electricity,baseline,2015,0.14432521679978608
+Price of Electricity,baseline,2016,0.14200302753863453
+Price of Electricity,baseline,2017,0.14032812962955385
+Price of Electricity,baseline,2018,0.13914322656493525
+Price of Electricity,baseline,2019,0.1376599465903533
+Price of Electricity,baseline,2020,0.13236191236649827
+Price of Electricity,baseline,2021,0.12839795420731095
+Price of Electricity,baseline,2022,0.12853920152270276
+Price of Electricity,baseline,2023,0.12888162828322317
+Price of Electricity,baseline,2024,0.1295144606324566
+Price of Electricity,baseline,2025,0.1293083395762097
+Price of Electricity,baseline,2026,0.1283161259959105
+Price of Electricity,baseline,2027,0.12697454217798856
+Price of Electricity,baseline,2028,0.12568461367219963
+Price of Electricity,baseline,2029,0.12463270294913723
+Price of Electricity,baseline,2030,0.12375524331106154
+Price of Electricity,baseline,2031,0.12300197864687025
+Price of Electricity,baseline,2032,0.12233539321377805
+Price of Electricity,baseline,2033,0.1217385584659902
+Price of Electricity,baseline,2034,0.12120579498985541
+Price of Electricity,baseline,2035,0.12073622985547793
+Price of Electricity,baseline,2036,0.12032966727825331
+Price of Electricity,baseline,2037,0.11998281810594566
+Price of Electricity,baseline,2038,0.11968833086783093
+Price of Electricity,baseline,2039,0.1194358502601291
+Price of Electricity,baseline,2040,0.11922610358819437
+Price of Electricity,baseline,2041,0.11906193312719059
+Price of Electricity,baseline,2042,0.11889677379599016
+Price of Electricity,baseline,2043,0.11870831089985119
+Price of Electricity,baseline,2044,0.11848916368707683
+Price of Electricity,baseline,2045,0.11823864604780915
+Price of Electricity,baseline,2046,0.1179488198478995
+Price of Electricity,baseline,2047,0.11761967711177476
+Price of Electricity,baseline,2048,0.11725675626183683
+Price of Electricity,baseline,2049,0.11685647906134755
+Price of Electricity,baseline,2050,0.1164211461787249
+Price of Electricity,baseline,2051,0.11595503535653469
+Price of Electricity,baseline,2052,0.11545158068985494
+Price of Electricity,baseline,2053,0.1149092293751989
+Price of Electricity,baseline,2054,0.11433480100354243
+Price of Electricity,baseline,2055,0.11373531053310355
+Price of Electricity,baseline,2056,0.11311931469002483
+Price of Electricity,baseline,2057,0.11249918018782644
+Price of Electricity,baseline,2058,0.11188590919809806
+Price of Electricity,baseline,2059,0.11128617356968264
+Price of Electricity,baseline,2060,0.11070703457112736
+Price of Electricity,baseline,2061,0.11015571722128137
+Price of Electricity,baseline,2062,0.10963653739985176
+Price of Electricity,baseline,2063,0.10916261004301915
+Price of Electricity,baseline,2064,0.10873052090032423
+Price of Electricity,baseline,2065,0.10833477170530967
+Price of Electricity,baseline,2066,0.10797449977841
+Price of Electricity,baseline,2067,0.10765128577443908
+Price of Electricity,baseline,2068,0.10736341914028463
+Price of Electricity,baseline,2069,0.10708421956607493
+Price of Electricity,baseline,2070,0.10682172435044233
+Price of Electricity,baseline,2071,0.1065883531574441
+Price of Electricity,baseline,2072,0.10638822954118521
+Price of Electricity,baseline,2073,0.10622092437754943
+Price of Electricity,baseline,2074,0.10608292506045697
+Price of Electricity,baseline,2075,0.10596898148835344
+Price of Electricity,baseline,2076,0.10587222624016165
+Price of Electricity,baseline,2077,0.10578707261817535
+Price of Electricity,baseline,2078,0.10571146969832274
+Price of Electricity,baseline,2079,0.10564629131544954
+Price of Electricity,baseline,2080,0.10559254870817403
+Price of Electricity,baseline,2081,0.10555307975715562
+Price of Electricity,baseline,2082,0.10553158245948308
+Price of Electricity,baseline,2083,0.1055287125036837
+Price of Electricity,baseline,2084,0.1055428305614025
+Price of Electricity,baseline,2085,0.10557122700359806
+Price of Electricity,baseline,2086,0.10561073631924643
+Price of Electricity,baseline,2087,0.10565936255627682
+Price of Electricity,baseline,2088,0.1057154639973733
+Price of Electricity,baseline,2089,0.10577780390744443
+Price of Electricity,baseline,2090,0.1058456970213573
+Price of Electricity,baseline,2091,0.10591907034530114
+Price of Electricity,baseline,2092,0.10600021878153672
+Price of Electricity,baseline,2093,0.1060896102854313
+Price of Electricity,baseline,2094,0.10618537255139943
+Price of Electricity,baseline,2095,0.10628490543870253
+Price of Electricity,baseline,2096,0.106384766631054
+Price of Electricity,baseline,2097,0.10648207512079282
+Price of Electricity,baseline,2098,0.10657650164530161
+Price of Electricity,baseline,2099,0.1066675425597992
+Price of Electricity,baseline,2100,0.1067542443179103
+Price of Electricity,scenario,1990,0.15441232331041174
+Price of Electricity,scenario,1991,0.15417643406834544
+Price of Electricity,scenario,1992,0.1531436594585665
+Price of Electricity,scenario,1993,0.15288156510062426
+Price of Electricity,scenario,1994,0.15418989273323983
+Price of Electricity,scenario,1995,0.1573112358422692
+Price of Electricity,scenario,1996,0.16169722180915116
+Price of Electricity,scenario,1997,0.166746814044993
+Price of Electricity,scenario,1998,0.17020367676302883
+Price of Electricity,scenario,1999,0.17207855223473523
+Price of Electricity,scenario,2000,0.17485322095533948
+Price of Electricity,scenario,2001,0.17610336991080983
+Price of Electricity,scenario,2002,0.17441198536256597
+Price of Electricity,scenario,2003,0.17257743499189493
+Price of Electricity,scenario,2004,0.17264962176623072
+Price of Electricity,scenario,2005,0.1738283174246434
+Price of Electricity,scenario,2006,0.17495856235941284
+Price of Electricity,scenario,2007,0.1760264958638486
+Price of Electricity,scenario,2008,0.17424000101696155
+Price of Electricity,scenario,2009,0.16602957032963062
+Price of Electricity,scenario,2010,0.15871731851954324
+Price of Electricity,scenario,2011,0.15553201957078883
+Price of Electricity,scenario,2012,0.1527750387072641
+Price of Electricity,scenario,2013,0.1498131150154983
+Price of Electricity,scenario,2014,0.14699288056168974
+Price of Electricity,scenario,2015,0.1443253383191145
+Price of Electricity,scenario,2016,0.14200315208806
+Price of Electricity,scenario,2017,0.14032825576910243
+Price of Electricity,scenario,2018,0.13914335262714028
+Price of Electricity,scenario,2019,0.1376600694792601
+Price of Electricity,scenario,2020,0.13236202453613727
+Price of Electricity,scenario,2021,0.1283980580145873
+Price of Electricity,scenario,2022,0.12853930916640088
+Price of Electricity,scenario,2023,0.12888174095698937
+Price of Electricity,scenario,2024,0.1295145766647184
+Price of Electricity,scenario,2025,0.12931224197770788
+Price of Electricity,scenario,2026,0.12832646727342686
+Price of Electricity,scenario,2027,0.12699062852882168
+Price of Electricity,scenario,2028,0.12689825867454088
+Price of Electricity,scenario,2029,0.12783289631864492
+Price of Electricity,scenario,2030,0.12880483854419114
+Price of Electricity,scenario,2031,0.1295792908119183
+Price of Electricity,scenario,2032,0.1300898927706458
+Price of Electricity,scenario,2033,0.13034139851203053
+Price of Electricity,scenario,2034,0.13036225753682842
+Price of Electricity,scenario,2035,0.13018649079242273
+Price of Electricity,scenario,2036,0.12986476994198518
+Price of Electricity,scenario,2037,0.129404112795799
+Price of Electricity,scenario,2038,0.12861781362153318
+Price of Electricity,scenario,2039,0.12761098588988948
+Price of Electricity,scenario,2040,0.12665677634712497
+Price of Electricity,scenario,2041,0.12591095504591918
+Price of Electricity,scenario,2042,0.12541176838870544
+Price of Electricity,scenario,2043,0.12532706321730686
+Price of Electricity,scenario,2044,0.12556203841511
+Price of Electricity,scenario,2045,0.12579644061092243
+Price of Electricity,scenario,2046,0.1258569954559747
+Price of Electricity,scenario,2047,0.12566658204433329
+Price of Electricity,scenario,2048,0.1252384336469283
+Price of Electricity,scenario,2049,0.12463711986219592
+Price of Electricity,scenario,2050,0.12389217634110292
+Price of Electricity,scenario,2051,0.12305374128439935
+Price of Electricity,scenario,2052,0.12216508672918538
+Price of Electricity,scenario,2053,0.12125657691522661
+Price of Electricity,scenario,2054,0.12035219756305233
+Price of Electricity,scenario,2055,0.11947955635452998
+Price of Electricity,scenario,2056,0.11864154794253015
+Price of Electricity,scenario,2057,0.11783567692570031
+Price of Electricity,scenario,2058,0.11706342884179381
+Price of Electricity,scenario,2059,0.1163260537251548
+Price of Electricity,scenario,2060,0.11562188417642551
+Price of Electricity,scenario,2061,0.1149493734431667
+Price of Electricity,scenario,2062,0.11431589138312154
+Price of Electricity,scenario,2063,0.11367204088804113
+Price of Electricity,scenario,2064,0.11301343649604702
+Price of Electricity,scenario,2065,0.11240547853004129
+Price of Electricity,scenario,2066,0.11204815334129188
+Price of Electricity,scenario,2067,0.11176979557678392
+Price of Electricity,scenario,2068,0.11164331115551628
+Price of Electricity,scenario,2069,0.11160598754296712
+Price of Electricity,scenario,2070,0.11157350990125074
+Price of Electricity,scenario,2071,0.11151941715948277
+Price of Electricity,scenario,2072,0.11146231958048766
+Price of Electricity,scenario,2073,0.11142997216524388
+Price of Electricity,scenario,2074,0.11143370332749455
+Price of Electricity,scenario,2075,0.11146626990381886
+Price of Electricity,scenario,2076,0.11151036619687221
+Price of Electricity,scenario,2077,0.1115464567287015
+Price of Electricity,scenario,2078,0.11155931003779412
+Price of Electricity,scenario,2079,0.11154239219230774
+Price of Electricity,scenario,2080,0.11149516175291524
+Price of Electricity,scenario,2081,0.11254492999207083
+Price of Electricity,scenario,2082,0.11278557035407617
+Price of Electricity,scenario,2083,0.11224753571188724
+Price of Electricity,scenario,2084,0.1112575397937397
+Price of Electricity,scenario,2085,0.11012683416836534
+Price of Electricity,scenario,2086,0.1090582933411936
+Price of Electricity,scenario,2087,0.10815108244377601
+Price of Electricity,scenario,2088,0.10743887468224511
+Price of Electricity,scenario,2089,0.10692451709882432
+Price of Electricity,scenario,2090,0.10659870257859298
+Price of Electricity,scenario,2091,0.10645848664773504
+Price of Electricity,scenario,2092,0.10666156255631346
+Price of Electricity,scenario,2093,0.1073754936111874
+Price of Electricity,scenario,2094,0.10861906998452596
+Price of Electricity,scenario,2095,0.11015802314794865
+Price of Electricity,scenario,2096,0.11165626362595604
+Price of Electricity,scenario,2097,0.11278734156548398
+Price of Electricity,scenario,2098,0.11330965259856211
+Price of Electricity,scenario,2099,0.1130958704740602
+Price of Electricity,scenario,2100,0.11214287735814042
+Average Price of Energy to Consumers,baseline,1990,28.009882754634383
+Average Price of Energy to Consumers,baseline,1991,28.091758096091233
+Average Price of Energy to Consumers,baseline,1992,28.064265416972532
+Average Price of Energy to Consumers,baseline,1993,28.13361215227227
+Average Price of Energy to Consumers,baseline,1994,28.38287344583021
+Average Price of Energy to Consumers,baseline,1995,28.870590213491155
+Average Price of Energy to Consumers,baseline,1996,29.545451137468028
+Average Price of Energy to Consumers,baseline,1997,30.347512977643778
+Average Price of Energy to Consumers,baseline,1998,31.033021416804008
+Average Price of Energy to Consumers,baseline,1999,31.51134863527855
+Average Price of Energy to Consumers,baseline,2000,32.06320813352497
+Average Price of Energy to Consumers,baseline,2001,32.495771130510455
+Average Price of Energy to Consumers,baseline,2002,32.53650386549417
+Average Price of Energy to Consumers,baseline,2003,32.480881603671214
+Average Price of Energy to Consumers,baseline,2004,32.60713079497014
+Average Price of Energy to Consumers,baseline,2005,32.90938754628205
+Average Price of Energy to Consumers,baseline,2006,33.2363213448724
+Average Price of Energy to Consumers,baseline,2007,33.59151192727269
+Average Price of Energy to Consumers,baseline,2008,33.659198022756755
+Average Price of Energy to Consumers,baseline,2009,32.901236814957294
+Average Price of Energy to Consumers,baseline,2010,31.944229599537042
+Average Price of Energy to Consumers,baseline,2011,31.513012375173247
+Average Price of Energy to Consumers,baseline,2012,31.184094203719557
+Average Price of Energy to Consumers,baseline,2013,30.85817809991644
+Average Price of Energy to Consumers,baseline,2014,30.59198599588476
+Average Price of Energy to Consumers,baseline,2015,30.391540963352735
+Average Price of Energy to Consumers,baseline,2016,30.268690222266905
+Average Price of Energy to Consumers,baseline,2017,30.2457396408515
+Average Price of Energy to Consumers,baseline,2018,30.319111761969513
+Average Price of Energy to Consumers,baseline,2019,30.367515948003188
+Average Price of Energy to Consumers,baseline,2020,29.85650894575726
+Average Price of Energy to Consumers,baseline,2021,29.30321049238822
+Average Price of Energy to Consumers,baseline,2022,29.456206143410732
+Average Price of Energy to Consumers,baseline,2023,29.688247411933133
+Average Price of Energy to Consumers,baseline,2024,30.01087977636189
+Average Price of Energy to Consumers,baseline,2025,30.25021565136341
+Average Price of Energy to Consumers,baseline,2026,30.369431580615483
+Average Price of Energy to Consumers,baseline,2027,30.42122558119508
+Average Price of Energy to Consumers,baseline,2028,30.461162159640526
+Average Price of Energy to Consumers,baseline,2029,30.507616183415262
+Average Price of Energy to Consumers,baseline,2030,30.562141328278287
+Average Price of Energy to Consumers,baseline,2031,30.629385101269573
+Average Price of Energy to Consumers,baseline,2032,30.711460501206936
+Average Price of Energy to Consumers,baseline,2033,30.809359851743583
+Average Price of Energy to Consumers,baseline,2034,30.922830156123204
+Average Price of Energy to Consumers,baseline,2035,31.050364568387803
+Average Price of Energy to Consumers,baseline,2036,31.18971966657441
+Average Price of Energy to Consumers,baseline,2037,31.338052070765492
+Average Price of Energy to Consumers,baseline,2038,31.492266729089394
+Average Price of Energy to Consumers,baseline,2039,31.649298067446143
+Average Price of Energy to Consumers,baseline,2040,31.80717052608879
+Average Price of Energy to Consumers,baseline,2041,31.96765696571284
+Average Price of Energy to Consumers,baseline,2042,32.12399668317414
+Average Price of Energy to Consumers,baseline,2043,32.272106367957235
+Average Price of Energy to Consumers,baseline,2044,32.410394078151235
+Average Price of Energy to Consumers,baseline,2045,32.53886946306186
+Average Price of Energy to Consumers,baseline,2046,32.65848565771767
+Average Price of Energy to Consumers,baseline,2047,32.76959330148995
+Average Price of Energy to Consumers,baseline,2048,32.873362232861105
+Average Price of Energy to Consumers,baseline,2049,32.96836106563157
+Average Price of Energy to Consumers,baseline,2050,33.05406215455824
+Average Price of Energy to Consumers,baseline,2051,33.13050195107257
+Average Price of Energy to Consumers,baseline,2052,33.19761199377516
+Average Price of Energy to Consumers,baseline,2053,33.25487650059425
+Average Price of Energy to Consumers,baseline,2054,33.30241238495719
+Average Price of Energy to Consumers,baseline,2055,33.34046275512094
+Average Price of Energy to Consumers,baseline,2056,33.36972216060629
+Average Price of Energy to Consumers,baseline,2057,33.39201348600158
+Average Price of Energy to Consumers,baseline,2058,33.40977636117107
+Average Price of Energy to Consumers,baseline,2059,33.42483829248026
+Average Price of Energy to Consumers,baseline,2060,33.43883404315099
+Average Price of Energy to Consumers,baseline,2061,33.4536264600011
+Average Price of Energy to Consumers,baseline,2062,33.47072664738257
+Average Price of Energy to Consumers,baseline,2063,33.492930382353826
+Average Price of Energy to Consumers,baseline,2064,33.52040582080491
+Average Price of Energy to Consumers,baseline,2065,33.552123346128845
+Average Price of Energy to Consumers,baseline,2066,33.58836014158508
+Average Price of Energy to Consumers,baseline,2067,33.62959912678079
+Average Price of Energy to Consumers,baseline,2068,33.6756825420969
+Average Price of Energy to Consumers,baseline,2069,33.72067364352107
+Average Price of Energy to Consumers,baseline,2070,33.765546254761425
+Average Price of Energy to Consumers,baseline,2071,33.81299903491558
+Average Price of Energy to Consumers,baseline,2072,33.864301617857826
+Average Price of Energy to Consumers,baseline,2073,33.919677465288345
+Average Price of Energy to Consumers,baseline,2074,33.9785845835139
+Average Price of Energy to Consumers,baseline,2075,34.03998567486922
+Average Price of Energy to Consumers,baseline,2076,34.10244017424329
+Average Price of Energy to Consumers,baseline,2077,34.16454896868069
+Average Price of Energy to Consumers,baseline,2078,34.22551082870262
+Average Price of Energy to Consumers,baseline,2079,34.28547636876947
+Average Price of Energy to Consumers,baseline,2080,34.34489545844691
+Average Price of Energy to Consumers,baseline,2081,34.40480700966643
+Average Price of Energy to Consumers,baseline,2082,34.46662632775817
+Average Price of Energy to Consumers,baseline,2083,34.530989896506114
+Average Price of Energy to Consumers,baseline,2084,34.597886396770015
+Average Price of Energy to Consumers,baseline,2085,34.666913444777514
+Average Price of Energy to Consumers,baseline,2086,34.73741080109993
+Average Price of Energy to Consumers,baseline,2087,34.80884110426244
+Average Price of Energy to Consumers,baseline,2088,34.880753610088135
+Average Price of Energy to Consumers,baseline,2089,34.95292298053829
+Average Price of Energy to Consumers,baseline,2090,35.025320108219375
+Average Price of Energy to Consumers,baseline,2091,35.0980790965046
+Average Price of Energy to Consumers,baseline,2092,35.17204043509808
+Average Price of Energy to Consumers,baseline,2093,35.247582449449844
+Average Price of Energy to Consumers,baseline,2094,35.32436995415515
+Average Price of Energy to Consumers,baseline,2095,35.401835444409734
+Average Price of Energy to Consumers,baseline,2096,35.479114025741346
+Average Price of Energy to Consumers,baseline,2097,35.5554081277292
+Average Price of Energy to Consumers,baseline,2098,35.630622870913065
+Average Price of Energy to Consumers,baseline,2099,35.704610772047594
+Average Price of Energy to Consumers,baseline,2100,35.777061470154415
+Average Price of Energy to Consumers,scenario,1990,28.009882754634383
+Average Price of Energy to Consumers,scenario,1991,28.091758096091617
+Average Price of Energy to Consumers,scenario,1992,28.0642654180846
+Average Price of Energy to Consumers,scenario,1993,28.13361217502131
+Average Price of Energy to Consumers,scenario,1994,28.38287358332797
+Average Price of Energy to Consumers,scenario,1995,28.87059067801446
+Average Price of Energy to Consumers,scenario,1996,29.545452264881604
+Average Price of Energy to Consumers,scenario,1997,30.347515211957635
+Average Price of Energy to Consumers,scenario,1998,31.033025288200253
+Average Price of Energy to Consumers,scenario,1999,31.511354734177697
+Average Price of Energy to Consumers,scenario,2000,32.063217164334816
+Average Price of Energy to Consumers,scenario,2001,32.49578383507102
+Average Price of Energy to Consumers,scenario,2002,32.536520955771785
+Average Price of Energy to Consumers,scenario,2003,32.480903895934475
+Average Price of Energy to Consumers,scenario,2004,32.60715932897937
+Average Price of Energy to Consumers,scenario,2005,32.909423451860526
+Average Price of Energy to Consumers,scenario,2006,33.2363657427508
+Average Price of Energy to Consumers,scenario,2007,33.59156609817979
+Average Price of Energy to Consumers,scenario,2008,33.6592627375636
+Average Price of Energy to Consumers,scenario,2009,32.901312326185504
+Average Price of Energy to Consumers,scenario,2010,31.944312409687495
+Average Price of Energy to Consumers,scenario,2011,31.513104836858165
+Average Price of Energy to Consumers,scenario,2012,31.184196717804685
+Average Price of Energy to Consumers,scenario,2013,30.858290321026157
+Average Price of Energy to Consumers,scenario,2014,30.592107584754423
+Average Price of Energy to Consumers,scenario,2015,30.391671689305397
+Average Price of Energy to Consumers,scenario,2016,30.268830085881994
+Average Price of Energy to Consumers,scenario,2017,30.245888860528897
+Average Price of Energy to Consumers,scenario,2018,30.31927083537492
+Average Price of Energy to Consumers,scenario,2019,30.367685062456438
+Average Price of Energy to Consumers,scenario,2020,29.85668601320228
+Average Price of Energy to Consumers,scenario,2021,29.303395172981208
+Average Price of Energy to Consumers,scenario,2022,29.4564029826587
+Average Price of Energy to Consumers,scenario,2023,29.688457458338952
+Average Price of Energy to Consumers,scenario,2024,30.0111035481497
+Average Price of Energy to Consumers,scenario,2025,30.251030778916522
+Average Price of Energy to Consumers,scenario,2026,30.37144081248798
+Average Price of Energy to Consumers,scenario,2027,30.424424292600214
+Average Price of Energy to Consumers,scenario,2028,30.822799608388312
+Average Price of Energy to Consumers,scenario,2029,31.312724598970313
+Average Price of Energy to Consumers,scenario,2030,31.80252376283824
+Average Price of Energy to Consumers,scenario,2031,32.27421498124321
+Average Price of Energy to Consumers,scenario,2032,32.72516071335599
+Average Price of Energy to Consumers,scenario,2033,33.158231383116856
+Average Price of Energy to Consumers,scenario,2034,33.57670592102106
+Average Price of Energy to Consumers,scenario,2035,33.98259072690117
+Average Price of Energy to Consumers,scenario,2036,34.380715179204856
+Average Price of Energy to Consumers,scenario,2037,34.77139753751393
+Average Price of Energy to Consumers,scenario,2038,34.949972432818434
+Average Price of Energy to Consumers,scenario,2039,35.135412374302014
+Average Price of Energy to Consumers,scenario,2040,35.34153076181846
+Average Price of Energy to Consumers,scenario,2041,35.587534405110866
+Average Price of Energy to Consumers,scenario,2042,35.87596665435878
+Average Price of Energy to Consumers,scenario,2043,36.31756703742584
+Average Price of Energy to Consumers,scenario,2044,36.79523845539841
+Average Price of Energy to Consumers,scenario,2045,37.26984773981411
+Average Price of Energy to Consumers,scenario,2046,37.71247288468759
+Average Price of Energy to Consumers,scenario,2047,38.105832539429635
+Average Price of Energy to Consumers,scenario,2048,38.447563438535674
+Average Price of Energy to Consumers,scenario,2049,38.742969269010274
+Average Price of Energy to Consumers,scenario,2050,38.995496394286114
+Average Price of Energy to Consumers,scenario,2051,39.21430476813844
+Average Price of Energy to Consumers,scenario,2052,39.4079364210934
+Average Price of Energy to Consumers,scenario,2053,39.582964629519616
+Average Price of Energy to Consumers,scenario,2054,39.74448441729791
+Average Price of Energy to Consumers,scenario,2055,39.8977797721312
+Average Price of Energy to Consumers,scenario,2056,40.043398418844816
+Average Price of Energy to Consumers,scenario,2057,40.18039736383055
+Average Price of Energy to Consumers,scenario,2058,40.307926815886
+Average Price of Energy to Consumers,scenario,2059,40.42482982553848
+Average Price of Energy to Consumers,scenario,2060,40.53004010772056
+Average Price of Energy to Consumers,scenario,2061,40.62285834592222
+Average Price of Energy to Consumers,scenario,2062,40.70475554480596
+Average Price of Energy to Consumers,scenario,2063,40.66207894883956
+Average Price of Energy to Consumers,scenario,2064,40.626707915713624
+Average Price of Energy to Consumers,scenario,2065,40.594298723744636
+Average Price of Energy to Consumers,scenario,2066,40.609011563411016
+Average Price of Energy to Consumers,scenario,2067,40.64178667682136
+Average Price of Energy to Consumers,scenario,2068,40.71198152535163
+Average Price of Energy to Consumers,scenario,2069,40.805439147924154
+Average Price of Energy to Consumers,scenario,2070,40.89842736606174
+Average Price of Energy to Consumers,scenario,2071,40.98061881642858
+Average Price of Energy to Consumers,scenario,2072,41.05402443868349
+Average Price of Energy to Consumers,scenario,2073,41.124514477271255
+Average Price of Energy to Consumers,scenario,2074,41.19506438624647
+Average Price of Energy to Consumers,scenario,2075,41.26465545692877
+Average Price of Energy to Consumers,scenario,2076,41.329652195615715
+Average Price of Energy to Consumers,scenario,2077,41.38575877435498
+Average Price of Energy to Consumers,scenario,2078,41.42954131478428
+Average Price of Energy to Consumers,scenario,2079,41.45966074801282
+Average Price of Energy to Consumers,scenario,2080,41.47625453736268
+Average Price of Energy to Consumers,scenario,2081,41.77274893956107
+Average Price of Energy to Consumers,scenario,2082,41.87129595660837
+Average Price of Energy to Consumers,scenario,2083,41.76426560168354
+Average Price of Energy to Consumers,scenario,2084,41.53326270150874
+Average Price of Energy to Consumers,scenario,2085,41.25746924467947
+Average Price of Energy to Consumers,scenario,2086,40.98996960822202
+Average Price of Energy to Consumers,scenario,2087,40.75807231557974
+Average Price of Energy to Consumers,scenario,2088,40.572575197180385
+Average Price of Energy to Consumers,scenario,2089,40.43626271682461
+Average Price of Energy to Consumers,scenario,2090,40.348521413558764
+Average Price of Energy to Consumers,scenario,2091,40.30883309785556
+Average Price of Energy to Consumers,scenario,2092,40.35412897356411
+Average Price of Energy to Consumers,scenario,2093,40.52686779163982
+Average Price of Energy to Consumers,scenario,2094,40.83522577813406
+Average Price of Energy to Consumers,scenario,2095,41.22201492575685
+Average Price of Energy to Consumers,scenario,2096,41.60158090206639
+Average Price of Energy to Consumers,scenario,2097,41.88833424132166
+Average Price of Energy to Consumers,scenario,2098,42.01724223934258
+Average Price of Energy to Consumers,scenario,2099,41.95219543172888
+Average Price of Energy to Consumers,scenario,2100,41.689718528986084
+Net Revenue from Energy Taxes & Subsidies,baseline,1990,-0.07633477650015352
+Net Revenue from Energy Taxes & Subsidies,baseline,1991,-0.07347420989334541
+Net Revenue from Energy Taxes & Subsidies,baseline,1992,-0.07287695493427615
+Net Revenue from Energy Taxes & Subsidies,baseline,1993,-0.07258272776386743
+Net Revenue from Energy Taxes & Subsidies,baseline,1994,-0.07265479571803923
+Net Revenue from Energy Taxes & Subsidies,baseline,1995,-0.07341691392991201
+Net Revenue from Energy Taxes & Subsidies,baseline,1996,-0.07493493092779169
+Net Revenue from Energy Taxes & Subsidies,baseline,1997,-0.07724852232163837
+Net Revenue from Energy Taxes & Subsidies,baseline,1998,-0.08004728259960281
+Net Revenue from Energy Taxes & Subsidies,baseline,1999,-0.08315237248024254
+Net Revenue from Energy Taxes & Subsidies,baseline,2000,-0.08669274906975888
+Net Revenue from Energy Taxes & Subsidies,baseline,2001,-0.09107631941399874
+Net Revenue from Energy Taxes & Subsidies,baseline,2002,-0.09577712893727974
+Net Revenue from Energy Taxes & Subsidies,baseline,2003,-0.10072805829461196
+Net Revenue from Energy Taxes & Subsidies,baseline,2004,-0.10627054718609685
+Net Revenue from Energy Taxes & Subsidies,baseline,2005,-0.11279948071726953
+Net Revenue from Energy Taxes & Subsidies,baseline,2006,-0.12004244580170309
+Net Revenue from Energy Taxes & Subsidies,baseline,2007,-0.1279853189371576
+Net Revenue from Energy Taxes & Subsidies,baseline,2008,-0.13659854575492714
+Net Revenue from Energy Taxes & Subsidies,baseline,2009,-0.1451080870040128
+Net Revenue from Energy Taxes & Subsidies,baseline,2010,-0.1520256773517078
+Net Revenue from Energy Taxes & Subsidies,baseline,2011,-0.15981349479308127
+Net Revenue from Energy Taxes & Subsidies,baseline,2012,-0.1686158032526176
+Net Revenue from Energy Taxes & Subsidies,baseline,2013,-0.17776843439067835
+Net Revenue from Energy Taxes & Subsidies,baseline,2014,-0.18710808261773082
+Net Revenue from Energy Taxes & Subsidies,baseline,2015,-0.19678857335091982
+Net Revenue from Energy Taxes & Subsidies,baseline,2016,-0.18192286206078168
+Net Revenue from Energy Taxes & Subsidies,baseline,2017,-0.1668420173752091
+Net Revenue from Energy Taxes & Subsidies,baseline,2018,-0.15203114781871674
+Net Revenue from Energy Taxes & Subsidies,baseline,2019,-0.13830555432201552
+Net Revenue from Energy Taxes & Subsidies,baseline,2020,-0.12932414276000204
+Net Revenue from Energy Taxes & Subsidies,baseline,2021,-0.11483767325928462
+Net Revenue from Energy Taxes & Subsidies,baseline,2022,-0.09823224922661944
+Net Revenue from Energy Taxes & Subsidies,baseline,2023,-0.1078914404157556
+Net Revenue from Energy Taxes & Subsidies,baseline,2024,-0.11613751029700636
+Net Revenue from Energy Taxes & Subsidies,baseline,2025,-0.12290531128462368
+Net Revenue from Energy Taxes & Subsidies,baseline,2026,-0.13164185285599905
+Net Revenue from Energy Taxes & Subsidies,baseline,2027,-0.13904784223948186
+Net Revenue from Energy Taxes & Subsidies,baseline,2028,-0.14547474550411166
+Net Revenue from Energy Taxes & Subsidies,baseline,2029,-0.15172903678246175
+Net Revenue from Energy Taxes & Subsidies,baseline,2030,-0.15782282492390287
+Net Revenue from Energy Taxes & Subsidies,baseline,2031,-0.16362565636082804
+Net Revenue from Energy Taxes & Subsidies,baseline,2032,-0.16915806873488082
+Net Revenue from Energy Taxes & Subsidies,baseline,2033,-0.17448848587496602
+Net Revenue from Energy Taxes & Subsidies,baseline,2034,-0.17968920027382795
+Net Revenue from Energy Taxes & Subsidies,baseline,2035,-0.18480781845584593
+Net Revenue from Energy Taxes & Subsidies,baseline,2036,-0.18991986606051703
+Net Revenue from Energy Taxes & Subsidies,baseline,2037,-0.19513492165595436
+Net Revenue from Energy Taxes & Subsidies,baseline,2038,-0.20057692109272418
+Net Revenue from Energy Taxes & Subsidies,baseline,2039,-0.20636778124160182
+Net Revenue from Energy Taxes & Subsidies,baseline,2040,-0.21261875785191475
+Net Revenue from Energy Taxes & Subsidies,baseline,2041,-0.21940127194218384
+Net Revenue from Energy Taxes & Subsidies,baseline,2042,-0.22672946026601126
+Net Revenue from Energy Taxes & Subsidies,baseline,2043,-0.23463080024440175
+Net Revenue from Energy Taxes & Subsidies,baseline,2044,-0.24310773638939231
+Net Revenue from Energy Taxes & Subsidies,baseline,2045,-0.2521587526939606
+Net Revenue from Energy Taxes & Subsidies,baseline,2046,-0.26176341976666695
+Net Revenue from Energy Taxes & Subsidies,baseline,2047,-0.27187858504376416
+Net Revenue from Energy Taxes & Subsidies,baseline,2048,-0.2824759888284265
+Net Revenue from Energy Taxes & Subsidies,baseline,2049,-0.29352374894621336
+Net Revenue from Energy Taxes & Subsidies,baseline,2050,-0.30499274841131196
+Net Revenue from Energy Taxes & Subsidies,baseline,2051,-0.31684967594771796
+Net Revenue from Energy Taxes & Subsidies,baseline,2052,-0.3289863080836821
+Net Revenue from Energy Taxes & Subsidies,baseline,2053,-0.34128434607355884
+Net Revenue from Energy Taxes & Subsidies,baseline,2054,-0.3536802707113864
+Net Revenue from Energy Taxes & Subsidies,baseline,2055,-0.36612084607178974
+Net Revenue from Energy Taxes & Subsidies,baseline,2056,-0.378552692334321
+Net Revenue from Energy Taxes & Subsidies,baseline,2057,-0.3909373982379254
+Net Revenue from Energy Taxes & Subsidies,baseline,2058,-0.4032418108445236
+Net Revenue from Energy Taxes & Subsidies,baseline,2059,-0.41542661398179903
+Net Revenue from Energy Taxes & Subsidies,baseline,2060,-0.42746552648181513
+Net Revenue from Energy Taxes & Subsidies,baseline,2061,-0.43947098349895686
+Net Revenue from Energy Taxes & Subsidies,baseline,2062,-0.45139086281056884
+Net Revenue from Energy Taxes & Subsidies,baseline,2063,-0.46295524480161576
+Net Revenue from Energy Taxes & Subsidies,baseline,2064,-0.4740978545562786
+Net Revenue from Energy Taxes & Subsidies,baseline,2065,-0.48481209436742245
+Net Revenue from Energy Taxes & Subsidies,baseline,2066,-0.49514790942385345
+Net Revenue from Energy Taxes & Subsidies,baseline,2067,-0.5051743447254732
+Net Revenue from Energy Taxes & Subsidies,baseline,2068,-0.5149357179825789
+Net Revenue from Energy Taxes & Subsidies,baseline,2069,-0.5243060649544118
+Net Revenue from Energy Taxes & Subsidies,baseline,2070,-0.5331888818048584
+Net Revenue from Energy Taxes & Subsidies,baseline,2071,-0.5417088348822421
+Net Revenue from Energy Taxes & Subsidies,baseline,2072,-0.5499479584060897
+Net Revenue from Energy Taxes & Subsidies,baseline,2073,-0.5579257799651601
+Net Revenue from Energy Taxes & Subsidies,baseline,2074,-0.5656316449413125
+Net Revenue from Energy Taxes & Subsidies,baseline,2075,-0.5730402303969138
+Net Revenue from Energy Taxes & Subsidies,baseline,2076,-0.5801151281679148
+Net Revenue from Energy Taxes & Subsidies,baseline,2077,-0.5868162624703
+Net Revenue from Energy Taxes & Subsidies,baseline,2078,-0.5931362761653556
+Net Revenue from Energy Taxes & Subsidies,baseline,2079,-0.5991055429296509
+Net Revenue from Energy Taxes & Subsidies,baseline,2080,-0.6047619084837871
+Net Revenue from Energy Taxes & Subsidies,baseline,2081,-0.6101478199999262
+Net Revenue from Energy Taxes & Subsidies,baseline,2082,-0.6153231473107388
+Net Revenue from Energy Taxes & Subsidies,baseline,2083,-0.6203301612899665
+Net Revenue from Energy Taxes & Subsidies,baseline,2084,-0.6251775026947827
+Net Revenue from Energy Taxes & Subsidies,baseline,2085,-0.629859871019758
+Net Revenue from Energy Taxes & Subsidies,baseline,2086,-0.6343687576018578
+Net Revenue from Energy Taxes & Subsidies,baseline,2087,-0.638712400871129
+Net Revenue from Energy Taxes & Subsidies,baseline,2088,-0.6429118828996369
+Net Revenue from Energy Taxes & Subsidies,baseline,2089,-0.6469892361890982
+Net Revenue from Energy Taxes & Subsidies,baseline,2090,-0.6509710880652736
+Net Revenue from Energy Taxes & Subsidies,baseline,2091,-0.6548850126211814
+Net Revenue from Energy Taxes & Subsidies,baseline,2092,-0.658777905595316
+Net Revenue from Energy Taxes & Subsidies,baseline,2093,-0.6626960355244615
+Net Revenue from Energy Taxes & Subsidies,baseline,2094,-0.6666487602611554
+Net Revenue from Energy Taxes & Subsidies,baseline,2095,-0.6706288424639382
+Net Revenue from Energy Taxes & Subsidies,baseline,2096,-0.6746191258249175
+Net Revenue from Energy Taxes & Subsidies,baseline,2097,-0.6785984803510192
+Net Revenue from Energy Taxes & Subsidies,baseline,2098,-0.6825689295105856
+Net Revenue from Energy Taxes & Subsidies,baseline,2099,-0.6865419030562985
+Net Revenue from Energy Taxes & Subsidies,baseline,2100,-0.6905137447586145
+Net Revenue from Energy Taxes & Subsidies,scenario,1990,-0.07633477650015352
+Net Revenue from Energy Taxes & Subsidies,scenario,1991,-0.07347420989335329
+Net Revenue from Energy Taxes & Subsidies,scenario,1992,-0.07287695493140933
+Net Revenue from Energy Taxes & Subsidies,scenario,1993,-0.07258272765167995
+Net Revenue from Energy Taxes & Subsidies,scenario,1994,-0.07265479498135152
+Net Revenue from Energy Taxes & Subsidies,scenario,1995,-0.07341691138440942
+Net Revenue from Energy Taxes & Subsidies,scenario,1996,-0.07493492468130347
+Net Revenue from Energy Taxes & Subsidies,scenario,1997,-0.07724850967582986
+Net Revenue from Energy Taxes & Subsidies,scenario,1998,-0.0800472601033122
+Net Revenue from Energy Taxes & Subsidies,scenario,1999,-0.0831523357971945
+Net Revenue from Energy Taxes & Subsidies,scenario,2000,-0.08669269258657297
+Net Revenue from Energy Taxes & Subsidies,scenario,2001,-0.09107623591558589
+Net Revenue from Energy Taxes & Subsidies,scenario,2002,-0.0957770102261144
+Net Revenue from Energy Taxes & Subsidies,scenario,2003,-0.10072789483018363
+Net Revenue from Energy Taxes & Subsidies,scenario,2004,-0.10627032684517401
+Net Revenue from Energy Taxes & Subsidies,scenario,2005,-0.1127991905569884
+Net Revenue from Energy Taxes & Subsidies,scenario,2006,-0.12004206938402262
+Net Revenue from Energy Taxes & Subsidies,scenario,2007,-0.1279848395355152
+Net Revenue from Energy Taxes & Subsidies,scenario,2008,-0.1365979481226237
+Net Revenue from Energy Taxes & Subsidies,scenario,2009,-0.14510736384227352
+Net Revenue from Energy Taxes & Subsidies,scenario,2010,-0.15202482805946127
+Net Revenue from Energy Taxes & Subsidies,scenario,2011,-0.1598124978956439
+Net Revenue from Energy Taxes & Subsidies,scenario,2012,-0.16861464383037783
+Net Revenue from Energy Taxes & Subsidies,scenario,2013,-0.1777670988881196
+Net Revenue from Energy Taxes & Subsidies,scenario,2014,-0.187106557484504
+Net Revenue from Energy Taxes & Subsidies,scenario,2015,-0.19678684699864368
+Net Revenue from Energy Taxes & Subsidies,scenario,2016,-0.18192088193789535
+Net Revenue from Energy Taxes & Subsidies,scenario,2017,-0.16683976066454032
+Net Revenue from Energy Taxes & Subsidies,scenario,2018,-0.15202858595921276
+Net Revenue from Energy Taxes & Subsidies,scenario,2019,-0.1383027026495246
+Net Revenue from Energy Taxes & Subsidies,scenario,2020,-0.1293210424851461
+Net Revenue from Energy Taxes & Subsidies,scenario,2021,-0.11483414720111929
+Net Revenue from Energy Taxes & Subsidies,scenario,2022,-0.09822824482862069
+Net Revenue from Energy Taxes & Subsidies,scenario,2023,-0.10788701252738986
+Net Revenue from Energy Taxes & Subsidies,scenario,2024,-0.11613262472452712
+Net Revenue from Energy Taxes & Subsidies,scenario,2025,-0.12290078880953104
+Net Revenue from Energy Taxes & Subsidies,scenario,2026,-0.13164307565660494
+Net Revenue from Energy Taxes & Subsidies,scenario,2027,-0.1390585596416991
+Net Revenue from Energy Taxes & Subsidies,scenario,2028,0.06649050384417676
+Net Revenue from Energy Taxes & Subsidies,scenario,2029,0.2641551320009259
+Net Revenue from Energy Taxes & Subsidies,scenario,2030,0.4533946247361347
+Net Revenue from Energy Taxes & Subsidies,scenario,2031,0.6335692294216155
+Net Revenue from Energy Taxes & Subsidies,scenario,2032,0.8031199150247108
+Net Revenue from Energy Taxes & Subsidies,scenario,2033,0.9601143514379562
+Net Revenue from Energy Taxes & Subsidies,scenario,2034,1.099276569798485
+Net Revenue from Energy Taxes & Subsidies,scenario,2035,1.2185300382507092
+Net Revenue from Energy Taxes & Subsidies,scenario,2036,1.3231408799228839
+Net Revenue from Energy Taxes & Subsidies,scenario,2037,1.4128942681442336
+Net Revenue from Energy Taxes & Subsidies,scenario,2038,1.4055122515988043
+Net Revenue from Energy Taxes & Subsidies,scenario,2039,1.4176570813550573
+Net Revenue from Energy Taxes & Subsidies,scenario,2040,1.4294340843152518
+Net Revenue from Energy Taxes & Subsidies,scenario,2041,1.436748830490874
+Net Revenue from Energy Taxes & Subsidies,scenario,2042,1.4406970354611284
+Net Revenue from Energy Taxes & Subsidies,scenario,2043,1.526852094502501
+Net Revenue from Energy Taxes & Subsidies,scenario,2044,1.5732843843649087
+Net Revenue from Energy Taxes & Subsidies,scenario,2045,1.605002351540676
+Net Revenue from Energy Taxes & Subsidies,scenario,2046,1.6255893266731711
+Net Revenue from Energy Taxes & Subsidies,scenario,2047,1.6387389781786632
+Net Revenue from Energy Taxes & Subsidies,scenario,2048,1.645048571828591
+Net Revenue from Energy Taxes & Subsidies,scenario,2049,1.6442908156002864
+Net Revenue from Energy Taxes & Subsidies,scenario,2050,1.6383219692606292
+Net Revenue from Energy Taxes & Subsidies,scenario,2051,1.6273544967295317
+Net Revenue from Energy Taxes & Subsidies,scenario,2052,1.6110850599994286
+Net Revenue from Energy Taxes & Subsidies,scenario,2053,1.589627033783601
+Net Revenue from Energy Taxes & Subsidies,scenario,2054,1.5637233980852492
+Net Revenue from Energy Taxes & Subsidies,scenario,2055,1.533806478750071
+Net Revenue from Energy Taxes & Subsidies,scenario,2056,1.499638062961926
+Net Revenue from Energy Taxes & Subsidies,scenario,2057,1.461886267858208
+Net Revenue from Energy Taxes & Subsidies,scenario,2058,1.4213241095555258
+Net Revenue from Energy Taxes & Subsidies,scenario,2059,1.378372272397403
+Net Revenue from Energy Taxes & Subsidies,scenario,2060,1.3263631491834598
+Net Revenue from Energy Taxes & Subsidies,scenario,2061,1.2721021807552118
+Net Revenue from Energy Taxes & Subsidies,scenario,2062,1.2186957057648078
+Net Revenue from Energy Taxes & Subsidies,scenario,2063,1.09764849197769
+Net Revenue from Energy Taxes & Subsidies,scenario,2064,0.9911006510506244
+Net Revenue from Energy Taxes & Subsidies,scenario,2065,0.8938488614991724
+Net Revenue from Energy Taxes & Subsidies,scenario,2066,1.3401521989991125
+Net Revenue from Energy Taxes & Subsidies,scenario,2067,1.2510508012755313
+Net Revenue from Energy Taxes & Subsidies,scenario,2068,1.166828396634197
+Net Revenue from Energy Taxes & Subsidies,scenario,2069,1.092846013491053
+Net Revenue from Energy Taxes & Subsidies,scenario,2070,1.0251637217611203
+Net Revenue from Energy Taxes & Subsidies,scenario,2071,0.9643280267972056
+Net Revenue from Energy Taxes & Subsidies,scenario,2072,0.9118225970935181
+Net Revenue from Energy Taxes & Subsidies,scenario,2073,0.8654433039268314
+Net Revenue from Energy Taxes & Subsidies,scenario,2074,0.8237955300003201
+Net Revenue from Energy Taxes & Subsidies,scenario,2075,0.7860023578211965
+Net Revenue from Energy Taxes & Subsidies,scenario,2076,0.751368960882548
+Net Revenue from Energy Taxes & Subsidies,scenario,2077,0.7194364720403952
+Net Revenue from Energy Taxes & Subsidies,scenario,2078,0.6900037184124013
+Net Revenue from Energy Taxes & Subsidies,scenario,2079,0.6630014895486125
+Net Revenue from Energy Taxes & Subsidies,scenario,2080,0.6384103711600968
+Net Revenue from Energy Taxes & Subsidies,scenario,2081,1.1274157525525936
+Net Revenue from Energy Taxes & Subsidies,scenario,2082,1.0848788521488815
+Net Revenue from Energy Taxes & Subsidies,scenario,2083,1.0709181083893067
+Net Revenue from Energy Taxes & Subsidies,scenario,2084,1.072545596118231
+Net Revenue from Energy Taxes & Subsidies,scenario,2085,1.0801842795709637
+Net Revenue from Energy Taxes & Subsidies,scenario,2086,1.0906494250790109
+Net Revenue from Energy Taxes & Subsidies,scenario,2087,1.1029401192987223
+Net Revenue from Energy Taxes & Subsidies,scenario,2088,1.1170084383468706
+Net Revenue from Energy Taxes & Subsidies,scenario,2089,1.1306245796527095
+Net Revenue from Energy Taxes & Subsidies,scenario,2090,1.1427532586634621
+Net Revenue from Energy Taxes & Subsidies,scenario,2091,1.177968960843062
+Net Revenue from Energy Taxes & Subsidies,scenario,2092,1.1946430117018931
+Net Revenue from Energy Taxes & Subsidies,scenario,2093,1.2058567059668266
+Net Revenue from Energy Taxes & Subsidies,scenario,2094,1.2177756235877266
+Net Revenue from Energy Taxes & Subsidies,scenario,2095,1.2305369686666756
+Net Revenue from Energy Taxes & Subsidies,scenario,2096,1.2441457290782578
+Net Revenue from Energy Taxes & Subsidies,scenario,2097,1.2586346285878136
+Net Revenue from Energy Taxes & Subsidies,scenario,2098,1.2739366183492888
+Net Revenue from Energy Taxes & Subsidies,scenario,2099,1.289859535637273
+Net Revenue from Energy Taxes & Subsidies,scenario,2100,1.3061185897225545
+GDP per Capita,baseline,1990,11163.07347979732
+GDP per Capita,baseline,1991,11069.161866703098
+GDP per Capita,baseline,1992,11035.160936457814
+GDP per Capita,baseline,1993,11031.751130980047
+GDP per Capita,baseline,1994,11157.91454473554
+GDP per Capita,baseline,1995,11336.176143068753
+GDP per Capita,baseline,1996,11588.135052715017
+GDP per Capita,baseline,1997,11877.828837684516
+GDP per Capita,baseline,1998,12008.92434860054
+GDP per Capita,baseline,1999,12275.645345343271
+GDP per Capita,baseline,2000,12691.869776796639
+GDP per Capita,baseline,2001,12825.561581147174
+GDP per Capita,baseline,2002,13007.491634193082
+GDP per Capita,baseline,2003,13313.185735490108
+GDP per Capita,baseline,2004,13820.478445400073
+GDP per Capita,baseline,2005,14271.548151400793
+GDP per Capita,baseline,2006,14823.98095112433
+GDP per Capita,baseline,2007,15397.902747809574
+GDP per Capita,baseline,2008,15628.236482857314
+GDP per Capita,baseline,2009,15324.917406299252
+GDP per Capita,baseline,2010,15902.865151376795
+GDP per Capita,baseline,2011,16323.34415009758
+GDP per Capita,baseline,2012,16622.167021994024
+GDP per Capita,baseline,2013,16950.40746095484
+GDP per Capita,baseline,2014,17319.99859499122
+GDP per Capita,baseline,2015,17683.302535183808
+GDP per Capita,baseline,2016,18044.57652391069
+GDP per Capita,baseline,2017,18518.738883157177
+GDP per Capita,baseline,2018,18987.89228224512
+GDP per Capita,baseline,2019,19347.33280922026
+GDP per Capita,baseline,2020,18626.99865664736
+GDP per Capita,baseline,2021,19682.056079993232
+GDP per Capita,baseline,2022,20224.04405223956
+GDP per Capita,baseline,2023,20744.592003773578
+GDP per Capita,baseline,2024,21366.361152343074
+GDP per Capita,baseline,2025,21794.085382001165
+GDP per Capita,baseline,2026,22233.225846669044
+GDP per Capita,baseline,2027,22687.695476767713
+GDP per Capita,baseline,2028,23126.17848890354
+GDP per Capita,baseline,2029,23564.12892548207
+GDP per Capita,baseline,2030,24003.93027237234
+GDP per Capita,baseline,2031,24444.319337610134
+GDP per Capita,baseline,2032,24884.787252399725
+GDP per Capita,baseline,2033,25326.000159198225
+GDP per Capita,baseline,2034,25768.439045483377
+GDP per Capita,baseline,2035,26212.98017916113
+GDP per Capita,baseline,2036,26660.122365016843
+GDP per Capita,baseline,2037,27110.29252463931
+GDP per Capita,baseline,2038,27563.959241601937
+GDP per Capita,baseline,2039,28021.371688342726
+GDP per Capita,baseline,2040,28481.803447499984
+GDP per Capita,baseline,2041,28944.115665658923
+GDP per Capita,baseline,2042,29407.34492601813
+GDP per Capita,baseline,2043,29870.51770581955
+GDP per Capita,baseline,2044,30333.779135357596
+GDP per Capita,baseline,2045,30797.867004975105
+GDP per Capita,baseline,2046,31263.019254736657
+GDP per Capita,baseline,2047,31729.485931320836
+GDP per Capita,baseline,2048,32197.66338931575
+GDP per Capita,baseline,2049,32667.406353277533
+GDP per Capita,baseline,2050,33139.07201062706
+GDP per Capita,baseline,2051,33612.244752201455
+GDP per Capita,baseline,2052,34086.4011254723
+GDP per Capita,baseline,2053,34561.966124236336
+GDP per Capita,baseline,2054,35038.06494887453
+GDP per Capita,baseline,2055,35513.75135201832
+GDP per Capita,baseline,2056,35989.529260737574
+GDP per Capita,baseline,2057,36466.47986595404
+GDP per Capita,baseline,2058,36944.985690016
+GDP per Capita,baseline,2059,37424.96336076959
+GDP per Capita,baseline,2060,37907.12392553418
+GDP per Capita,baseline,2061,38392.14918886048
+GDP per Capita,baseline,2062,38879.81742529876
+GDP per Capita,baseline,2063,39369.68683312791
+GDP per Capita,baseline,2064,39862.17422252936
+GDP per Capita,baseline,2065,40358.06274543267
+GDP per Capita,baseline,2066,40858.492870514776
+GDP per Capita,baseline,2067,41363.76739265663
+GDP per Capita,baseline,2068,41873.90743083191
+GDP per Capita,baseline,2069,42389.37495734689
+GDP per Capita,baseline,2070,42910.52306662998
+GDP per Capita,baseline,2071,43437.7232724261
+GDP per Capita,baseline,2072,43971.22869119723
+GDP per Capita,baseline,2073,44510.81665179098
+GDP per Capita,baseline,2074,45055.897964890304
+GDP per Capita,baseline,2075,45605.97870817415
+GDP per Capita,baseline,2076,46159.97657420154
+GDP per Capita,baseline,2077,46717.042229305065
+GDP per Capita,baseline,2078,47278.14157502499
+GDP per Capita,baseline,2079,47843.84901040283
+GDP per Capita,baseline,2080,48414.691645029125
+GDP per Capita,baseline,2081,48993.30669828537
+GDP per Capita,baseline,2082,49579.99611186705
+GDP per Capita,baseline,2083,50174.42425960294
+GDP per Capita,baseline,2084,50776.94092598655
+GDP per Capita,baseline,2085,51386.76030599095
+GDP per Capita,baseline,2086,52004.200952324485
+GDP per Capita,baseline,2087,52629.40104378379
+GDP per Capita,baseline,2088,53262.25985712226
+GDP per Capita,baseline,2089,53903.2081734335
+GDP per Capita,baseline,2090,54552.37883818372
+GDP per Capita,baseline,2091,55211.95351043296
+GDP per Capita,baseline,2092,55883.041080286675
+GDP per Capita,baseline,2093,56565.053534994564
+GDP per Capita,baseline,2094,57258.09728793667
+GDP per Capita,baseline,2095,57961.826813866035
+GDP per Capita,baseline,2096,58675.167860249916
+GDP per Capita,baseline,2097,59398.898930013405
+GDP per Capita,baseline,2098,60133.396831906364
+GDP per Capita,baseline,2099,60877.74596310387
+GDP per Capita,baseline,2100,61631.694046291486
+GDP per Capita,scenario,1990,11163.07347979732
+GDP per Capita,scenario,1991,11069.161866703098
+GDP per Capita,scenario,1992,11035.160936457814
+GDP per Capita,scenario,1993,11031.751130980047
+GDP per Capita,scenario,1994,11157.91454473554
+GDP per Capita,scenario,1995,11336.176143068753
+GDP per Capita,scenario,1996,11588.135052715017
+GDP per Capita,scenario,1997,11877.828837684516
+GDP per Capita,scenario,1998,12008.92434860054
+GDP per Capita,scenario,1999,12275.645345343271
+GDP per Capita,scenario,2000,12691.869776796639
+GDP per Capita,scenario,2001,12825.561581147174
+GDP per Capita,scenario,2002,13007.491634193082
+GDP per Capita,scenario,2003,13313.185735490108
+GDP per Capita,scenario,2004,13820.478445400073
+GDP per Capita,scenario,2005,14271.548151400793
+GDP per Capita,scenario,2006,14823.98095112433
+GDP per Capita,scenario,2007,15397.902747809574
+GDP per Capita,scenario,2008,15628.236482857314
+GDP per Capita,scenario,2009,15324.917406299252
+GDP per Capita,scenario,2010,15902.865151376795
+GDP per Capita,scenario,2011,16323.34415009758
+GDP per Capita,scenario,2012,16622.167021994024
+GDP per Capita,scenario,2013,16950.40746095484
+GDP per Capita,scenario,2014,17319.99859499122
+GDP per Capita,scenario,2015,17683.302535183808
+GDP per Capita,scenario,2016,18044.57652391069
+GDP per Capita,scenario,2017,18518.738883157177
+GDP per Capita,scenario,2018,18987.89228224512
+GDP per Capita,scenario,2019,19347.33280922026
+GDP per Capita,scenario,2020,18626.99865664736
+GDP per Capita,scenario,2021,19682.056080009792
+GDP per Capita,scenario,2022,20224.04405228489
+GDP per Capita,scenario,2023,20744.59200383607
+GDP per Capita,scenario,2024,21366.361152405767
+GDP per Capita,scenario,2025,21795.44679284579
+GDP per Capita,scenario,2026,22235.504271241894
+GDP per Capita,scenario,2027,22690.877954855052
+GDP per Capita,scenario,2028,23130.31799184562
+GDP per Capita,scenario,2029,23569.26256345592
+GDP per Capita,scenario,2030,24010.166031350545
+GDP per Capita,scenario,2031,24451.822852092504
+GDP per Capita,scenario,2032,24893.89474290128
+GDP per Capita,scenario,2033,25337.32833669618
+GDP per Capita,scenario,2034,25782.843765314443
+GDP per Capita,scenario,2035,26231.551232135018
+GDP per Capita,scenario,2036,26684.114027806765
+GDP per Capita,scenario,2037,27141.049337579578
+GDP per Capita,scenario,2038,27602.94653406087
+GDP per Capita,scenario,2039,28070.203906437106
+GDP per Capita,scenario,2040,28541.989475432056
+GDP per Capita,scenario,2041,29017.00960316085
+GDP per Capita,scenario,2042,29494.235987503478
+GDP per Capita,scenario,2043,29972.72363330796
+GDP per Capita,scenario,2044,30452.819834263177
+GDP per Capita,scenario,2045,30935.448694034447
+GDP per Capita,scenario,2046,31420.92802572626
+GDP per Capita,scenario,2047,31909.562694981458
+GDP per Capita,scenario,2048,32401.858336885703
+GDP per Capita,scenario,2049,32897.69629701519
+GDP per Capita,scenario,2050,33397.4620510771
+GDP per Capita,scenario,2051,33900.62493410962
+GDP per Capita,scenario,2052,34406.67381003352
+GDP per Capita,scenario,2053,34916.15742990179
+GDP per Capita,scenario,2054,35427.95718346182
+GDP per Capita,scenario,2055,35940.902901328016
+GDP per Capita,scenario,2056,36455.55656879934
+GDP per Capita,scenario,2057,36973.10839316762
+GDP per Capita,scenario,2058,37493.910310366206
+GDP per Capita,scenario,2059,38017.85985246879
+GDP per Capita,scenario,2060,38545.77564965303
+GDP per Capita,scenario,2061,39078.235895676335
+GDP per Capita,scenario,2062,39614.671034865605
+GDP per Capita,scenario,2063,40154.4111509297
+GDP per Capita,scenario,2064,40697.95937187385
+GDP per Capita,scenario,2065,41246.172566783775
+GDP per Capita,scenario,2066,41800.18261725367
+GDP per Capita,scenario,2067,42360.23619845438
+GDP per Capita,scenario,2068,42926.27214342896
+GDP per Capita,scenario,2069,43498.81589401383
+GDP per Capita,scenario,2070,44078.31177207857
+GDP per Capita,scenario,2071,44665.13439678286
+GDP per Capita,scenario,2072,45259.60992470135
+GDP per Capita,scenario,2073,45861.451848373734
+GDP per Capita,scenario,2074,46469.553730021515
+GDP per Capita,scenario,2075,47082.81678966846
+GDP per Capita,scenario,2076,47699.745363156646
+GDP per Capita,scenario,2077,48319.38776255309
+GDP per Capita,scenario,2078,48943.000009501906
+GDP per Capita,scenario,2079,49571.36519541776
+GDP per Capita,scenario,2080,50205.226577289366
+GDP per Capita,scenario,2081,50847.85666923812
+GDP per Capita,scenario,2082,51499.68719360308
+GDP per Capita,scenario,2083,52160.32439341302
+GDP per Capita,scenario,2084,52830.04477743077
+GDP per Capita,scenario,2085,53507.6432567735
+GDP per Capita,scenario,2086,54192.92271811272
+GDP per Capita,scenario,2087,54885.492591849295
+GDP per Capita,scenario,2088,55585.12557023977
+GDP per Capita,scenario,2089,56292.79417121662
+GDP per Capita,scenario,2090,57008.95056260748
+GDP per Capita,scenario,2091,57736.521380787344
+GDP per Capita,scenario,2092,58477.28729802612
+GDP per Capita,scenario,2093,59230.4127945893
+GDP per Capita,scenario,2094,59995.89872385292
+GDP per Capita,scenario,2095,60773.31836444323
+GDP per Capita,scenario,2096,61561.314089266045
+GDP per Capita,scenario,2097,62360.949739235904
+GDP per Capita,scenario,2098,63172.79167359577
+GDP per Capita,scenario,2099,63995.3172934828
+GDP per Capita,scenario,2100,64828.15391041822
+GDP per Capita Growth Rate,baseline,1990,0
+GDP per Capita Growth Rate,baseline,1991,-0.8348981237277318
+GDP per Capita Growth Rate,baseline,1992,-0.2869285198148753
+GDP per Capita Growth Rate,baseline,1993,-0.014502765943760279
+GDP per Capita Growth Rate,baseline,1994,1.1372427557638989
+GDP per Capita Growth Rate,baseline,1995,1.5696921116201574
+GDP per Capita Growth Rate,baseline,1996,2.176537351558011
+GDP per Capita Growth Rate,baseline,1997,2.436183459432624
+GDP per Capita Growth Rate,baseline,1998,1.0880650598816577
+GDP per Capita Growth Rate,baseline,1999,2.1637027186785054
+GDP per Capita Growth Rate,baseline,2000,3.271751790159052
+GDP per Capita Growth Rate,baseline,2001,1.0352193585584963
+GDP per Capita Growth Rate,baseline,2002,1.395133947899967
+GDP per Capita Growth Rate,baseline,2003,2.2947001735349324
+GDP per Capita Growth Rate,baseline,2004,3.672382915620582
+GDP per Capita Growth Rate,baseline,2005,3.160210214939898
+GDP per Capita Growth Rate,baseline,2006,3.725111375385473
+GDP per Capita Growth Rate,baseline,2007,3.7255153974314545
+GDP per Capita Growth Rate,baseline,2008,1.4731288836199883
+GDP per Capita Growth Rate,baseline,2009,-1.9625877743114184
+GDP per Capita Growth Rate,baseline,2010,3.637263956091199
+GDP per Capita Growth Rate,baseline,2011,2.576220989538748
+GDP per Capita Growth Rate,baseline,2012,1.7992015780367405
+GDP per Capita Growth Rate,baseline,2013,1.9375484468890303
+GDP per Capita Growth Rate,baseline,2014,2.1330863935621576
+GDP per Capita Growth Rate,baseline,2015,2.0528457181079514
+GDP per Capita Growth Rate,baseline,2016,2.000453889496556
+GDP per Capita Growth Rate,baseline,2017,2.5580580057435736
+GDP per Capita Growth Rate,baseline,2018,2.4677645960701358
+GDP per Capita Growth Rate,baseline,2019,1.8530878864826696
+GDP per Capita Growth Rate,baseline,2020,-3.850695179749496
+GDP per Capita Growth Rate,baseline,2021,5.354741808936255
+GDP per Capita Growth Rate,baseline,2022,2.68080336840989
+GDP per Capita Growth Rate,baseline,2023,2.5023392259027575
+GDP per Capita Growth Rate,baseline,2024,3.2286551445293874
+GDP per Capita Growth Rate,baseline,2025,1.987033874568583
+GDP per Capita Growth Rate,baseline,2026,2.0062569289809105
+GDP per Capita Growth Rate,baseline,2027,2.038324830249171
+GDP per Capita Growth Rate,baseline,2028,1.89018993494386
+GDP per Capita Growth Rate,baseline,2029,1.8662992774564464
+GDP per Capita Growth Rate,baseline,2030,1.8377703406041854
+GDP per Capita Growth Rate,baseline,2031,1.8038400566331887
+GDP per Capita Growth Rate,baseline,2032,1.7730074123004993
+GDP per Capita Growth Rate,baseline,2033,1.7455919594942348
+GDP per Capita Growth Rate,baseline,2034,1.7216975749373364
+GDP per Capita Growth Rate,baseline,2035,1.7019054908678641
+GDP per Capita Growth Rate,baseline,2036,1.6836398064534903
+GDP per Capita Growth Rate,baseline,2037,1.6668018547505266
+GDP per Capita Growth Rate,baseline,2038,1.6528966576441113
+GDP per Capita Growth Rate,baseline,2039,1.6402359603999273
+GDP per Capita Growth Rate,baseline,2040,1.6211405500037652
+GDP per Capita Growth Rate,baseline,2041,1.6007063169322218
+GDP per Capita Growth Rate,baseline,2042,1.5760997362501277
+GDP per Capita Growth Rate,baseline,2043,1.5521293607119726
+GDP per Capita Growth Rate,baseline,2044,1.52938068901594
+GDP per Capita Growth Rate,baseline,2045,1.5101895597834405
+GDP per Capita Growth Rate,baseline,2046,1.4910849622033109
+GDP per Capita Growth Rate,baseline,2047,1.4741673958693273
+GDP per Capita Growth Rate,baseline,2048,1.4584829989514836
+GDP per Capita Growth Rate,baseline,2049,1.442236456056098
+GDP per Capita Growth Rate,baseline,2050,1.4278418597373295
+GDP per Capita Growth Rate,baseline,2051,1.4105795894245796
+GDP per Capita Growth Rate,baseline,2052,1.395261573003341
+GDP per Capita Growth Rate,baseline,2053,1.3796565509924241
+GDP per Capita Growth Rate,baseline,2054,1.360564715629488
+GDP per Capita Growth Rate,baseline,2055,1.340709160445761
+GDP per Capita Growth Rate,baseline,2056,1.323789336455766
+GDP per Capita Growth Rate,baseline,2057,1.3099283419898469
+GDP per Capita Growth Rate,baseline,2058,1.2969333922688004
+GDP per Capita Growth Rate,baseline,2059,1.284880243483706
+GDP per Capita Growth Rate,baseline,2060,1.2749577256514633
+GDP per Capita Growth Rate,baseline,2061,1.2654895207123293
+GDP per Capita Growth Rate,baseline,2062,1.2554946596062706
+GDP per Capita Growth Rate,baseline,2063,1.2454158152508614
+GDP per Capita Growth Rate,baseline,2064,1.237706602956221
+GDP per Capita Growth Rate,baseline,2065,1.2310029188041522
+GDP per Capita Growth Rate,baseline,2066,1.227671988265164
+GDP per Capita Growth Rate,baseline,2067,1.22433315224602
+GDP per Capita Growth Rate,baseline,2068,1.221457564794688
+GDP per Capita Growth Rate,baseline,2069,1.2197560834089534
+GDP per Capita Growth Rate,baseline,2070,1.2187268952657893
+GDP per Capita Growth Rate,baseline,2071,1.2179782046336167
+GDP per Capita Growth Rate,baseline,2072,1.2183228026456772
+GDP per Capita Growth Rate,baseline,2073,1.2167065695370982
+GDP per Capita Growth Rate,baseline,2074,1.2131167553359907
+GDP per Capita Growth Rate,baseline,2075,1.2085505178177691
+GDP per Capita Growth Rate,baseline,2076,1.2023054303219158
+GDP per Capita Growth Rate,baseline,2077,1.1948270193724555
+GDP per Capita Growth Rate,baseline,2078,1.190229603448144
+GDP per Capita Growth Rate,baseline,2079,1.185930381924678
+GDP per Capita Growth Rate,baseline,2080,1.1836824039504616
+GDP per Capita Growth Rate,baseline,2081,1.1866434178094072
+GDP per Capita Growth Rate,baseline,2082,1.188986529676334
+GDP per Capita Growth Rate,baseline,2083,1.1906047239923916
+GDP per Capita Growth Rate,baseline,2084,1.192245474995884
+GDP per Capita Growth Rate,baseline,2085,1.1916824366783767
+GDP per Capita Growth Rate,baseline,2086,1.1916300009134195
+GDP per Capita Growth Rate,baseline,2087,1.1916221771949094
+GDP per Capita Growth Rate,baseline,2088,1.1924025843963053
+GDP per Capita Growth Rate,baseline,2089,1.1942690557466118
+GDP per Capita Growth Rate,baseline,2090,1.1952307537735827
+GDP per Capita Growth Rate,baseline,2091,1.2016807914829346
+GDP per Capita Growth Rate,baseline,2092,1.2078206310216684
+GDP per Capita Growth Rate,baseline,2093,1.212566806959286
+GDP per Capita Growth Rate,baseline,2094,1.2172121185294775
+GDP per Capita Growth Rate,baseline,2095,1.220902391178462
+GDP per Capita Growth Rate,baseline,2096,1.2221096210122449
+GDP per Capita Growth Rate,baseline,2097,1.225697815217723
+GDP per Capita Growth Rate,baseline,2098,1.2281175901554993
+GDP per Capita Growth Rate,baseline,2099,1.2289240481044783
+GDP per Capita Growth Rate,baseline,2100,1.2297242028086042
+GDP per Capita Growth Rate,scenario,1990,0
+GDP per Capita Growth Rate,scenario,1991,-0.8348981237277318
+GDP per Capita Growth Rate,scenario,1992,-0.2869285198148753
+GDP per Capita Growth Rate,scenario,1993,-0.014502765943760279
+GDP per Capita Growth Rate,scenario,1994,1.1372427557638989
+GDP per Capita Growth Rate,scenario,1995,1.5696921116201574
+GDP per Capita Growth Rate,scenario,1996,2.176537351558011
+GDP per Capita Growth Rate,scenario,1997,2.436183459432624
+GDP per Capita Growth Rate,scenario,1998,1.0880650598816577
+GDP per Capita Growth Rate,scenario,1999,2.1637027186785054
+GDP per Capita Growth Rate,scenario,2000,3.271751790159052
+GDP per Capita Growth Rate,scenario,2001,1.0352193585584963
+GDP per Capita Growth Rate,scenario,2002,1.395133947899967
+GDP per Capita Growth Rate,scenario,2003,2.2947001735349324
+GDP per Capita Growth Rate,scenario,2004,3.672382915620582
+GDP per Capita Growth Rate,scenario,2005,3.160210214939898
+GDP per Capita Growth Rate,scenario,2006,3.725111375385473
+GDP per Capita Growth Rate,scenario,2007,3.7255153974314545
+GDP per Capita Growth Rate,scenario,2008,1.4731288836199883
+GDP per Capita Growth Rate,scenario,2009,-1.9625877743114184
+GDP per Capita Growth Rate,scenario,2010,3.637263956091199
+GDP per Capita Growth Rate,scenario,2011,2.576220989538748
+GDP per Capita Growth Rate,scenario,2012,1.7992015780367405
+GDP per Capita Growth Rate,scenario,2013,1.9375484468890303
+GDP per Capita Growth Rate,scenario,2014,2.1330863935621576
+GDP per Capita Growth Rate,scenario,2015,2.0528457181079514
+GDP per Capita Growth Rate,scenario,2016,2.000453889496556
+GDP per Capita Growth Rate,scenario,2017,2.5580580057435736
+GDP per Capita Growth Rate,scenario,2018,2.4677645960701358
+GDP per Capita Growth Rate,scenario,2019,1.8530878864826696
+GDP per Capita Growth Rate,scenario,2020,-3.850695179749496
+GDP per Capita Growth Rate,scenario,2021,5.354741809073181
+GDP per Capita Growth Rate,scenario,2022,2.6808033685336423
+GDP per Capita Growth Rate,scenario,2023,2.5023392259420696
+GDP per Capita Growth Rate,scenario,2024,3.2286551444885196
+GDP per Capita Growth Rate,scenario,2025,1.9917180794084937
+GDP per Capita Growth Rate,scenario,2026,2.009929263378798
+GDP per Capita Growth Rate,scenario,2027,2.0422015868038748
+GDP per Capita Growth Rate,scenario,2028,1.8940984756519543
+GDP per Capita Growth Rate,scenario,2029,1.870277663994968
+GDP per Capita Growth Rate,scenario,2030,1.84226041505079
+GDP per Capita Growth Rate,scenario,2031,1.8088621021633098
+GDP per Capita Growth Rate,scenario,2032,1.7797559060604171
+GDP per Capita Growth Rate,scenario,2033,1.7548963089718816
+GDP per Capita Growth Rate,scenario,2034,1.7343826986506685
+GDP per Capita Growth Rate,scenario,2035,1.7186263289206445
+GDP per Capita Growth Rate,scenario,2036,1.704640860290961
+GDP per Capita Growth Rate,scenario,2037,1.6921255588718547
+GDP per Capita Growth Rate,scenario,2038,1.6828911790746943
+GDP per Capita Growth Rate,scenario,2039,1.675127164761828
+GDP per Capita Growth Rate,scenario,2040,1.6596648697970406
+GDP per Capita Growth Rate,scenario,2041,1.642665783572334
+GDP per Capita Growth Rate,scenario,2042,1.6208314204872332
+GDP per Capita Growth Rate,scenario,2043,1.600151228390417
+GDP per Capita Growth Rate,scenario,2044,1.581115425396332
+GDP per Capita Growth Rate,scenario,2045,1.5660664370160666
+GDP per Capita Growth Rate,scenario,2046,1.5508687007082942
+GDP per Capita Growth Rate,scenario,2047,1.538070165893665
+GDP per Capita Growth Rate,scenario,2048,1.5265323758852576
+GDP per Capita Growth Rate,scenario,2049,1.514219991999261
+GDP per Capita Growth Rate,scenario,2050,1.5037441893329797
+GDP per Capita Growth Rate,scenario,2051,1.4894495703202382
+GDP per Capita Growth Rate,scenario,2052,1.4777606602517845
+GDP per Capita Growth Rate,scenario,2053,1.4654435986444356
+GDP per Capita Growth Rate,scenario,2054,1.4485052467468185
+GDP per Capita Growth Rate,scenario,2055,1.430499784866161
+GDP per Capita Growth Rate,scenario,2056,1.4157198357730134
+GDP per Capita Growth Rate,scenario,2057,1.40402018259215
+GDP per Capita Growth Rate,scenario,2058,1.3928126127588303
+GDP per Capita Growth Rate,scenario,2059,1.3826511746798023
+GDP per Capita Growth Rate,scenario,2060,1.3747754495768896
+GDP per Capita Growth Rate,scenario,2061,1.366487877540703
+GDP per Capita Growth Rate,scenario,2062,1.3567238415960854
+GDP per Capita Growth Rate,scenario,2063,1.3465740884156177
+GDP per Capita Growth Rate,scenario,2064,1.3393083136153405
+GDP per Capita Growth Rate,scenario,2065,1.3327463194720879
+GDP per Capita Growth Rate,scenario,2066,1.329644344499257
+GDP per Capita Growth Rate,scenario,2067,1.3260935322639666
+GDP per Capita Growth Rate,scenario,2068,1.3229813525545002
+GDP per Capita Growth Rate,scenario,2069,1.3211921305311136
+GDP per Capita Growth Rate,scenario,2070,1.3202166790304706
+GDP per Capita Growth Rate,scenario,2071,1.319290798885118
+GDP per Capita Growth Rate,scenario,2072,1.3198793895137564
+GDP per Capita Growth Rate,scenario,2073,1.3177622486226142
+GDP per Capita Growth Rate,scenario,2074,1.3123501839369052
+GDP per Capita Growth Rate,scenario,2075,1.3048260678141144
+GDP per Capita Growth Rate,scenario,2076,1.2952213394129812
+GDP per Capita Growth Rate,scenario,2077,1.2845637550277351
+GDP per Capita Growth Rate,scenario,2078,1.2777549779821609
+GDP per Capita Growth Rate,scenario,2079,1.2711873726755203
+GDP per Capita Growth Rate,scenario,2080,1.2676574441670978
+GDP per Capita Growth Rate,scenario,2081,1.270329444176878
+GDP per Capita Growth Rate,scenario,2082,1.272103264455541
+GDP per Capita Growth Rate,scenario,2083,1.2732002167419196
+GDP per Capita Growth Rate,scenario,2084,1.2739034466560462
+GDP per Capita Growth Rate,scenario,2085,1.2714338289758769
+GDP per Capita Growth Rate,scenario,2086,1.2685712411277639
+GDP per Capita Growth Rate,scenario,2087,1.2648103970163302
+GDP per Capita Growth Rate,scenario,2088,1.2624165451895237
+GDP per Capita Growth Rate,scenario,2089,1.2623850234959075
+GDP per Capita Growth Rate,scenario,2090,1.2614321488901634
+GDP per Capita Growth Rate,scenario,2091,1.268260534423017
+GDP per Capita Growth Rate,scenario,2092,1.2745298647134489
+GDP per Capita Growth Rate,scenario,2093,1.2790784125244898
+GDP per Capita Growth Rate,scenario,2094,1.2833738817289246
+GDP per Capita Growth Rate,scenario,2095,1.2865817803638946
+GDP per Capita Growth Rate,scenario,2096,1.2866819282667892
+GDP per Capita Growth Rate,scenario,2097,1.2904840116336092
+GDP per Capita Growth Rate,scenario,2098,1.2922623145879044
+GDP per Capita Growth Rate,scenario,2099,1.2916951198952986
+GDP per Capita Growth Rate,scenario,2100,1.29143166563249
+Reduction in GDP from Climate Impacts,baseline,1990,0
+Reduction in GDP from Climate Impacts,baseline,1991,0
+Reduction in GDP from Climate Impacts,baseline,1992,0
+Reduction in GDP from Climate Impacts,baseline,1993,0
+Reduction in GDP from Climate Impacts,baseline,1994,0
+Reduction in GDP from Climate Impacts,baseline,1995,0
+Reduction in GDP from Climate Impacts,baseline,1996,0
+Reduction in GDP from Climate Impacts,baseline,1997,0
+Reduction in GDP from Climate Impacts,baseline,1998,0
+Reduction in GDP from Climate Impacts,baseline,1999,0
+Reduction in GDP from Climate Impacts,baseline,2000,0
+Reduction in GDP from Climate Impacts,baseline,2001,0
+Reduction in GDP from Climate Impacts,baseline,2002,0.34569115835679787
+Reduction in GDP from Climate Impacts,baseline,2003,0.6874841188092451
+Reduction in GDP from Climate Impacts,baseline,2004,0.8635263844256724
+Reduction in GDP from Climate Impacts,baseline,2005,0.9923651058415972
+Reduction in GDP from Climate Impacts,baseline,2006,1.0093367805615094
+Reduction in GDP from Climate Impacts,baseline,2007,1.1167096262478138
+Reduction in GDP from Climate Impacts,baseline,2008,1.4752317592349073
+Reduction in GDP from Climate Impacts,baseline,2009,2.0341068751727365
+Reduction in GDP from Climate Impacts,baseline,2010,2.71039312194713
+Reduction in GDP from Climate Impacts,baseline,2011,3.4203036216523652
+Reduction in GDP from Climate Impacts,baseline,2012,4.095459920992461
+Reduction in GDP from Climate Impacts,baseline,2013,4.875930661003991
+Reduction in GDP from Climate Impacts,baseline,2014,5.684937063075967
+Reduction in GDP from Climate Impacts,baseline,2015,6.372359966488583
+Reduction in GDP from Climate Impacts,baseline,2016,6.935008367209705
+Reduction in GDP from Climate Impacts,baseline,2017,7.366838680987287
+Reduction in GDP from Climate Impacts,baseline,2018,7.7513312338985845
+Reduction in GDP from Climate Impacts,baseline,2019,8.126346398843642
+Reduction in GDP from Climate Impacts,baseline,2020,8.573087326096074
+Reduction in GDP from Climate Impacts,baseline,2021,9.061933109349118
+Reduction in GDP from Climate Impacts,baseline,2022,9.505231003861425
+Reduction in GDP from Climate Impacts,baseline,2023,9.913903031266912
+Reduction in GDP from Climate Impacts,baseline,2024,10.295284685094552
+Reduction in GDP from Climate Impacts,baseline,2025,10.665848952351087
+Reduction in GDP from Climate Impacts,baseline,2026,11.034508054966219
+Reduction in GDP from Climate Impacts,baseline,2027,11.390266199861365
+Reduction in GDP from Climate Impacts,baseline,2028,11.730459864811538
+Reduction in GDP from Climate Impacts,baseline,2029,12.059681616048945
+Reduction in GDP from Climate Impacts,baseline,2030,12.383388735450062
+Reduction in GDP from Climate Impacts,baseline,2031,12.706799656178491
+Reduction in GDP from Climate Impacts,baseline,2032,13.031981216526557
+Reduction in GDP from Climate Impacts,baseline,2033,13.356447656150062
+Reduction in GDP from Climate Impacts,baseline,2034,13.67740934058832
+Reduction in GDP from Climate Impacts,baseline,2035,13.991336106871898
+Reduction in GDP from Climate Impacts,baseline,2036,14.295831351186195
+Reduction in GDP from Climate Impacts,baseline,2037,14.59031955507404
+Reduction in GDP from Climate Impacts,baseline,2038,14.874054147015304
+Reduction in GDP from Climate Impacts,baseline,2039,15.145234759217052
+Reduction in GDP from Climate Impacts,baseline,2040,15.406398615539818
+Reduction in GDP from Climate Impacts,baseline,2041,15.662479913117766
+Reduction in GDP from Climate Impacts,baseline,2042,15.917231475760541
+Reduction in GDP from Climate Impacts,baseline,2043,16.17260872566343
+Reduction in GDP from Climate Impacts,baseline,2044,16.42683653015855
+Reduction in GDP from Climate Impacts,baseline,2045,16.677719732927756
+Reduction in GDP from Climate Impacts,baseline,2046,16.923867101974142
+Reduction in GDP from Climate Impacts,baseline,2047,17.164401142265618
+Reduction in GDP from Climate Impacts,baseline,2048,17.397933770474072
+Reduction in GDP from Climate Impacts,baseline,2049,17.624144712170008
+Reduction in GDP from Climate Impacts,baseline,2050,17.842903112320986
+Reduction in GDP from Climate Impacts,baseline,2051,18.055678010128183
+Reduction in GDP from Climate Impacts,baseline,2052,18.26295158460284
+Reduction in GDP from Climate Impacts,baseline,2053,18.463681168073332
+Reduction in GDP from Climate Impacts,baseline,2054,18.660436666250558
+Reduction in GDP from Climate Impacts,baseline,2055,18.855809786342892
+Reduction in GDP from Climate Impacts,baseline,2056,19.049708934293385
+Reduction in GDP from Climate Impacts,baseline,2057,19.24129765633863
+Reduction in GDP from Climate Impacts,baseline,2058,19.43067169683288
+Reduction in GDP from Climate Impacts,baseline,2059,19.617587337836206
+Reduction in GDP from Climate Impacts,baseline,2060,19.800840671649965
+Reduction in GDP from Climate Impacts,baseline,2061,19.980806301318943
+Reduction in GDP from Climate Impacts,baseline,2062,20.159638654932767
+Reduction in GDP from Climate Impacts,baseline,2063,20.338667743739926
+Reduction in GDP from Climate Impacts,baseline,2064,20.51706231528826
+Reduction in GDP from Climate Impacts,baseline,2065,20.69380136718274
+Reduction in GDP from Climate Impacts,baseline,2066,20.868535132920897
+Reduction in GDP from Climate Impacts,baseline,2067,21.041037094780535
+Reduction in GDP from Climate Impacts,baseline,2068,21.211364543702473
+Reduction in GDP from Climate Impacts,baseline,2069,21.37889349688423
+Reduction in GDP from Climate Impacts,baseline,2070,21.542880623728557
+Reduction in GDP from Climate Impacts,baseline,2071,21.70307925043229
+Reduction in GDP from Climate Impacts,baseline,2072,21.85905843822774
+Reduction in GDP from Climate Impacts,baseline,2073,22.010923597356136
+Reduction in GDP from Climate Impacts,baseline,2074,22.160698880103947
+Reduction in GDP from Climate Impacts,baseline,2075,22.310762248319215
+Reduction in GDP from Climate Impacts,baseline,2076,22.46254937522323
+Reduction in GDP from Climate Impacts,baseline,2077,22.616167958454703
+Reduction in GDP from Climate Impacts,baseline,2078,22.770406999612604
+Reduction in GDP from Climate Impacts,baseline,2079,22.924178073464773
+Reduction in GDP from Climate Impacts,baseline,2080,23.076447977268934
+Reduction in GDP from Climate Impacts,baseline,2081,23.22526662807598
+Reduction in GDP from Climate Impacts,baseline,2082,23.369805488546337
+Reduction in GDP from Climate Impacts,baseline,2083,23.51011709174059
+Reduction in GDP from Climate Impacts,baseline,2084,23.64647650725127
+Reduction in GDP from Climate Impacts,baseline,2085,23.780060807799476
+Reduction in GDP from Climate Impacts,baseline,2086,23.912444616618846
+Reduction in GDP from Climate Impacts,baseline,2087,24.04515137678589
+Reduction in GDP from Climate Impacts,baseline,2088,24.178596288555674
+Reduction in GDP from Climate Impacts,baseline,2089,24.31149219921025
+Reduction in GDP from Climate Impacts,baseline,2090,24.44297100846031
+Reduction in GDP from Climate Impacts,baseline,2091,24.571500224970755
+Reduction in GDP from Climate Impacts,baseline,2092,24.69559014790097
+Reduction in GDP from Climate Impacts,baseline,2093,24.815778272971357
+Reduction in GDP from Climate Impacts,baseline,2094,24.932479540486963
+Reduction in GDP from Climate Impacts,baseline,2095,25.046042558526615
+Reduction in GDP from Climate Impacts,baseline,2096,25.157135902154092
+Reduction in GDP from Climate Impacts,baseline,2097,25.265524311691046
+Reduction in GDP from Climate Impacts,baseline,2098,25.371032517055202
+Reduction in GDP from Climate Impacts,baseline,2099,25.474899555545726
+Reduction in GDP from Climate Impacts,baseline,2100,25.57755874683021
+Reduction in GDP from Climate Impacts,scenario,1990,0
+Reduction in GDP from Climate Impacts,scenario,1991,0
+Reduction in GDP from Climate Impacts,scenario,1992,0
+Reduction in GDP from Climate Impacts,scenario,1993,0
+Reduction in GDP from Climate Impacts,scenario,1994,0
+Reduction in GDP from Climate Impacts,scenario,1995,0
+Reduction in GDP from Climate Impacts,scenario,1996,0
+Reduction in GDP from Climate Impacts,scenario,1997,0
+Reduction in GDP from Climate Impacts,scenario,1998,0
+Reduction in GDP from Climate Impacts,scenario,1999,0
+Reduction in GDP from Climate Impacts,scenario,2000,0
+Reduction in GDP from Climate Impacts,scenario,2001,0
+Reduction in GDP from Climate Impacts,scenario,2002,0
+Reduction in GDP from Climate Impacts,scenario,2003,0
+Reduction in GDP from Climate Impacts,scenario,2004,0
+Reduction in GDP from Climate Impacts,scenario,2005,0
+Reduction in GDP from Climate Impacts,scenario,2006,0
+Reduction in GDP from Climate Impacts,scenario,2007,0
+Reduction in GDP from Climate Impacts,scenario,2008,0
+Reduction in GDP from Climate Impacts,scenario,2009,0
+Reduction in GDP from Climate Impacts,scenario,2010,0.07377807882760212
+Reduction in GDP from Climate Impacts,scenario,2011,0.7776861693535309
+Reduction in GDP from Climate Impacts,scenario,2012,1.4383792439642828
+Reduction in GDP from Climate Impacts,scenario,2013,2.2141651548686636
+Reduction in GDP from Climate Impacts,scenario,2014,3.015003176718789
+Reduction in GDP from Climate Impacts,scenario,2015,3.682397027292983
+Reduction in GDP from Climate Impacts,scenario,2016,4.2174046200660005
+Reduction in GDP from Climate Impacts,scenario,2017,4.61833839303476
+Reduction in GDP from Climate Impacts,scenario,2018,4.977885405400661
+Reduction in GDP from Climate Impacts,scenario,2019,5.335518904228509
+Reduction in GDP from Climate Impacts,scenario,2020,5.778439162088079
+Reduction in GDP from Climate Impacts,scenario,2021,6.2671035003489255
+Reduction in GDP from Climate Impacts,scenario,2022,6.704168808392053
+Reduction in GDP from Climate Impacts,scenario,2023,7.104647544362496
+Reduction in GDP from Climate Impacts,scenario,2024,7.477678966038814
+Reduction in GDP from Climate Impacts,scenario,2025,7.842020553762885
+Reduction in GDP from Climate Impacts,scenario,2026,8.206733075420159
+Reduction in GDP from Climate Impacts,scenario,2027,8.558791979923397
+Reduction in GDP from Climate Impacts,scenario,2028,8.89521274384788
+Reduction in GDP from Climate Impacts,scenario,2029,9.220639546963694
+Reduction in GDP from Climate Impacts,scenario,2030,9.540237899271187
+Reduction in GDP from Climate Impacts,scenario,2031,9.85902041483876
+Reduction in GDP from Climate Impacts,scenario,2032,10.178427848260597
+Reduction in GDP from Climate Impacts,scenario,2033,10.494981263082837
+Reduction in GDP from Climate Impacts,scenario,2034,10.805134610876156
+Reduction in GDP from Climate Impacts,scenario,2035,11.10468292180109
+Reduction in GDP from Climate Impacts,scenario,2036,11.390859596524304
+Reduction in GDP from Climate Impacts,scenario,2037,11.66301317822599
+Reduction in GDP from Climate Impacts,scenario,2038,11.920225462551382
+Reduction in GDP from Climate Impacts,scenario,2039,12.160444265542314
+Reduction in GDP from Climate Impacts,scenario,2040,12.386820712836034
+Reduction in GDP from Climate Impacts,scenario,2041,12.605019749988777
+Reduction in GDP from Climate Impacts,scenario,2042,12.819182736003377
+Reduction in GDP from Climate Impacts,scenario,2043,13.031327048773278
+Reduction in GDP from Climate Impacts,scenario,2044,13.239193909945978
+Reduction in GDP from Climate Impacts,scenario,2045,13.440196264691561
+Reduction in GDP from Climate Impacts,scenario,2046,13.632897867102422
+Reduction in GDP from Climate Impacts,scenario,2047,13.816457308010232
+Reduction in GDP from Climate Impacts,scenario,2048,13.989363426223278
+Reduction in GDP from Climate Impacts,scenario,2049,14.151410961572108
+Reduction in GDP from Climate Impacts,scenario,2050,14.30258143281108
+Reduction in GDP from Climate Impacts,scenario,2051,14.44483990893638
+Reduction in GDP from Climate Impacts,scenario,2052,14.578777794813202
+Reduction in GDP from Climate Impacts,scenario,2053,14.703165414941633
+Reduction in GDP from Climate Impacts,scenario,2054,14.821360228580238
+Reduction in GDP from Climate Impacts,scenario,2055,14.936641818650397
+Reduction in GDP from Climate Impacts,scenario,2056,15.048864625777092
+Reduction in GDP from Climate Impacts,scenario,2057,15.157028660134086
+Reduction in GDP from Climate Impacts,scenario,2058,15.261414505168657
+Reduction in GDP from Climate Impacts,scenario,2059,15.361905874385151
+Reduction in GDP from Climate Impacts,scenario,2060,15.457130729960223
+Reduction in GDP from Climate Impacts,scenario,2061,15.547830397792628
+Reduction in GDP from Climate Impacts,scenario,2062,15.63707381649645
+Reduction in GDP from Climate Impacts,scenario,2063,15.726762502631619
+Reduction in GDP from Climate Impacts,scenario,2064,15.815894979270196
+Reduction in GDP from Climate Impacts,scenario,2065,15.903330248875381
+Reduction in GDP from Climate Impacts,scenario,2066,15.988819147863076
+Reduction in GDP from Climate Impacts,scenario,2067,16.072299909407363
+Reduction in GDP from Climate Impacts,scenario,2068,16.154035273733104
+Reduction in GDP from Climate Impacts,scenario,2069,16.233295626578137
+Reduction in GDP from Climate Impacts,scenario,2070,16.30917197256857
+Reduction in GDP from Climate Impacts,scenario,2071,16.38145517912799
+Reduction in GDP from Climate Impacts,scenario,2072,16.449598037434875
+Reduction in GDP from Climate Impacts,scenario,2073,16.513853937513556
+Reduction in GDP from Climate Impacts,scenario,2074,16.577309393274575
+Reduction in GDP from Climate Impacts,scenario,2075,16.64353910698906
+Reduction in GDP from Climate Impacts,scenario,2076,16.71468543574829
+Reduction in GDP from Climate Impacts,scenario,2077,16.790908367263825
+Reduction in GDP from Climate Impacts,scenario,2078,16.87038443200454
+Reduction in GDP from Climate Impacts,scenario,2079,16.951571043408155
+Reduction in GDP from Climate Impacts,scenario,2080,17.032986768488822
+Reduction in GDP from Climate Impacts,scenario,2081,17.111610741436046
+Reduction in GDP from Climate Impacts,scenario,2082,17.186377585987046
+Reduction in GDP from Climate Impacts,scenario,2083,17.257440831073588
+Reduction in GDP from Climate Impacts,scenario,2084,17.325247985273595
+Reduction in GDP from Climate Impacts,scenario,2085,17.39167921727136
+Reduction in GDP from Climate Impacts,scenario,2086,17.459226977917343
+Reduction in GDP from Climate Impacts,scenario,2087,17.530297174221086
+Reduction in GDP from Climate Impacts,scenario,2088,17.605430569900847
+Reduction in GDP from Climate Impacts,scenario,2089,17.68235320690933
+Reduction in GDP from Climate Impacts,scenario,2090,17.759602926608707
+Reduction in GDP from Climate Impacts,scenario,2091,17.834533111430652
+Reduction in GDP from Climate Impacts,scenario,2092,17.90463654032356
+Reduction in GDP from Climate Impacts,scenario,2093,17.970845995495132
+Reduction in GDP from Climate Impacts,scenario,2094,18.033781818383687
+Reduction in GDP from Climate Impacts,scenario,2095,18.093918795038867
+Reduction in GDP from Climate Impacts,scenario,2096,18.152304421463406
+Reduction in GDP from Climate Impacts,scenario,2097,18.208336697162185
+Reduction in GDP from Climate Impacts,scenario,2098,18.26160613683395
+Reduction in GDP from Climate Impacts,scenario,2099,18.31422145460643
+Reduction in GDP from Climate Impacts,scenario,2100,18.366778912791037
+Air Pollution from Energy,baseline,1990,13.148605576159753
+Air Pollution from Energy,baseline,1991,13.21473087034601
+Air Pollution from Energy,baseline,1992,13.245255526247657
+Air Pollution from Energy,baseline,1993,13.28514973589396
+Air Pollution from Energy,baseline,1994,13.347555005649506
+Air Pollution from Energy,baseline,1995,13.451837926753333
+Air Pollution from Energy,baseline,1996,13.597524470427865
+Air Pollution from Energy,baseline,1997,13.78884212974113
+Air Pollution from Energy,baseline,1998,14.010982342742327
+Air Pollution from Energy,baseline,1999,14.23774757977943
+Air Pollution from Energy,baseline,2000,14.511329879814983
+Air Pollution from Energy,baseline,2001,14.835187501291248
+Air Pollution from Energy,baseline,2002,15.147137378811703
+Air Pollution from Energy,baseline,2003,15.473057164466379
+Air Pollution from Energy,baseline,2004,15.852240084970866
+Air Pollution from Energy,baseline,2005,16.303852626732013
+Air Pollution from Energy,baseline,2006,16.800349415077847
+Air Pollution from Energy,baseline,2007,17.351980817406215
+Air Pollution from Energy,baseline,2008,17.93372409022731
+Air Pollution from Energy,baseline,2009,18.445835109558963
+Air Pollution from Energy,baseline,2010,18.87726747519297
+Air Pollution from Energy,baseline,2011,19.413140135987383
+Air Pollution from Energy,baseline,2012,19.976247340910852
+Air Pollution from Energy,baseline,2013,20.515701809791683
+Air Pollution from Energy,baseline,2014,21.03595734825245
+Air Pollution from Energy,baseline,2015,21.542014997802656
+Air Pollution from Energy,baseline,2016,22.000780591418764
+Air Pollution from Energy,baseline,2017,22.423562301066855
+Air Pollution from Energy,baseline,2018,22.830073143498367
+Air Pollution from Energy,baseline,2019,23.191684961306365
+Air Pollution from Energy,baseline,2020,23.407411439397833
+Air Pollution from Energy,baseline,2021,23.410522278625177
+Air Pollution from Energy,baseline,2022,23.525426338584193
+Air Pollution from Energy,baseline,2023,23.636154148278354
+Air Pollution from Energy,baseline,2024,23.703565897685912
+Air Pollution from Energy,baseline,2025,23.701668912950332
+Air Pollution from Energy,baseline,2026,23.62139791144863
+Air Pollution from Energy,baseline,2027,23.488459391159772
+Air Pollution from Energy,baseline,2028,23.320057707668354
+Air Pollution from Energy,baseline,2029,23.128380760173872
+Air Pollution from Energy,baseline,2030,22.917374318695998
+Air Pollution from Energy,baseline,2031,22.690870346610666
+Air Pollution from Energy,baseline,2032,22.453645453669893
+Air Pollution from Energy,baseline,2033,22.211390321605283
+Air Pollution from Energy,baseline,2034,21.97010501811571
+Air Pollution from Energy,baseline,2035,21.735437207180638
+Air Pollution from Energy,baseline,2036,21.512430815928543
+Air Pollution from Energy,baseline,2037,21.305377175959308
+Air Pollution from Energy,baseline,2038,21.117829497231448
+Air Pollution from Energy,baseline,2039,20.952742377466283
+Air Pollution from Energy,baseline,2040,20.812316828826358
+Air Pollution from Energy,baseline,2041,20.69746616064376
+Air Pollution from Energy,baseline,2042,20.60630974545623
+Air Pollution from Energy,baseline,2043,20.53667341044749
+Air Pollution from Energy,baseline,2044,20.48726551511122
+Air Pollution from Energy,baseline,2045,20.457786059559776
+Air Pollution from Energy,baseline,2046,20.44863314116024
+Air Pollution from Energy,baseline,2047,20.460254626098234
+Air Pollution from Energy,baseline,2048,20.493329035992204
+Air Pollution from Energy,baseline,2049,20.547893294935733
+Air Pollution from Energy,baseline,2050,20.623740222091907
+Air Pollution from Energy,baseline,2051,20.720532814012522
+Air Pollution from Energy,baseline,2052,20.837717188229366
+Air Pollution from Energy,baseline,2053,20.974218972425597
+Air Pollution from Energy,baseline,2054,21.12893102943648
+Air Pollution from Energy,baseline,2055,21.30060395494074
+Air Pollution from Energy,baseline,2056,21.487815429264394
+Air Pollution from Energy,baseline,2057,21.689190656207824
+Air Pollution from Energy,baseline,2058,21.90343195966266
+Air Pollution from Energy,baseline,2059,22.129055188650728
+Air Pollution from Energy,baseline,2060,22.364474465339143
+Air Pollution from Energy,baseline,2061,22.608180907161866
+Air Pollution from Energy,baseline,2062,22.858712508243162
+Air Pollution from Energy,baseline,2063,23.11472307423233
+Air Pollution from Energy,baseline,2064,23.374824366764567
+Air Pollution from Energy,baseline,2065,23.637294601594693
+Air Pollution from Energy,baseline,2066,23.900697374166946
+Air Pollution from Energy,baseline,2067,24.163774201689176
+Air Pollution from Energy,baseline,2068,24.425350231413226
+Air Pollution from Energy,baseline,2069,24.68353789774839
+Air Pollution from Energy,baseline,2070,24.936722647063824
+Air Pollution from Energy,baseline,2071,25.184473101329388
+Air Pollution from Energy,baseline,2072,25.42633232812623
+Air Pollution from Energy,baseline,2073,25.661778595687913
+Air Pollution from Energy,baseline,2074,25.89033895944376
+Air Pollution from Energy,baseline,2075,26.11161630999208
+Air Pollution from Energy,baseline,2076,26.325277599446434
+Air Pollution from Energy,baseline,2077,26.53102231808849
+Air Pollution from Energy,baseline,2078,26.72867739537727
+Air Pollution from Energy,baseline,2079,26.91833386729447
+Air Pollution from Energy,baseline,2080,27.100188465285616
+Air Pollution from Energy,baseline,2081,27.2745822850484
+Air Pollution from Energy,baseline,2082,27.442107112467724
+Air Pollution from Energy,baseline,2083,27.603354800771896
+Air Pollution from Energy,baseline,2084,27.758850749143765
+Air Pollution from Energy,baseline,2085,27.909080013456617
+Air Pollution from Energy,baseline,2086,28.054515489913264
+Air Pollution from Energy,baseline,2087,28.19569552022662
+Air Pollution from Energy,baseline,2088,28.333174671085313
+Air Pollution from Energy,baseline,2089,28.467498673823652
+Air Pollution from Energy,baseline,2090,28.599215079167866
+Air Pollution from Energy,baseline,2091,28.728856047424635
+Air Pollution from Energy,baseline,2092,28.857105227939847
+Air Pollution from Energy,baseline,2093,28.98464716275088
+Air Pollution from Energy,baseline,2094,29.111976949262335
+Air Pollution from Energy,baseline,2095,29.239516476929154
+Air Pollution from Energy,baseline,2096,29.367573761010423
+Air Pollution from Energy,baseline,2097,29.49634154132823
+Air Pollution from Energy,baseline,2098,29.626048723442032
+Air Pollution from Energy,baseline,2099,29.756830329207062
+Air Pollution from Energy,baseline,2100,29.88860507924717
+Air Pollution from Energy,scenario,1990,13.148605576159753
+Air Pollution from Energy,scenario,1991,13.214730870345765
+Air Pollution from Energy,scenario,1992,13.2452555256555
+Air Pollution from Energy,scenario,1993,13.285149725346034
+Air Pollution from Energy,scenario,1994,13.34755494927362
+Air Pollution from Energy,scenario,1995,13.451837755481213
+Air Pollution from Energy,scenario,1996,13.597524088697627
+Air Pollution from Energy,scenario,1997,13.788841420313009
+Air Pollution from Energy,scenario,1998,14.010981164508395
+Air Pollution from Energy,scenario,1999,14.237745765369137
+Air Pollution from Energy,scenario,2000,14.511327229310504
+Air Pollution from Energy,scenario,2001,14.835183776671514
+Air Pollution from Energy,scenario,2002,15.147132314209367
+Air Pollution from Energy,scenario,2003,15.473050454597688
+Air Pollution from Energy,scenario,2004,15.852231360418003
+Air Pollution from Energy,scenario,2005,16.30384142937033
+Air Pollution from Energy,scenario,2006,16.80033521521442
+Air Pollution from Energy,scenario,2007,17.351963026830365
+Air Pollution from Energy,scenario,2008,17.933702115367357
+Air Pollution from Energy,scenario,2009,18.44580852614354
+Air Pollution from Energy,scenario,2010,18.877235746812232
+Air Pollution from Energy,scenario,2011,19.413102939725366
+Air Pollution from Energy,scenario,2012,19.976204476195793
+Air Pollution from Energy,scenario,2013,20.515653080460865
+Air Pollution from Energy,scenario,2014,21.035902540283477
+Air Pollution from Energy,scenario,2015,21.541953872262383
+Air Pollution from Energy,scenario,2016,22.00071286591305
+Air Pollution from Energy,scenario,2017,22.423487574676948
+Air Pollution from Energy,scenario,2018,22.82999082135989
+Air Pollution from Energy,scenario,2019,23.191594306675285
+Air Pollution from Energy,scenario,2020,23.407311971526706
+Air Pollution from Energy,scenario,2021,23.41041402357429
+Air Pollution from Energy,scenario,2022,23.525308038908182
+Air Pollution from Energy,scenario,2023,23.636024964917738
+Air Pollution from Energy,scenario,2024,23.703424923622627
+Air Pollution from Energy,scenario,2025,23.701599695301688
+Air Pollution from Energy,scenario,2026,23.621627466449258
+Air Pollution from Energy,scenario,2027,23.489068361835102
+Air Pollution from Energy,scenario,2028,23.146648582920193
+Air Pollution from Energy,scenario,2029,22.68562847702128
+Air Pollution from Energy,scenario,2030,22.187797468421177
+Air Pollution from Energy,scenario,2031,21.649764602833773
+Air Pollution from Energy,scenario,2032,21.073352481095473
+Air Pollution from Energy,scenario,2033,20.465243714538556
+Air Pollution from Energy,scenario,2034,19.83375657417199
+Air Pollution from Energy,scenario,2035,19.186975191686518
+Air Pollution from Energy,scenario,2036,18.532316960636482
+Air Pollution from Energy,scenario,2037,17.875365115908156
+Air Pollution from Energy,scenario,2038,17.262565268048277
+Air Pollution from Energy,scenario,2039,16.68266060793865
+Air Pollution from Energy,scenario,2040,16.112725664353885
+Air Pollution from Energy,scenario,2041,15.495961866321489
+Air Pollution from Energy,scenario,2042,14.907080976809294
+Air Pollution from Energy,scenario,2043,14.297961189322535
+Air Pollution from Energy,scenario,2044,13.683808117013193
+Air Pollution from Energy,scenario,2045,13.092458001305898
+Air Pollution from Energy,scenario,2046,12.523705481180142
+Air Pollution from Energy,scenario,2047,11.97574607365408
+Air Pollution from Energy,scenario,2048,11.447726236757756
+Air Pollution from Energy,scenario,2049,10.940116246769062
+Air Pollution from Energy,scenario,2050,10.453228887798062
+Air Pollution from Energy,scenario,2051,9.987292945935595
+Air Pollution from Energy,scenario,2052,9.542687457091382
+Air Pollution from Energy,scenario,2053,9.119539148096957
+Air Pollution from Energy,scenario,2054,8.71781854307953
+Air Pollution from Energy,scenario,2055,8.337375780682068
+Air Pollution from Energy,scenario,2056,7.97793359988584
+Air Pollution from Energy,scenario,2057,7.63910117163158
+Air Pollution from Energy,scenario,2058,7.320437439707348
+Air Pollution from Energy,scenario,2059,7.021421969986109
+Air Pollution from Energy,scenario,2060,6.741354419699518
+Air Pollution from Energy,scenario,2061,6.47932479473973
+Air Pollution from Energy,scenario,2062,6.234548194593313
+Air Pollution from Energy,scenario,2063,6.023480700175308
+Air Pollution from Energy,scenario,2064,5.840395122811325
+Air Pollution from Energy,scenario,2065,5.671659020257406
+Air Pollution from Energy,scenario,2066,5.515571231936232
+Air Pollution from Energy,scenario,2067,5.3717697534550695
+Air Pollution from Energy,scenario,2068,5.240458575967057
+Air Pollution from Energy,scenario,2069,5.121398017543396
+Air Pollution from Energy,scenario,2070,5.013657465391313
+Air Pollution from Energy,scenario,2071,4.916139198632602
+Air Pollution from Energy,scenario,2072,4.8277463770888485
+Air Pollution from Energy,scenario,2073,4.74735200382267
+Air Pollution from Energy,scenario,2074,4.673737147429292
+Air Pollution from Energy,scenario,2075,4.605651714164712
+Air Pollution from Energy,scenario,2076,4.5419228946910755
+Air Pollution from Energy,scenario,2077,4.481571219786792
+Air Pollution from Energy,scenario,2078,4.423849601699141
+Air Pollution from Energy,scenario,2079,4.3682511111605535
+Air Pollution from Energy,scenario,2080,4.314445768031293
+Air Pollution from Energy,scenario,2081,4.274213004740753
+Air Pollution from Energy,scenario,2082,4.234692586311074
+Air Pollution from Energy,scenario,2083,4.196530110541282
+Air Pollution from Energy,scenario,2084,4.160269469391082
+Air Pollution from Energy,scenario,2085,4.125911971150845
+Air Pollution from Energy,scenario,2086,4.093211592208559
+Air Pollution from Energy,scenario,2087,4.061822016321605
+Air Pollution from Energy,scenario,2088,4.031461840729586
+Air Pollution from Energy,scenario,2089,4.001939962941638
+Air Pollution from Energy,scenario,2090,3.973151182157113
+Air Pollution from Energy,scenario,2091,3.9450475320801424
+Air Pollution from Energy,scenario,2092,3.9174668353233537
+Air Pollution from Energy,scenario,2093,3.89062437306116
+Air Pollution from Energy,scenario,2094,3.865102730646994
+Air Pollution from Energy,scenario,2095,3.8411584614533996
+Air Pollution from Energy,scenario,2096,3.8185886587826716
+Air Pollution from Energy,scenario,2097,3.7969310660824043
+Air Pollution from Energy,scenario,2098,3.7756954392948563
+Air Pollution from Energy,scenario,2099,3.754431503629365
+Air Pollution from Energy,scenario,2100,3.732761766431787
