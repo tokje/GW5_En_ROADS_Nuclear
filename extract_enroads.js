@@ -7,7 +7,7 @@
 //   2. Close the welcome dialog.
 //   3. Open the developer console (F12 -> Console), paste this whole file,
 //      edit RUN_NAME below if you like, and press Enter.
-//   4. A file  enroads_<RUN_NAME>.csv  is downloaded. Put it in  analysis/data/.
+//   4. A file  enroads_<RUN_NAME>.csv  is downloaded. Put it in data/.
 //
 // The script selects each graph from the "Graphs" menu, reads the plotted data
 // (annual values 1990-2100) and writes one row per graph, series and year:
